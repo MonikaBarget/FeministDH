@@ -1,0 +1,117 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5145528,35.8989085 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Jackson",
+    "Place":"Valetta, Malta",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7257,53.4683 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss K. Willcox",
+    "Place":"Recess, Ireland",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.18864,53.15164 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Thompson",
+    "Place":"Ballycrissane",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Thorp",
+    "Place":"Ahascragh",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes, but now in Ahascragh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7607338,53.0446268 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs. Bagot",
+    "Place":"Ballyturin / Gort",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs. Lambert",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2185406,53.0927811 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs.Moeran",
+    "Place":"Portumna",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"The Hon. Mrs. Wynne",
+    "Place":"Galway",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"no",
+    "1917-1918 report":"yes"
+    }
+  }
+]
+}

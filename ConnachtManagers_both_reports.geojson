@@ -1,0 +1,229 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4875618,53.3805093 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Alicia Johnston",
+    "Place":"Ballymacward",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0016434,53.5438159 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Henry",
+    "Place":"Moyard",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5499547,53.2879391 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Ismay",
+    "Place":"Costelloe",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.16667,54.11667 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Knox",
+    "Place":"Ballina",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss M Davidson",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2185406,53.0927811 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Matthews",
+    "Place":"Portumna",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0016434,53.5438159 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs A Irwin",
+    "Place":"Moyard",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Davidson",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3189472,53.4285481 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Doig",
+    "Place":"Oughterard",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0016434,53.5438159 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs France-Lushington-Tulloch",
+    "Place":"Moyard",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0016434,53.5438159 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs K Tulloch",
+    "Place":"Moyard",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2185406,53.0927811 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Moeran",
+    "Place":"Portumna",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Moon",
+    "Place":"Galway",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7257,53.4683 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Willcox",
+    "Place":"Recess, Ireland",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"The Hon. Lady Mahon",
+    "Place":"Ahascragh",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"The Misses Moon",
+    "Place":"Galway",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes"
+    }
+  }
+]
+}

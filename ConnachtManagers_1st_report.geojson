@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3257391,53.5225627 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"M Murphy",
+    "Place":"Ballygar",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.882709,53.4638208 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mirs Berridge",
+    "Place":"Ballynahinch",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3189472,53.4285481 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Bernard",
+    "Place":"Oughterard",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Glaser",
+    "Place":"Ahascragh",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Johnson",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3189472,53.4285481 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss M Monaghan",
+    "Place":"Oughterard",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Mabel Oliver",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Miss Mahon",
+    "Place":"Ahascragh",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4875618,53.3805093 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Forster",
+    "Place":"Ballymacward",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7453768,53.3008131 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Martin",
+    "Place":"Athenry",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0202388,53.4891345 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Ruttledge",
+    "Place":"Clifden",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"Mrs Thorp",
+    "Place":"Ballinasloe",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"yes, but now in Ahascragh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5499547,53.2879391 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"T. F. Crozier, Esq.",
+    "Place":"Costelloe",
+    "Notes in NLI edition of 1915-1916 report":"strikethrough",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Work party managers in Co. Galway (1916)":"The Lady Clonbrock",
+    "Place":"Ahascragh",
+    "Notes in NLI edition of 1915-1916 report":"",
+    "1915-1916 report":"yes",
+    "1917-1918 report":"no"
+    }
+  }
+]
+}

@@ -1,380 +1,380 @@
-Source_ID;Target_ID;Edge type;Weight;Source_Name;Target_Name;Date;Total no. sender:;Total no. recipient:;Item_ID;Item type;Contributor;Date added to new database
-per_013;per_023;directed;1;Charlie / Cormac Daly;Dick; [1920];72;1;6179;Letter;Kerry Library Tralee;2018-06-27T18:31:07+01:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; [1922];72;11;6465;Letter;Kerry Library Tralee;2018-06-21T15:49:21+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; [1922];72;95;6201;Letter;Kerry Library Tralee;2018-06-05T15:10:27+01:00
-per_022;per_028;directed;1;Denis Mahony;Ellen Daly; [1923];1;95;5085;Letter;Kerry Library Tralee;2018-06-18T15:06:37+01:00
-per_099;per_105;directed;1;Thomas Daly;unknown; [1923];21;16;5054;Letter;Kerry Library Tralee;2019-10-27T01:57:50+00:00
-per_019;per_057;directed;1;D¢mnall Ua Cathail;Mary / May / M†ire Daly; [February 1923];2;43;5110;Letter;Kerry Library Tralee;2018-06-18T15:58:40+01:00
-per_013;per_047;directed;1;Charlie / Cormac Daly;William / Willie / Liam Daly; [February 1923];72;21;5020;Letter;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; [February 1923];72;95;6225;Letter;Kerry Library Tralee;2018-06-27T18:23:51+01:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; [January 1920];72;16;6181;Letter;Kerry Library Tralee;2018-05-30T15:20:49+01:00
-per_045;per_013;directed;1;L. Breaney;Charlie / Cormac Daly; [January 1923];1;136;5032;Letter;Kerry Library Tralee;2018-06-14T11:58:47+01:00
-per_086;per_013;directed;1;S. Ua N£n†in;Charlie / Cormac Daly; [June 1918];3;136;6180;Envelope;Kerry Library Tralee;2018-06-27T18:28:54+01:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; [March 1920];72;16;6186;Letter;Kerry Library Tralee;2018-05-30T15:21:48+01:00
-per_018;per_009;directed;1;Cornelius Daly;C. I. Francis; [November 1923];3;1;6446;Letter;Kerry Library Tralee;2018-06-21T11:23:48+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; [September 1921];72;95;6189;Letter;Kerry Library Tralee;2018-05-30T15:12:38+01:00
-per_026;per_028;directed;1;Domhnall MacEarraig;Ellen Daly; 1 April 1923;1;95;5094;Letter;Kerry Library Tralee;2019-10-27T01:52:30+00:00
-per_061;per_013;directed;1;Mick Leary;Charlie / Cormac Daly; 1 December 1922;1;136;5026;Letter;Kerry Library Tralee;2018-06-29T10:12:40+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 1 December 1923;21;43;5394;Letter;Kerry Library Tralee;2018-02-01T15:57:54+00:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 1 February 1920;72;16;6184;Letter;Kerry Library Tralee;2018-05-30T15:21:28+01:00
-per_013;per_093;directed;1;Charlie / Cormac Daly;SinÇad Ring; 1 February 1923;72;1;5363;Letter;Kerry Library Tralee;2017-11-01T11:11:49+00:00
-per004_020;per_013;directed;1;Austin Stack and Darrell Figgis;Charlie / Cormac Daly; 1 January 1918;1;136;6174;Letter;Kerry Library Tralee;2018-05-30T15:19:13+01:00
-per_102;per_028;directed;1;UA Cuinneagain;Ellen Daly; 10 August 1923;1;95;5354;Letter;Kerry Library Tralee;2018-07-17T21:35:11+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 11 January 1923;72;95;6217;Letter;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 11 November 1923;21;43;5392;Letter;Kerry Library Tralee;2017-12-13T16:07:06+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 12 February 1923;72;95;6222;Letter;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_086;per_013;directed;1;S. Ua N£n†in;Charlie / Cormac Daly; 12 June 1918;3;136;6175;Letter;Kerry Library Tralee;2018-05-30T15:19:25+01:00
-per_047;per_028;directed;1;William / Willie / Liam Daly;Ellen Daly; 12 March 1923;15;95;6435;Letter;Kerry Library Tralee;2018-06-21T09:37:48+01:00
-per_047;per_028;directed;1;William / Willie / Liam Daly;Ellen Daly; 12 March 1923;15;95;5425;Letter;Kerry Library Tralee;2018-02-01T14:57:45+00:00
-per_099;per_094;directed;1;Thomas Daly;Susan Daly; 12 March 1923;21;28;5401;Letter;Kerry Library Tralee;2017-12-07T16:54:19+00:00
-per_024;per_099;directed;1;Director of Organisation;Thomas Daly; 12 November 1920;2;5;6177;Letter;Kerry Library Tralee;2018-06-27T18:34:33+01:00
-per_013;per_077;directed;1;Charlie / Cormac Daly;Patrick Lynch; 12 November 1921;72;1;5008;Letter;Kerry Library Tralee;2019-10-27T02:06:01+00:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 13 February 1923;72;11;6473;Letter;Kerry Library Tralee;2019-06-24T09:39:40+00:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 13 January 1920;72;16;6182;Letter;Kerry Library Tralee;2018-05-30T15:20:58+01:00
-per_013;per_008;directed;1;Charlie / Cormac Daly;C.; 13 July 1922;72;1;5025;Letter;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_012;per_028;directed;1;Charles McGinley;Ellen Daly; 13 June 1923;2;95;5061;Letter;Kerry Library Tralee;2019-10-27T01:53:58+00:00
-per_099;per_042;directed;1;Thomas Daly;Katherine Allman; 13 November 1922;21;11;6634;Letter;Kerry Library Tralee;2019-05-09T10:31:01+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 13 September 1922;72;95;6203;Letter;Kerry Library Tralee;2018-06-05T15:11:14+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 14 December 1923;21;43;5399;Letter;Kerry Library Tralee;2017-12-14T13:18:24+00:00
-per_013;per_047;directed;1;Charlie / Cormac Daly;William / Willie / Liam Daly; 14 March 1923;72;21;5021;Letter;Kerry Library Tralee;2018-06-29T11:19:42+01:00
-per_013;per_094;directed;1;Charlie / Cormac Daly;Susan Daly; 14 March 1923;72;28;5004;Letter;Kerry Library Tralee;2019-10-27T02:06:32+00:00
-per_013;per_018;directed;1;Charlie / Cormac Daly;Cornelius Daly; 14 March 1923;72;11;6450;Letter;Kerry Library Tralee;2018-06-21T11:41:48+01:00
-per_013;per_047;directed;1;Charlie / Cormac Daly;William / Willie / Liam Daly; 14 March 1923;72;21;6436;Letter;Kerry Library Tralee;2018-06-21T09:39:27+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 14 March 1923;72;95;6227;Letter;Kerry Library Tralee;2018-06-27T18:20:50+01:00
-per_013;per_047;directed;1;Charlie / Cormac Daly;William / Willie / Liam Daly; 14 March 1923;72;21;5424;Letter;Kerry Library Tralee;2018-09-01T13:57:41+00:00
-per_017;per_013;directed;1;Con Sullivan;Charlie / Cormac Daly; 15 February 1923;1;136;5045;Letter;Kerry Library Tralee;2018-06-27T17:01:26+01:00
-per_018;per_047;directed;1;Cornelius Daly;William / Willie / Liam Daly; 15 June 1923;3;21;6458;Letter;Kerry Library Tralee;2018-06-21T13:12:40+01:00
-per_104;per_097;directed;1;W. G. Kelly Senior;the Daly Family; 15 March 1923;1;1;5086;Telegraph;Kerry Library Tralee;2018-10-21T20:08:14+00:00
-per_085;per_028;directed;1;S. O'Brien;Ellen Daly; 15 March 1923;1;95;6619;Letter;Kerry Library Tralee;2018-11-20T14:21:23+00:00
-per_081;per_018;directed;1;Rev. J. O'Flynn;Cornelius Daly; 15 March 1923;1;11;6453;Letter;Kerry Library Tralee;2018-06-21T11:56:57+01:00
-per030_101;per_018;directed;1;Thomas and Ellen Leonard;Cornelius Daly; 15 March 1923;1;11;6452;Letter;Kerry Library Tralee;2018-06-21T11:54:49+01:00
-per_034;per_018;directed;1;James J. Donaghy;Cornelius Daly; 15 March 1923;1;11;6451;Letter;Kerry Library Tralee;2018-06-21T11:53:02+01:00
-per_012;per_028;directed;1;Charles McGinley;Ellen Daly; 15 May 1923;2;95;5060;Letter;Kerry Library Tralee;2018-06-18T09:59:34+01:00
-per_099;per_063;directed;1;Thomas Daly;Midge; 15 October 1923;21;1;5052;Letter;Kerry Library Tralee;2018-07-02T12:48:00+01:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 16 January 1923;72;43;4985;Letter;Kerry Library Tralee;2018-06-27T18:16:38+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 16 July 1923;21;43;5389;Letter;Kerry Library Tralee;2017-12-13T13:36:04+00:00
-per_080;per_018;directed;1;R. E. Shanahan;Cornelius Daly; 16 March 1923;1;11;6454;Letter;Kerry Library Tralee;2018-06-21T11:59:18+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 16 November 1922;28;136;6205;Letter;Kerry Library Tralee;2018-06-05T15:12:03+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 17 December 1922;72;95;6210;Letter;Kerry Library Tralee;2018-06-05T15:18:04+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 17 December 1923;21;43;5400;Letter;Kerry Library Tralee;2017-12-13T12:18:06+00:00
-per_079;per_013;directed;1;Peadar O'D¢imh°n;Charlie / Cormac Daly; 17 January 1923;1;136;5036;Letter;Kerry Library Tralee;2018-06-14T12:10:27+01:00
-per_013;per_011;directed;1;Charlie / Cormac Daly;Cathal Brugha; 17 November 1921;72;1;5007;Letter;Kerry Library Tralee;2018-06-13T18:13:44+01:00
-per_011;per_013;directed;1;Cathal Brugha;Charlie / Cormac Daly; 17 November 1921;2;136;5006;Letter;Kerry Library Tralee;2018-06-13T18:13:44+01:00
-per_011;per_013;directed;1;Cathal Brugha;Charlie / Cormac Daly; 17 November 1921;2;136;6251;Letter;Kerry Library Tralee;2018-06-13T18:13:44+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 18 February 1923;72;95;6223;Letter;Kerry Library Tralee;2018-06-13T18:27:40+01:00
-per_100;per_018;directed;1;Thomas Donoghue;Cornelius Daly; 18 March 1923;1;11;6455;Letter;Kerry Library Tralee;2018-06-21T12:01:55+01:00
-per_021;per_018;directed;1;David Fitzgerald;Cornelius Daly; 19 April 1923;2;11;6457;Letter;Kerry Library Tralee;2018-06-21T13:10:40+01:00
-per_037;per_057;directed;1;Joe;Mary / May / M†ire Daly; 19 August 1923;1;43;5125;Letter;Kerry Library Tralee;2018-06-19T09:49:35+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 19 December 1921;72;95;6193;Letter;Kerry Library Tralee;2018-05-30T15:46:07+01:00
-per_018;per_013;directed;1;Cornelius Daly;Charlie / Cormac Daly; 19 February 1923;3;136;6448;Letter;Kerry Library Tralee;2018-06-21T11:30:26+01:00
-per_099;per_047;directed;1;Thomas Daly;William / Willie / Liam Daly; 19 June 1923;21;21;6440;Letter;Kerry Library Tralee;2018-06-21T09:56:17+01:00
-per_099;per_047;directed;1;Thomas Daly;William / Willie / Liam Daly; 19 June 1923;21;21;5383;Letter;Kerry Library Tralee;2018-02-23T12:27:09+00:00
-per_051;per_018;directed;1;M. Buckley;Cornelius Daly; 19 March 1923;1;11;6456;Letter;Kerry Library Tralee;2018-06-21T13:04:01+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 19 November 1922;72;95;6206;Letter;Kerry Library Tralee;2018-06-05T15:13:09+01:00
-per_060;per_028;directed;1;Michael Blake;Ellen Daly; 2 April 1923;1;95;5096;Letter;Kerry Library Tralee;2018-06-18T15:35:08+01:00
-per_016;per_099;directed;1;Con Lucy;Thomas Daly; 2 December 1923;2;5;5404;Letter;Kerry Library Tralee;2017-11-21T16:47:06+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 2 February 1923;72;43;4987;Letter;Kerry Library Tralee;2018-06-27T18:02:27+01:00
-per_046;per_013;directed;1;Leo Whelan;Charlie / Cormac Daly; 2 January 1923;2;136;6485;Letter;Kerry Library Tralee;2019-06-24T08:38:37+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 20 December 1921;72;95;6194;Letter;Kerry Library Tralee;2018-05-30T15:49:02+01:00
-per_019;per_013;directed;1;D¢mnall Ua Cathail;Charlie / Cormac Daly; 20 January 1923;2;136;5038;Letter;Kerry Library Tralee;2018-06-14T15:31:56+01:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 20 July 1922;72;11;6464;Letter;Kerry Library Tralee;2018-06-21T15:48:51+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 20 March 1922;72;95;6196;Letter;Kerry Library Tralee;2018-05-30T16:02:04+01:00
-per_088;per_099;directed;1;Se†n Lehane;Thomas Daly; 20 November 1923;1;5;5055;Letter;Kerry Library Tralee;2018-07-02T12:55:10+01:00
-per_099;per_098;directed;1;Thomas Daly;the Editor; 20 September 1923;21;1;5051;Letter;Kerry Library Tralee;2018-07-02T12:44:02+01:00
-per_047;per_094;directed;1;William / Willie / Liam Daly;Susan Daly; 21 April 1923;15;28;6439;Letter;Kerry Library Tralee;2018-06-21T09:53:46+01:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 21 February 1923;72;43;4989;Letter;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_047;per_013;directed;1;William / Willie / Liam Daly;Charlie / Cormac Daly; 21 February 1923;15;136;6431;Letter;Kerry Library Tralee;2018-06-21T09:29:12+01:00
-per_047;per_013;directed;1;William / Willie / Liam Daly;Charlie / Cormac Daly; 21 February 1923;15;136;5430;Letter;Kerry Library Tralee;2018-01-25T17:34:18+00:00
-per_078;per_057;directed;1;Patrick O'Connor;Mary / May / M†ire Daly; 21 January 1923;1;43;5108;Letter;Kerry Library Tralee;2018-06-18T15:55:36+01:00
-per_013;per_088;directed;1;Charlie / Cormac Daly;Se†n Lehane; 21 January 1923;72;1;5037;Letter;Kerry Library Tralee;2018-06-14T12:13:36+01:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 21 March 1920;72;16;6185;Letter;Kerry Library Tralee;2018-05-30T15:21:37+01:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 21 November 1922;72;11;6470;Letter;Kerry Library Tralee;2019-06-24T09:41:06+00:00
-per_046;per_013;directed;1;Leo Whelan;Charlie / Cormac Daly; 22 December 1922;2;136;6484;Card;Kerry Library Tralee;2019-06-24T08:40:29+00:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 22 December 1922;72;11;6471;Letter;Kerry Library Tralee;2019-06-24T09:40:23+00:00
-per_025;per_013;directed;1;Domhnall;Charlie / Cormac Daly; 22 February 1923;1;136;5047;Letter;Kerry Library Tralee;2018-06-27T17:02:54+01:00
-per_068;per_028;directed;1;Mrs MacFeely;Ellen Daly; 23 April 1923;5;95;5058;Letter;Kerry Library Tralee;2018-06-14T16:31:45+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 23 May 1923;21;43;5388;Letter;Kerry Library Tralee;2017-12-14T15:05:25+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 24 February 1923;72;43;4990;Letter;Kerry Library Tralee;2018-06-29T11:04:42+01:00
-per_024;per_013;directed;1;Director of Organisation;Charlie / Cormac Daly; 24 June 1921;2;136;5005;Letter;Kerry Library Tralee;2018-06-13T18:13:44+01:00
-per_086;per_013;directed;1;S. Ua N£n†in;Charlie / Cormac Daly; 24 May 1918;3;136;6176;Letter;Kerry Library Tralee;2018-05-30T15:19:36+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 24 November 1922;72;95;6207;Letter;Kerry Library Tralee;2018-06-05T15:13:18+01:00
-per_013;per_018;directed;1;Charlie / Cormac Daly;Cornelius Daly; 25 February 1923;72;11;6449;Letter;Kerry Library Tralee;2018-06-21T11:38:35+01:00
-per_099;per_094;directed;1;Thomas Daly;Susan Daly; 25 May 1923;21;28;5402;Letter;Kerry Library Tralee;2017-11-27T16:43:02+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 26 December 1922;72;95;6213;Letter;Kerry Library Tralee;2018-06-05T15:37:11+01:00
-per_087;per_013;directed;1;S. O. Gallagher;Charlie / Cormac Daly; 26 February 1923;1;136;5049;Letter;Kerry Library Tralee;2018-06-14T14:34:36+01:00
-per_021;per_013;directed;1;David Fitzgerald;Charlie / Cormac Daly; 26 February 1923;2;136;5048;Letter;Kerry Library Tralee;2018-06-27T17:03:28+01:00
-per_047;per_094;directed;1;William / Willie / Liam Daly;Susan Daly; 26 January 1923;15;28;5185;Letter;Kerry Library Tralee;2018-06-21T09:24:47+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 26 January 1923;72;95;6219;Letter;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_047;per_094;directed;1;William / Willie / Liam Daly;Susan Daly; 26 January 1923;15;28;5431;Letter;Kerry Library Tralee;2018-01-24T20:35:05+00:00
-per_015;per_028;directed;1;Colm O'Neill;Ellen Daly; 26 November 1923;1;95;5104;Letter;Kerry Library Tralee;2018-06-18T15:49:49+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 27 December 1922;72;95;6214;Letter;Kerry Library Tralee;2018-06-05T15:44:44+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 27 February 1923;72;95;6226;Letter;Kerry Library Tralee;2018-06-27T18:21:56+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 27 June 1922;72;95;6200;Letter;Kerry Library Tralee;2018-11-27T20:57:03+00:00
-per_050;per_013;directed;1;Lord Wimborne;Charlie / Cormac Daly; 27 November 1915;2;136;6173;Letter;Kerry Library Tralee;2018-05-30T15:19:01+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 28 August 1923;21;43;5391;Letter;Kerry Library Tralee;2017-12-14T15:50:58+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 28 January 1922;72;95;6195;Letter;Kerry Library Tralee;2018-05-30T15:59:26+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 28 March 1922;72;95;6197;Letter;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_099;per_067;directed;1;Thomas Daly;Mrs Browne; 28 November 1923;21;1;5053;Letter;Kerry Library Tralee;2019-10-27T01:59:13+00:00
-per_050;per_013;directed;1;Lord Wimborne;Charlie / Cormac Daly; 28 October 1915;2;136;6172;Letter;Kerry Library Tralee;2018-05-30T15:18:42+01:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 28 October 1921;72;43;4983;Letter;Kerry Library Tralee;2018-06-29T10:48:47+01:00
-per_033;per_065;directed;1;Hugh McLean;Miss Coates; 29 March 1923;1;1;5093;Letter;Kerry Library Tralee;2018-10-21T20:07:39+00:00
-per_032;per_028;directed;1;Henry Kennedy;Ellen Daly; 29 November 1921;1;95;6445;Letter;Kerry Library Tralee;2018-06-21T11:21:20+01:00
-per_013;per_018;directed;1;Charlie / Cormac Daly;Cornelius Daly; 3 December 1921;72;11;6192;Letter;Kerry Library Tralee;2018-05-30T15:43:15+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 3 March 1923;72;95;4993;Letter;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 30 July 1923;21;43;5390;Letter;Kerry Library Tralee;2017-12-13T14:54:01+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 30 June 1922;72;43;6202;Letter;Kerry Library Tralee;2018-06-05T15:10:52+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 30 November 1922;72;95;4995;Letter;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_013;per_094;directed;1;Charlie / Cormac Daly;Susan Daly; 30 November 1922;72;28;6208;Letter;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 30 October 1922;72;95;6466;Letter;Kerry Library Tralee;2018-06-21T15:49:48+01:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 31 January 1920;72;11;6183;Letter;Kerry Library Tralee;2018-05-30T15:21:17+01:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 31 October 1921;72;16;6190;Letter;Kerry Library Tralee;2018-05-30T15:15:58+01:00
-per_052;per_028;directed;1;M. MacMahon;Ellen Daly; 4 December 1923;1;95;5127;Letter;Kerry Library Tralee;2019-06-16T09:05:02+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 4 February 1923;72;43;6472;Letter;Kerry Library Tralee;2018-10-21T19:41:23+00:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 4 September 1922;72;11;6204;Letter;Kerry Library Tralee;2018-06-05T15:11:39+01:00
-per_099;per_057;directed;1;Thomas Daly;Mary / May / M†ire Daly; 5 December 1923;21;43;5398;Letter;Kerry Library Tralee;2017-12-13T12:17:06+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 5 March 1923;72;95;4994;Letter;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_047;per_057;directed;1;William / Willie / Liam Daly;Mary / May / M†ire Daly; 5 March 1923;15;43;6432;Letter;Kerry Library Tralee;2018-06-21T09:31:04+01:00
-per_047;per_057;directed;1;William / Willie / Liam Daly;Mary / May / M†ire Daly; 5 March 1923;15;43;5428;Letter;Kerry Library Tralee;2018-02-23T14:07:01+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 6 November 1922;72;43;6467;Letter;Kerry Library Tralee;2018-06-21T15:50:46+01:00
-per_047;per_057;directed;1;William / Willie / Liam Daly;Mary / May / M†ire Daly; 7 January 1923;15;43;6430;Letter;Kerry Library Tralee;2018-11-21T23:11:22+00:00
-per_013;per_042;directed;1;Charlie / Cormac Daly;Katherine Allman; 7 June 1920;72;11;6188;Letter;Kerry Library Tralee;2018-05-30T15:22:06+01:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 7 June 1920;72;43;4943;Letter;Kerry Library Tralee;2019-12-07T14:14:21+00:00
-per_047;per_105;directed;1;William / Willie / Liam Daly;unknown; 7 March 1923;15;16;6433;Letter;Kerry Library Tralee;2018-06-21T09:33:08+01:00
-per_047;per_105;directed;1;William / Willie / Liam Daly;unknown; 7 March 1923;15;16;5427;Letter;Kerry Library Tralee;2018-01-25T18:22:19+00:00
-per_013;per_013;directed;1;Charlie / Cormac Daly;Charlie / Cormac Daly; 7 May 1920;72;136;6187;Letter;Kerry Library Tralee;2018-05-30T15:21:57+01:00
-per_038;per_013;directed;1;John Gallagher;Charlie / Cormac Daly; 7 May 1923;1;136;5115;Letter;Kerry Library Tralee;2019-10-27T01:36:06+00:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 8 December 1922;72;16;6447;Letter;Kerry Library Tralee;2018-06-21T11:27:20+01:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 8 December 1922;72;43;6209;Letter;Kerry Library Tralee;2018-06-05T15:03:41+01:00
-per_071;per_018;directed;1;Neil Freant;Cornelius Daly; 8 March 1923;1;11;5050;Letter;Kerry Library Tralee;2018-06-14T14:38:00+01:00
-per_047;per_028;directed;1;William / Willie / Liam Daly;Ellen Daly; 8 March 1923;15;95;6434;Letter;Kerry Library Tralee;2018-06-21T09:35:36+01:00
-per_047;per_013;directed;1;William / Willie / Liam Daly;Charlie / Cormac Daly; 8 March 1923;15;136;5426;Letter;Kerry Library Tralee;2018-02-23T14:46:16+00:00
-per_099;per_105;directed;1;Thomas Daly;unknown; 8 November 1923;21;16;5397;Letter;Kerry Library Tralee;2017-12-13T12:15:54+00:00
-per_099;per_105;directed;1;Thomas Daly;unknown; 9 December 1923;21;16;6638;Letter;Kerry Library Tralee;2019-06-24T09:23:32+00:00
-per_013;per_057;directed;1;Charlie / Cormac Daly;Mary / May / M†ire Daly; 9 January 1923;72;43;5033;Letter;Kerry Library Tralee;2018-06-14T12:01:09+01:00
-per_099;per_028;directed;1;Thomas Daly;Ellen Daly; 9 July 1923;21;95;6441;Letter;Kerry Library Tralee;2018-06-21T09:58:04+01:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown; 9 November 1921;72;16;6191;Letter;Kerry Library Tralee;2018-05-30T15:26:24+01:00
-per_016;per_047;directed;1;Con Lucy;William / Willie / Liam Daly; 9 November 1923;2;21;5403;Letter;Kerry Library Tralee;2017-11-21T15:37:18+00:00
-per_041;per_028;directed;1;K. Casey;Ellen Daly; October 1923;3;95;5386;Letter;Kerry Library Tralee;2017-12-16T17:36:34+00:00
-per_047;per_099;directed;1;William / Willie / Liam Daly;Thomas Daly; Sunday 21st 1923;15;5;5382;Letter;Kerry Library Tralee;2018-01-11T16:49:41+00:00
-per_062;per_047;directed;1;Mick Timoney;William / Willie / Liam Daly;undated;1;21;5031;Letter;Kerry Library Tralee;2018-06-14T11:55:49+01:00
-per_013;per_094;directed;1;Charlie / Cormac Daly;Susan Daly;1922;72;28;5024;Letter;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_103;per_013;directed;1;W. D. Sheehan;Charlie / Cormac Daly;undated;1;136;6178;Letter;Kerry Library Tralee;2018-11-27T21:00:19+00:00
-per_013;per_105;directed;1;Charlie / Cormac Daly;unknown;undated;72;16;6171;Postcard;Kerry Library Tralee;2018-05-30T15:18:23+01:00
-per_006;per_013;directed;1;Bridget Hannigan;Charlie / Cormac Daly; 28 March 1923;2;136;6336;Letter ;Kerry Library Tralee;2018-06-18T15:26:58+01:00
-per_035;per_057;directed;1;Jennie Gallivan;Mary / May / M†ire Daly; 19 March 1923;2;43;6335;Letter ;Kerry Library Tralee;2018-06-18T15:24:20+01:00
-per_054;per_028;directed;1;Madge Rodgers;Ellen Daly; 17 March 1923;2;95;6334;Letter ;Kerry Library Tralee;2018-06-18T15:20:25+01:00
-per_092;per_028;directed;1;Sheila Nagle;Ellen Daly; 16 March 1923;2;95;6333;Letter ;Kerry Library Tralee;2018-06-18T15:18:04+01:00
-per_091;per_028;directed;1;Sheila Hartnett;Ellen Daly; 16 March 1923;2;95;6332;Letter ;Kerry Library Tralee;2018-06-18T15:15:55+01:00
-per_055;per_028;directed;1;Maggie Larkin;Ellen Daly; 15 March 1923;4;95;6331;Telegraph ;Kerry Library Tralee;2018-06-18T15:12:42+01:00
-per_066;per_028;directed;1;Mollie O'Connor;Ellen Daly; 4 April 1923;4;95;6328;Letter ;Kerry Library Tralee;2018-06-18T15:02:08+01:00
-per_096;per_028;directed;1;Susan O'Flaherty;Ellen Daly; 11 June 1923;8;95;6310;Letter ;Kerry Library Tralee;2018-06-18T10:43:49+01:00
-per_096;per_028;directed;1;Susan O'Flaherty;Ellen Daly; 26 April 1923;8;95;6309;Letter ;Kerry Library Tralee;2018-06-18T10:35:58+01:00
-per_058;per_028;directed;1;Mary Kelly;Ellen Daly; 19 December 1923;4;95;6308;Letter ;Kerry Library Tralee;2018-06-18T10:21:00+01:00
-per_058;per_028;directed;1;Mary Kelly;Ellen Daly; 26 November 1923;4;95;6307;Letter ;Kerry Library Tralee;2018-06-18T10:17:34+01:00
-per_068;per_028;directed;1;Mrs MacFeely;Ellen Daly; 19 June 1923;5;95;6304;Letter ;Kerry Library Tralee;2018-06-14T16:34:44+01:00
-per_068;per_028;directed;1;Mrs MacFeely;Ellen Daly; 5 April 1923;5;95;6302;Letter ;Kerry Library Tralee;2018-06-14T16:29:08+01:00
-per_005;per_013;directed;1;Bessie Harrington;Charlie / Cormac Daly; 20 February 1923;2;136;6291;Letter ;Kerry Library Tralee;2018-06-27T17:02:16+01:00
-per_010;per_013;directed;1;Caitl°n N° Aoda;Charlie / Cormac Daly; 10 February 1923;2;136;6289;Letter ;Kerry Library Tralee;2018-06-27T17:00:16+01:00
-per_084;per_013;directed;1;Rois°n N° Ceallaig;Charlie / Cormac Daly; 6 February 1923;2;136;6287;Letter ;Kerry Library Tralee;2018-06-27T16:59:14+01:00
-per_027;per_013;directed;1;Elizabeth Whelan;Charlie / Cormac Daly; 24 January 1923;10;136;6286;Letter ;Kerry Library Tralee;2018-06-27T16:58:39+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 28 January 1923;14;136;6285;Letter ;Kerry Library Tralee;2018-06-14T12:25:18+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 21 January 1923;28;136;6284;Letter ;Kerry Library Tralee;2018-06-14T12:20:58+01:00
-per_040;per_013;directed;1;Judy Daly;Charlie / Cormac Daly; 10 January 1923;2;136;6279;Letter ;Kerry Library Tralee;2018-06-14T12:03:57+01:00
-per_059;per_013;directed;1;Mary McFadden;Charlie / Cormac Daly; [December 1922];2;136;6275;Christmas card ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_053;per_013;directed;1;Madge Boner;Charlie / Cormac Daly; 20 December 1922;2;136;6274;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_072;per_013;directed;1;Nellie McGrath;Charlie / Cormac Daly; 20 December 1922;2;136;6273;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_048;per_013;directed;1;Lily Gerard;Charlie / Cormac Daly; 17 December 1922;2;136;6272;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_002;per_013;directed;1;µine N° Maolchiar†in;Charlie / Cormac Daly; [1922];2;136;6268;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_002;per_013;directed;1;µine N° Maolchiar†in;Charlie / Cormac Daly; 5 December 1922;2;136;6267;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_082;per_013;directed;1;Rita Murphy;Charlie / Cormac Daly; 19 February 1923;4;136;6264;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_082;per_013;directed;1;Rita Murphy;Charlie / Cormac Daly; 25 January 1923;4;136;6263;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_031;per_013;directed;1;H. McGrath;Charlie / Cormac Daly; 21 February 1923;4;136;6262;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_031;per_013;directed;1;H. McGrath;Charlie / Cormac Daly; 4 February 1923;4;136;6261;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; 1 March 1923;6;136;6260;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; 16 February 1923;6;136;6259;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; [December 1922];6;136;6258;Christmas Card ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_096;per_013;directed;1;Susan O'Flaherty;Charlie / Cormac Daly; 2 February 1923;8;136;6257;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_096;per_013;directed;1;Susan O'Flaherty;Charlie / Cormac Daly; [February 1923];8;136;6256;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [February 1923];33;136;6248;Letter ;Kerry Library Tralee;2018-06-29T11:09:38+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 5 February 1923;33;136;6247;Letter ;Kerry Library Tralee;2018-06-29T11:12:14+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 14 February 1923;33;136;6246;Letter ;Kerry Library Tralee;2018-06-29T11:18:02+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 29 January 1923;33;136;6245;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 18 December 1922;33;136;6244;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [December 1922];33;136;6243;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [December 1922];33;136;6242;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 8 December 1922;33;136;6241;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 26 February 1923;16;136;6236;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 14 February 1923;16;136;6233;Letter ;Kerry Library Tralee;2018-06-29T11:01:06+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 24 January 1923;16;136;6231;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 10 January 1923;16;136;6229;Letter ;Kerry Library Tralee;2018-06-27T18:18:00+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 21 February 1923;28;136;6224;Letter ;Kerry Library Tralee;2018-06-27T18:24:48+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 11 February 1923;28;136;6221;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_028;per_042;directed;1;Ellen Daly;Katherine Allman; 28 March 1923;28;11;6637;Letter ;Kerry Library Tralee;2019-06-24T09:24:15+00:00
-per_057;per_042;directed;1;Mary / May / M†ire Daly;Katherine Allman; 25 March 1923;16;11;6636;Letter ;Kerry Library Tralee;2019-05-09T10:28:03+00:00
-per_042;per_094;directed;1;Katherine Allman;Susan Daly; 1 December 1922;13;28;6635;Letter ;Kerry Library Tralee;2019-05-09T10:29:38+00:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; December 1922;28;136;6618;Letter ;Kerry Library Tralee;2018-11-20T14:28:24+00:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 26 January 1923;28;28;6613;Letter ;Kerry Library Tralee;2018-11-20T14:31:08+00:00
-per_070;per_013;directed;1;Nancy Daly;Charlie / Cormac Daly; 15 December 1922;3;136;6612;Letter ;Kerry Library Tralee;2018-11-20T14:33:21+00:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; 27 June 1923;10;95;6489;Letter ;Kerry Library Tralee;2019-06-24T08:27:53+00:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; 27 March 1923;10;95;6488;Letter ;Kerry Library Tralee;2018-07-25T11:04:23+01:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; [March 1923];10;95;6487;Letter ;Kerry Library Tralee;2018-07-25T11:04:23+01:00
-per_027;per_013;directed;1;Elizabeth Whelan;Charlie / Cormac Daly; 16 February 1923;10;136;6486;Letter ;Kerry Library Tralee;2019-06-24T08:34:44+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 8 February 1923;14;136;6483;Letter ;Kerry Library Tralee;2018-10-21T19:39:14+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; [February 1923];14;136;6482;Letter ;Kerry Library Tralee;2019-06-24T09:30:05+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 2 January 1923;14;136;6481;Letter ;Kerry Library Tralee;2019-06-24T09:31:21+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; [December 1922];14;136;6480;Christmas Card ;Kerry Library Tralee;2019-06-24T09:32:17+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 21 December 1922;14;136;6479;Letter ;Kerry Library Tralee;2019-06-24T09:33:24+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 4 December 1922;14;136;6478;Letter ;Kerry Library Tralee;2019-06-24T09:34:59+00:00
-per_042;per_057;directed;1;Katherine Allman;Mary / May / M†ire Daly; 6 June 1923;13;43;6477;Letter ;Kerry Library Tralee;2019-06-24T09:35:52+00:00
-per_042;per_057;directed;1;Katherine Allman;Mary / May / M†ire Daly; 15 April 1923;13;43;6476;Letter ;Kerry Library Tralee;2019-06-24T09:37:07+00:00
-per_042;per_028;directed;1;Katherine Allman;Ellen Daly; 17 March 1923;13;95;6475;Letter ;Kerry Library Tralee;2019-06-24T09:37:45+00:00
-per_042;per_028;directed;1;Katherine Allman;Ellen Daly; 9 February 1923;13;95;6474;Letter ;Kerry Library Tralee;2019-06-24T09:39:03+00:00
-per_042;per_013;directed;1;Katherine Allman;Charlie / Cormac Daly; 13 November 1922;13;136;6469;Letter ;Kerry Library Tralee;2019-06-24T09:42:14+00:00
-per_042;per_013;directed;1;Katherine Allman;Charlie / Cormac Daly; 9 November 1922;13;136;6468;Letter ;Kerry Library Tralee;2019-06-24T09:43:00+00:00
-per_029;per_094;directed;1;Ellen Mary / Nellie Daly;Susan Daly; 26 January 1923;4;28;6461;Letter ;Kerry Library Tralee;2018-10-22T15:10:50+00:00
-per_029;per_013;directed;1;Ellen Mary / Nellie Daly;Charlie / Cormac Daly; [December 1922];4;136;6460;Letter ;Kerry Library Tralee;2018-06-21T13:33:05+01:00
-per_070;per_013;directed;1;Nancy Daly;Charlie / Cormac Daly; 15 December 1922;3;136;6459;Letter ;Kerry Library Tralee;2018-06-21T13:31:13+01:00
-per_057;per_047;directed;1;Mary / May / M†ire Daly;William / Willie / Liam Daly; 6 April 1923;16;21;6443;Letter ;Kerry Library Tralee;2018-06-21T10:05:07+01:00
-per_041;per_047;directed;1;K. Casey;William / Willie / Liam Daly; [October 1923];3;21;6442;Letter ;Kerry Library Tralee;2018-06-21T10:02:08+01:00
-per_028;per_047;directed;1;Ellen Daly;William / Willie / Liam Daly; 9 April 1923;28;21;6438;Letter ;Kerry Library Tralee;2018-06-21T09:49:32+01:00
-per_094;per_047;directed;1;Susan Daly;William / Willie / Liam Daly; [March 1923];33;21;6437;Letter ;Kerry Library Tralee;2018-06-21T09:41:33+01:00
-per_036;per_094;directed;1;Jer Hannifin;Susan Daly; 30 September 1923;2;28;6428;Letter ;Kerry Library Tralee;2018-06-20T09:43:21+01:00
-per_064;per_094;directed;1;Minnie Daly;Susan Daly; 25 May 1923;2;28;6427;Letter ;Kerry Library Tralee;2018-06-20T09:39:56+01:00
-per_094;per_105;directed;1;Susan Daly;unknown; 6 April 1923;33;16;6425;Letter ;Kerry Library Tralee;2018-06-20T09:26:11+01:00
-per_043;per_094;directed;1;Kathleen Durcan;Susan Daly; 1 April 1923;6;28;6424;Letter ;Kerry Library Tralee;2018-06-20T09:23:22+01:00
-per_094;per_057;directed;1;Susan Daly;Mary / May / M†ire Daly; 12 April 1923;33;43;6421;Letter ;Kerry Library Tralee;2018-06-20T09:12:41+01:00
-per_094;per_057;directed;1;Susan Daly;Mary / May / M†ire Daly; 15 March 1923;33;43;6420;Letter ;Kerry Library Tralee;2018-06-20T09:08:52+01:00
-per_057;per_094;directed;1;Mary / May / M†ire Daly;Susan Daly; 29 January 1923;16;28;6419;Letter ;Kerry Library Tralee;2018-06-20T09:04:59+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 8 May 1923;28;28;6418;Letter ;Kerry Library Tralee;2018-06-20T08:52:10+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 24 April 1923;28;28;6417;Letter ;Kerry Library Tralee;2018-06-20T08:47:11+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 8 April 1923;33;95;6416;Letter ;Kerry Library Tralee;2018-06-20T08:40:37+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 27 March 1923;33;95;6415;Letter ;Kerry Library Tralee;2018-06-20T08:29:55+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 25 March 1923;28;28;6414;Letter ;Kerry Library Tralee;2018-06-20T08:22:08+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 21 March 1923;33;95;6413;Letter ;Kerry Library Tralee;2018-06-20T08:22:49+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; [March 1923];33;95;6412;Letter ;Kerry Library Tralee;2018-06-19T16:16:07+01:00
-per_001;per_057;directed;1;Amy;Mary / May / M†ire Daly; 15 March 1923;2;43;6357;Letter ;Kerry Library Tralee;2018-06-18T16:03:12+01:00
-per_043;per_057;directed;1;Kathleen Durcan;Mary / May / M†ire Daly; 17 April 1923;6;43;6356;Letter ;Kerry Library Tralee;2018-06-18T16:00:58+01:00
-per_066;per_057;directed;1;Mollie O'Connor;Mary / May / M†ire Daly; 9 December 1922;4;43;6350;Letter ;Kerry Library Tralee;2018-06-18T15:52:43+01:00
-per_003;per_028;directed;1;Anne O'Flanagan;Ellen Daly; 8 September 1923;2;95;6347;Letter ;Kerry Library Tralee;2018-06-18T15:47:27+01:00
-per_055;per_028;directed;1;Maggie Larkin;Ellen Daly; 1 July 1923;4;95;6345;Letter ;Kerry Library Tralee;2018-06-18T15:44:34+01:00
-per_056;per_028;directed;1;M†ire N° Dhonnghaile;Ellen Daly; 20 June 1923;2;95;6343;Letter ;Kerry Library Tralee;2018-06-18T15:41:07+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 4 February 1923;28;136;6220;Letter ;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 15 January 1923;28;136;6218;Letter ;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 7 January 1923;28;136;6216;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 1 January 1923;72;95;6215;Letter ;Kerry Library Tralee;2018-06-05T15:48:37+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 25 December 1922;28;136;6212;Letter ;Kerry Library Tralee;2018-06-05T15:32:06+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 19 December 1922;28;136;6211;Letter ;Kerry Library Tralee;2018-11-27T20:55:23+00:00
-per_094;per_047;directed;1;Susan Daly;William / Willie / Liam Daly; 9 April 1923;33;21;5433;Letter ;Kerry Library Tralee;2018-02-23T13:32:03+00:00
-per_057;per_047;directed;1;Mary / May / M†ire Daly;William / Willie / Liam Daly;1923;16;21;5432;Letter ;Kerry Library Tralee;2018-02-21T15:38:47+00:00
-per_057;per_099;directed;1;Mary / May / M†ire Daly;Thomas Daly; 23 October 1921;16;5;5423;Letter ;Kerry Library Tralee;2018-01-15T20:38:13+00:00
-per_057;per_047;directed;1;Mary / May / M†ire Daly;William / Willie / Liam Daly;1923;16;21;5387;Letter ;Kerry Library Tralee;2017-11-01T08:23:25+00:00
-per_074;per_028;directed;1;Nora O'Sullivan;Ellen Daly; 4 April 1923;3;95;5056;Letter ;Kerry Library Tralee;2018-10-09T12:23:00+00:00
-per_043;per_057;directed;1;Kathleen Durcan;Mary / May / M†ire Daly; 23 March 1923;6;43;5378;Letter ;Kerry Library Tralee;2018-02-26T18:55:07+00:00
-per_043;per_047;directed;1;Kathleen Durcan;William / Willie / Liam Daly; 19 March 1923;6;21;5377;Letters ;Kerry Library Tralee;2018-01-15T20:06:59+00:00
-per_083;per_028;directed;1;R¢ise N° Dh¢mhnaill;Ellen Daly;[1923];5;95;5376;Letter ;Kerry Library Tralee;2018-05-02T19:58:07+00:00
-per_007;per_076;directed;1;Brigid McCarron;one of Ellen Daly's children;[1923];2;1;5375;Letter ;Kerry Library Tralee;2017-11-01T14:27:33+00:00
-per_007;per_028;directed;1;Brigid McCarron;Ellen Daly;[March 1923];2;95;5374;Letter ;Kerry Library Tralee;2017-11-09T14:29:40+00:00
-per_083;per_013;directed;1;R¢ise N° Dh¢mhnaill;Charlie / Cormac Daly; [February/March 1923];5;136;5373;Letter ;Kerry Library Tralee;2017-11-01T14:06:41+00:00
-per_083;per_013;directed;1;R¢ise N° Dh¢mhnaill;Charlie / Cormac Daly; 17 February 1923;5;136;5372;Letter ;Kerry Library Tralee;2017-10-21T18:18:28+00:00
-per_083;per_013;directed;1;R¢ise N° Dh¢mhnaill;Charlie / Cormac Daly; [January 1923];5;136;5371;Letter ;Kerry Library Tralee;2017-11-01T13:31:19+00:00
-per_083;per_013;directed;1;R¢ise N° Dh¢mhnaill;Charlie / Cormac Daly; December 1922;5;136;5370;Letter ;Kerry Library Tralee;2018-07-06T14:16:47+00:00
-per_075;per_094;directed;1;Nora Ring;Susan Daly; 9 November 1923;2;28;5369;Letter ;Kerry Library Tralee;2017-10-27T14:02:55+00:00
-per_075;per_094;directed;1;Nora Ring;Susan Daly; March 1923;2;28;5368;Letter ;Kerry Library Tralee;2017-10-26T14:41:18+00:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; 27 June 1923;10;95;5245;Letter ;Kerry Library Tralee;2018-07-25T11:04:23+01:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; 27 March 1923;10;95;5244;Letter ;Kerry Library Tralee;2018-07-25T11:04:23+01:00
-per_027;per_028;directed;1;Elizabeth Whelan;Ellen Daly; [March 1923];10;95;5243;Letter ;Kerry Library Tralee;2018-07-25T11:04:23+01:00
-per_027;per_013;directed;1;Elizabeth Whelan;Charlie / Cormac Daly; 16 February 1923;10;136;5242;Letter ;Kerry Library Tralee;2019-06-16T08:58:38+00:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 8 February 1923;14;136;5239;Letter ;Kerry Library Tralee;2018-07-25T11:04:24+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; [February 1923];14;136;5238;Letter ;Kerry Library Tralee;2018-07-25T11:04:24+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 2 January 1923;14;136;5237;Letter ;Kerry Library Tralee;2018-07-25T11:04:24+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; [December 1922];14;136;5236;Christmas Card ;Kerry Library Tralee;2018-06-22T10:03:42+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 21 December 1922;14;136;5235;Letter ;Kerry Library Tralee;2018-06-22T10:01:18+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 4 December 1922;14;136;5234;Letter ;Kerry Library Tralee;2018-06-22T09:59:11+01:00
-per_042;per_057;directed;1;Katherine Allman;Mary / May / M†ire Daly; 6 June 1923;13;43;5233;Letter ;Kerry Library Tralee;2018-06-27T18:11:48+01:00
-per_042;per_057;directed;1;Katherine Allman;Mary / May / M†ire Daly; 15 April 1923;13;43;5232;Letter ;Kerry Library Tralee;2018-06-22T09:52:40+01:00
-per_042;per_028;directed;1;Katherine Allman;Ellen Daly; 17 March 1923;13;95;5231;Letter ;Kerry Library Tralee;2018-06-22T09:50:01+01:00
-per_042;per_028;directed;1;Katherine Allman;Ellen Daly; 9 February 1923;13;95;5230;Letter ;Kerry Library Tralee;2018-06-27T18:14:17+01:00
-per_042;per_013;directed;1;Katherine Allman;Charlie / Cormac Daly; 13 November 1922;13;136;5225;Letter ;Kerry Library Tralee;2018-06-21T15:51:10+01:00
-per_042;per_013;directed;1;Katherine Allman;Charlie / Cormac Daly; 9 November 1922;13;136;5224;Letter ;Kerry Library Tralee;2018-06-21T15:50:16+01:00
-per_029;per_094;directed;1;Ellen Mary / Nellie Daly;Susan Daly; 26 January 1923;4;28;5217;Letter ;Kerry Library Tralee;2018-06-21T13:36:09+01:00
-per_029;per_013;directed;1;Ellen Mary / Nellie Daly;Charlie / Cormac Daly; [December 1922];4;136;5216;Letter ;Kerry Library Tralee;2018-06-21T13:33:05+01:00
-per_070;per_013;directed;1;Nancy Daly;Charlie / Cormac Daly; 15 December 1922;3;136;5215;Letter ;Kerry Library Tralee;2018-06-21T13:31:13+01:00
-per_057;per_047;directed;1;Mary / May / M†ire Daly;William / Willie / Liam Daly; 6 April 1923;16;21;5199;Letter ;Kerry Library Tralee;2018-06-21T10:05:07+01:00
-per_041;per_047;directed;1;K. Casey;William / Willie / Liam Daly; [October 1923];3;21;5198;Letter ;Kerry Library Tralee;2018-06-21T10:02:08+01:00
-per_028;per_047;directed;1;Ellen Daly;William / Willie / Liam Daly; 9 April 1923;28;21;5194;Letter ;Kerry Library Tralee;2018-06-21T09:49:32+01:00
-per_094;per_047;directed;1;Susan Daly;William / Willie / Liam Daly; [March 1923];33;21;5193;Letter ;Kerry Library Tralee;2018-06-21T09:41:33+01:00
-per_036;per_094;directed;1;Jer Hannifin;Susan Daly; 30 September 1923;2;28;5184;Letter ;Kerry Library Tralee;2018-06-20T09:43:21+01:00
-per_064;per_094;directed;1;Minnie Daly;Susan Daly; 25 May 1923;2;28;5183;Letter ;Kerry Library Tralee;2018-06-20T09:39:56+01:00
-per_094;per_105;directed;1;Susan Daly;unknown; 6 April 1923;33;16;5181;Letter ;Kerry Library Tralee;2018-06-20T09:26:11+01:00
-per_043;per_094;directed;1;Kathleen Durcan;Susan Daly; 1 April 1923;6;28;5180;Letter ;Kerry Library Tralee;2018-06-20T09:23:22+01:00
-per_094;per_057;directed;1;Susan Daly;Mary / May / M†ire Daly; 12 April 1923;33;43;5177;Letter ;Kerry Library Tralee;2018-06-20T09:12:41+01:00
-per_094;per_057;directed;1;Susan Daly;Mary / May / M†ire Daly; 15 March 1923;33;43;5176;Letter ;Kerry Library Tralee;2018-06-20T09:08:52+01:00
-per_057;per_094;directed;1;Mary / May / M†ire Daly;Susan Daly; 29 January 1923;16;28;5175;Letter ;Kerry Library Tralee;2018-06-20T09:04:59+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 8 May 1923;28;28;5174;Letter ;Kerry Library Tralee;2018-06-20T08:52:10+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 24 April 1923;28;28;5173;Letter ;Kerry Library Tralee;2018-06-20T08:47:11+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 8 April 1923;33;95;5172;Letter ;Kerry Library Tralee;2019-06-16T09:00:07+00:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 27 March 1923;33;95;5171;Letter ;Kerry Library Tralee;2018-06-20T08:29:55+01:00
-per_028;per_094;directed;1;Ellen Daly;Susan Daly; 25 March 1923;28;28;5170;Letter ;Kerry Library Tralee;2018-06-20T08:22:08+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; 21 March 1923;33;95;5169;Letter ;Kerry Library Tralee;2018-06-20T08:22:49+01:00
-per_094;per_028;directed;1;Susan Daly;Ellen Daly; [March 1923];33;95;5168;Letter ;Kerry Library Tralee;2018-06-19T16:16:07+01:00
-per_074;per_057;directed;1;Nora O'Sullivan;Mary / May / M†ire Daly; 8 October 1923;3;43;5126;Letter ;Kerry Library Tralee;2018-06-19T09:52:13+01:00
-per_001;per_057;directed;1;Amy;Mary / May / M†ire Daly; 15 March 1923;2;43;5113;Letter ;Kerry Library Tralee;2018-06-18T16:03:12+01:00
-per_043;per_057;directed;1;Kathleen Durcan;Mary / May / M†ire Daly; 17 April 1923;6;43;5112;Letter ;Kerry Library Tralee;2018-06-18T16:00:58+01:00
-per_066;per_057;directed;1;Mollie O'Connor;Mary / May / M†ire Daly; 9 December 1922;4;43;5106;Letter ;Kerry Library Tralee;2018-06-18T15:52:43+01:00
-per_003;per_028;directed;1;Anne O'Flanagan;Ellen Daly; 8 September 1923;2;95;5103;Letter ;Kerry Library Tralee;2018-06-18T15:47:27+01:00
-per_055;per_028;directed;1;Maggie Larkin;Ellen Daly; 1 July 1923;4;95;5101;Letter ;Kerry Library Tralee;2018-06-18T15:44:34+01:00
-per_056;per_028;directed;1;M†ire N° Dhonnghaile;Ellen Daly; 20 June 1923;2;95;5099;Letter ;Kerry Library Tralee;2018-06-18T15:41:07+01:00
-per_006;per_028;directed;1;Bridget Hannigan;Ellen Daly; 28 March 1923;2;95;5092;Letter ;Kerry Library Tralee;2018-10-21T20:07:07+00:00
-per_035;per_028;directed;1;Jennie Gallivan;Ellen Daly; 19 March 1923;2;95;5091;Letter ;Kerry Library Tralee;2018-06-18T15:24:20+01:00
-per_054;per_028;directed;1;Madge Rodgers;Ellen Daly; 17 March 1923;2;95;5090;Letter ;Kerry Library Tralee;2018-06-18T15:20:25+01:00
-per_092;per_028;directed;1;Sheila Nagle;Ellen Daly; 16 March 1923;2;95;5089;Letter ;Kerry Library Tralee;2018-10-21T20:03:31+00:00
-per_091;per_028;directed;1;Sheila Hartnett;Ellen Daly; 16 March 1923;2;95;5088;Letter ;Kerry Library Tralee;2018-06-18T15:15:55+01:00
-per_055;per_028;directed;1;Maggie Larkin;Ellen Daly; 15 March 1923;4;95;5087;Telegraph ;Kerry Library Tralee;2018-06-18T15:12:42+01:00
-per_066;per_028;directed;1;Mollie O'Connor;Ellen Daly; 4 April 1923;4;95;5084;Letter ;Kerry Library Tralee;2018-10-21T20:08:43+00:00
-per_096;per_028;directed;1;Susan O'Flaherty;Ellen Daly; 11 June 1923;8;95;5065;Letter ;Kerry Library Tralee;2018-10-21T20:24:35+00:00
-per_096;per_028;directed;1;Susan O'Flaherty;Ellen Daly; 26 April 1923;8;95;5064;Letter ;Kerry Library Tralee;2018-10-21T20:18:53+00:00
-per_058;per_028;directed;1;Mary Kelly;Ellen Daly; 19 December 1923;4;95;5063;Letter ;Kerry Library Tralee;2018-10-21T20:25:03+00:00
-per_058;per_028;directed;1;Mary Kelly;Ellen Daly; 26 November 1923;4;95;5062;Letter ;Kerry Library Tralee;2018-06-18T10:17:34+01:00
-per_068;per_028;directed;1;Mrs MacFeely;Ellen Daly; 19 June 1923;5;95;5059;Letter ;Kerry Library Tralee;2019-06-16T09:06:11+00:00
-per_068;per_028;directed;1;Mrs MacFeely;Ellen Daly; 5 April 1923;5;95;5057;Letter ;Kerry Library Tralee;2018-06-14T16:29:08+01:00
-per_074;per_028;directed;1;Nora O'Sullivan;Ellen Daly; 4 April 1923;3;95;5056;Letter ;Kerry Library Tralee;2018-06-14T16:19:35+01:00
-per_005;per_013;directed;1;Bessie Harrington;Charlie / Cormac Daly; 20 February 1923;2;136;5046;Letter ;Kerry Library Tralee;2018-06-27T17:02:16+01:00
-per_010;per_013;directed;1;Caitl°n N° Aoda;Charlie / Cormac Daly; 10 February 1923;2;136;5044;Letter ;Kerry Library Tralee;2018-06-27T17:00:16+01:00
-per_084;per_013;directed;1;Rois°n N° Ceallaig;Charlie / Cormac Daly; 6 February 1923;2;136;5042;Letter ;Kerry Library Tralee;2018-06-27T16:59:14+01:00
-per_027;per_013;directed;1;Elizabeth Whelan;Charlie / Cormac Daly; 24 January 1923;10;136;5041;Letter ;Kerry Library Tralee;2018-06-27T16:58:39+01:00
-per_090;per_013;directed;1;Sheila Doogan;Charlie / Cormac Daly; 28 January 1923;14;136;5040;Letter ;Kerry Library Tralee;2018-06-14T12:25:18+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 21 January 1923;28;136;5039;Letter ;Kerry Library Tralee;2018-06-14T12:20:58+01:00
-per_040;per_013;directed;1;Judy Daly;Charlie / Cormac Daly; 10 January 1923;2;136;5034;Letter ;Kerry Library Tralee;2018-06-14T12:03:57+01:00
-per_059;per_013;directed;1;Mary McFadden;Charlie / Cormac Daly; [December 1922];2;136;5030;Christmas card ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_053;per_013;directed;1;Madge Boner;Charlie / Cormac Daly; 20 December 1922;2;136;5029;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_072;per_013;directed;1;Nellie McGrath;Charlie / Cormac Daly; 20 December 1922;2;136;5028;Letter ;Kerry Library Tralee;2018-10-18T17:08:42+00:00
-per_048;per_013;directed;1;Lily Gerard;Charlie / Cormac Daly; 17 December 1922;2;136;5027;Letter ;Kerry Library Tralee;2018-06-13T18:16:15+01:00
-per_082;per_013;directed;1;Rita Murphy;Charlie / Cormac Daly; 19 February 1923;4;136;5019;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_082;per_013;directed;1;Rita Murphy;Charlie / Cormac Daly; 25 January 1923;4;136;5018;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_031;per_013;directed;1;H. McGrath;Charlie / Cormac Daly; 21 February 1923;4;136;5017;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_031;per_013;directed;1;H. McGrath;Charlie / Cormac Daly; 4 February 1923;4;136;5016;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; 1 March 1923;6;136;5015;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; 16 February 1923;6;136;5014;Letter ;Kerry Library Tralee;2018-10-18T17:10:30+00:00
-per_014;per_013;directed;1;Cis Doherty;Charlie / Cormac Daly; [December 1922];6;136;5013;Christmas Card ;Kerry Library Tralee;2018-10-20T18:51:04+00:00
-per_096;per_013;directed;1;Susan O'Flaherty;Charlie / Cormac Daly; 2 February 1923;8;136;5012;Letter ;Kerry Library Tralee;2019-10-27T02:05:17+00:00
-per_096;per_013;directed;1;Susan O'Flaherty;Charlie / Cormac Daly; [February 1923];8;136;5011;Letter ;Kerry Library Tralee;2018-06-13T18:16:52+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [February 1923];33;136;5003;Letter ;Kerry Library Tralee;2018-06-29T11:09:38+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 5 February 1923;33;136;5002;Letter ;Kerry Library Tralee;2018-06-29T11:12:14+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 14 February 1923;33;136;5001;Letter ;Kerry Library Tralee;2018-06-29T11:18:02+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 29 January 1923;33;136;5000;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 18 December 1922;33;136;4999;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [December 1922];33;136;4998;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; [December 1922];33;136;4997;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_094;per_013;directed;1;Susan Daly;Charlie / Cormac Daly; 8 December 1922;33;136;4996;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 26 February 1923;16;136;4991;Letter ;Kerry Library Tralee;2018-06-13T18:56:13+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 14 February 1923;16;136;4988;Letter ;Kerry Library Tralee;2018-06-29T11:01:06+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 24 January 1923;16;136;4986;Letter ;Kerry Library Tralee;2018-06-27T18:01:15+01:00
-per_057;per_013;directed;1;Mary / May / M†ire Daly;Charlie / Cormac Daly; 10 January 1923;16;136;4984;Letter ;Kerry Library Tralee;2018-06-27T18:18:00+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 21 February 1923;28;136;4979;Letter ;Kerry Library Tralee;2019-10-27T02:07:33+00:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 11 February 1923;28;136;4976;Letter ;Kerry Library Tralee;2019-10-27T02:11:09+00:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 4 February 1923;28;136;4975;Letter ;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 15 January 1923;28;136;4973;Letter ;Kerry Library Tralee;2018-06-13T18:18:47+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 7 January 1923;28;136;4971;Letter ;Kerry Library Tralee;2019-10-27T02:08:40+00:00
-per_013;per_028;directed;1;Charlie / Cormac Daly;Ellen Daly; 1 January 1923;72;95;4970;Letter ;Kerry Library Tralee;2018-06-05T15:48:37+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 25 December 1922;28;136;4967;Letter ;Kerry Library Tralee;2018-06-05T15:32:06+01:00
-per_028;per_013;directed;1;Ellen Daly;Charlie / Cormac Daly; 19 December 1922;28;136;4966;Letter ;Kerry Library Tralee;2018-06-05T15:23:21+01:00
+Source_ID,Target_ID,Edge type,Weight,Source_Name,Target_Name,Date,Total no. sender:,Total no. recipient:,Item_ID,Item type,Contributor,Date added to new database
+per_013,per_023,directed,1,Charlie / Cormac Daly,Dick, [1920],72,1,6179,Letter,Kerry Library Tralee,2018-06-27T18:31:07+01:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, [1922],72,11,6465,Letter,Kerry Library Tralee,2018-06-21T15:49:21+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, [1922],72,95,6201,Letter,Kerry Library Tralee,2018-06-05T15:10:27+01:00
+per_022,per_028,directed,1,Denis Mahony,Ellen Daly, [1923],1,95,5085,Letter,Kerry Library Tralee,2018-06-18T15:06:37+01:00
+per_099,per_105,directed,1,Thomas Daly,unknown, [1923],21,16,5054,Letter,Kerry Library Tralee,2019-10-27T01:57:50+00:00
+per_019,per_057,directed,1,D√≥mnall Ua Cathail,Mary / May / M√°ire Daly, [February 1923],2,43,5110,Letter,Kerry Library Tralee,2018-06-18T15:58:40+01:00
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly, [February 1923],72,21,5020,Letter,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, [February 1923],72,95,6225,Letter,Kerry Library Tralee,2018-06-27T18:23:51+01:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, [January 1920],72,16,6181,Letter,Kerry Library Tralee,2018-05-30T15:20:49+01:00
+per_045,per_013,directed,1,L. Breaney,Charlie / Cormac Daly, [January 1923],1,136,5032,Letter,Kerry Library Tralee,2018-06-14T11:58:47+01:00
+per_086,per_013,directed,1,S. Ua N√∫n√°in,Charlie / Cormac Daly, [June 1918],3,136,6180,Envelope,Kerry Library Tralee,2018-06-27T18:28:54+01:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, [March 1920],72,16,6186,Letter,Kerry Library Tralee,2018-05-30T15:21:48+01:00
+per_018,per_009,directed,1,Cornelius Daly,C. I. Francis, [November 1923],3,1,6446,Letter,Kerry Library Tralee,2018-06-21T11:23:48+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, [September 1921],72,95,6189,Letter,Kerry Library Tralee,2018-05-30T15:12:38+01:00
+per_026,per_028,directed,1,Domhnall MacEarraig,Ellen Daly, 1 April 1923,1,95,5094,Letter,Kerry Library Tralee,2019-10-27T01:52:30+00:00
+per_061,per_013,directed,1,Mick Leary,Charlie / Cormac Daly, 1 December 1922,1,136,5026,Letter,Kerry Library Tralee,2018-06-29T10:12:40+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 1 December 1923,21,43,5394,Letter,Kerry Library Tralee,2018-02-01T15:57:54+00:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 1 February 1920,72,16,6184,Letter,Kerry Library Tralee,2018-05-30T15:21:28+01:00
+per_013,per_093,directed,1,Charlie / Cormac Daly,Sin√©ad Ring, 1 February 1923,72,1,5363,Letter,Kerry Library Tralee,2017-11-01T11:11:49+00:00
+per004_020,per_013,directed,1,Austin Stack and Darrell Figgis,Charlie / Cormac Daly, 1 January 1918,1,136,6174,Letter,Kerry Library Tralee,2018-05-30T15:19:13+01:00
+per_102,per_028,directed,1,UA Cuinneagain,Ellen Daly, 10 August 1923,1,95,5354,Letter,Kerry Library Tralee,2018-07-17T21:35:11+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 11 January 1923,72,95,6217,Letter,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 11 November 1923,21,43,5392,Letter,Kerry Library Tralee,2017-12-13T16:07:06+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 12 February 1923,72,95,6222,Letter,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_086,per_013,directed,1,S. Ua N√∫n√°in,Charlie / Cormac Daly, 12 June 1918,3,136,6175,Letter,Kerry Library Tralee,2018-05-30T15:19:25+01:00
+per_047,per_028,directed,1,William / Willie / Liam Daly,Ellen Daly, 12 March 1923,15,95,6435,Letter,Kerry Library Tralee,2018-06-21T09:37:48+01:00
+per_047,per_028,directed,1,William / Willie / Liam Daly,Ellen Daly, 12 March 1923,15,95,5425,Letter,Kerry Library Tralee,2018-02-01T14:57:45+00:00
+per_099,per_094,directed,1,Thomas Daly,Susan Daly, 12 March 1923,21,28,5401,Letter,Kerry Library Tralee,2017-12-07T16:54:19+00:00
+per_024,per_099,directed,1,Director of Organisation,Thomas Daly, 12 November 1920,2,5,6177,Letter,Kerry Library Tralee,2018-06-27T18:34:33+01:00
+per_013,per_077,directed,1,Charlie / Cormac Daly,Patrick Lynch, 12 November 1921,72,1,5008,Letter,Kerry Library Tralee,2019-10-27T02:06:01+00:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 13 February 1923,72,11,6473,Letter,Kerry Library Tralee,2019-06-24T09:39:40+00:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 13 January 1920,72,16,6182,Letter,Kerry Library Tralee,2018-05-30T15:20:58+01:00
+per_013,per_008,directed,1,Charlie / Cormac Daly,C., 13 July 1922,72,1,5025,Letter,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_012,per_028,directed,1,Charles McGinley,Ellen Daly, 13 June 1923,2,95,5061,Letter,Kerry Library Tralee,2019-10-27T01:53:58+00:00
+per_099,per_042,directed,1,Thomas Daly,Katherine Allman, 13 November 1922,21,11,6634,Letter,Kerry Library Tralee,2019-05-09T10:31:01+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 13 September 1922,72,95,6203,Letter,Kerry Library Tralee,2018-06-05T15:11:14+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 14 December 1923,21,43,5399,Letter,Kerry Library Tralee,2017-12-14T13:18:24+00:00
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly, 14 March 1923,72,21,5021,Letter,Kerry Library Tralee,2018-06-29T11:19:42+01:00
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly, 14 March 1923,72,28,5004,Letter,Kerry Library Tralee,2019-10-27T02:06:32+00:00
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly, 14 March 1923,72,11,6450,Letter,Kerry Library Tralee,2018-06-21T11:41:48+01:00
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly, 14 March 1923,72,21,6436,Letter,Kerry Library Tralee,2018-06-21T09:39:27+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 14 March 1923,72,95,6227,Letter,Kerry Library Tralee,2018-06-27T18:20:50+01:00
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly, 14 March 1923,72,21,5424,Letter,Kerry Library Tralee,2018-09-01T13:57:41+00:00
+per_017,per_013,directed,1,Con Sullivan,Charlie / Cormac Daly, 15 February 1923,1,136,5045,Letter,Kerry Library Tralee,2018-06-27T17:01:26+01:00
+per_018,per_047,directed,1,Cornelius Daly,William / Willie / Liam Daly, 15 June 1923,3,21,6458,Letter,Kerry Library Tralee,2018-06-21T13:12:40+01:00
+per_104,per_097,directed,1,W. G. Kelly Senior,the Daly Family, 15 March 1923,1,1,5086,Telegraph,Kerry Library Tralee,2018-10-21T20:08:14+00:00
+per_085,per_028,directed,1,S. O'Brien,Ellen Daly, 15 March 1923,1,95,6619,Letter,Kerry Library Tralee,2018-11-20T14:21:23+00:00
+per_081,per_018,directed,1,Rev. J. O'Flynn,Cornelius Daly, 15 March 1923,1,11,6453,Letter,Kerry Library Tralee,2018-06-21T11:56:57+01:00
+per030_101,per_018,directed,1,Thomas and Ellen Leonard,Cornelius Daly, 15 March 1923,1,11,6452,Letter,Kerry Library Tralee,2018-06-21T11:54:49+01:00
+per_034,per_018,directed,1,James J. Donaghy,Cornelius Daly, 15 March 1923,1,11,6451,Letter,Kerry Library Tralee,2018-06-21T11:53:02+01:00
+per_012,per_028,directed,1,Charles McGinley,Ellen Daly, 15 May 1923,2,95,5060,Letter,Kerry Library Tralee,2018-06-18T09:59:34+01:00
+per_099,per_063,directed,1,Thomas Daly,Midge, 15 October 1923,21,1,5052,Letter,Kerry Library Tralee,2018-07-02T12:48:00+01:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 16 January 1923,72,43,4985,Letter,Kerry Library Tralee,2018-06-27T18:16:38+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 16 July 1923,21,43,5389,Letter,Kerry Library Tralee,2017-12-13T13:36:04+00:00
+per_080,per_018,directed,1,R. E. Shanahan,Cornelius Daly, 16 March 1923,1,11,6454,Letter,Kerry Library Tralee,2018-06-21T11:59:18+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 16 November 1922,28,136,6205,Letter,Kerry Library Tralee,2018-06-05T15:12:03+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 17 December 1922,72,95,6210,Letter,Kerry Library Tralee,2018-06-05T15:18:04+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 17 December 1923,21,43,5400,Letter,Kerry Library Tralee,2017-12-13T12:18:06+00:00
+per_079,per_013,directed,1,Peadar O'D√≥imh√≠n,Charlie / Cormac Daly, 17 January 1923,1,136,5036,Letter,Kerry Library Tralee,2018-06-14T12:10:27+01:00
+per_013,per_011,directed,1,Charlie / Cormac Daly,Cathal Brugha, 17 November 1921,72,1,5007,Letter,Kerry Library Tralee,2018-06-13T18:13:44+01:00
+per_011,per_013,directed,1,Cathal Brugha,Charlie / Cormac Daly, 17 November 1921,2,136,5006,Letter,Kerry Library Tralee,2018-06-13T18:13:44+01:00
+per_011,per_013,directed,1,Cathal Brugha,Charlie / Cormac Daly, 17 November 1921,2,136,6251,Letter,Kerry Library Tralee,2018-06-13T18:13:44+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 18 February 1923,72,95,6223,Letter,Kerry Library Tralee,2018-06-13T18:27:40+01:00
+per_100,per_018,directed,1,Thomas Donoghue,Cornelius Daly, 18 March 1923,1,11,6455,Letter,Kerry Library Tralee,2018-06-21T12:01:55+01:00
+per_021,per_018,directed,1,David Fitzgerald,Cornelius Daly, 19 April 1923,2,11,6457,Letter,Kerry Library Tralee,2018-06-21T13:10:40+01:00
+per_037,per_057,directed,1,Joe,Mary / May / M√°ire Daly, 19 August 1923,1,43,5125,Letter,Kerry Library Tralee,2018-06-19T09:49:35+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 19 December 1921,72,95,6193,Letter,Kerry Library Tralee,2018-05-30T15:46:07+01:00
+per_018,per_013,directed,1,Cornelius Daly,Charlie / Cormac Daly, 19 February 1923,3,136,6448,Letter,Kerry Library Tralee,2018-06-21T11:30:26+01:00
+per_099,per_047,directed,1,Thomas Daly,William / Willie / Liam Daly, 19 June 1923,21,21,6440,Letter,Kerry Library Tralee,2018-06-21T09:56:17+01:00
+per_099,per_047,directed,1,Thomas Daly,William / Willie / Liam Daly, 19 June 1923,21,21,5383,Letter,Kerry Library Tralee,2018-02-23T12:27:09+00:00
+per_051,per_018,directed,1,M. Buckley,Cornelius Daly, 19 March 1923,1,11,6456,Letter,Kerry Library Tralee,2018-06-21T13:04:01+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 19 November 1922,72,95,6206,Letter,Kerry Library Tralee,2018-06-05T15:13:09+01:00
+per_060,per_028,directed,1,Michael Blake,Ellen Daly, 2 April 1923,1,95,5096,Letter,Kerry Library Tralee,2018-06-18T15:35:08+01:00
+per_016,per_099,directed,1,Con Lucy,Thomas Daly, 2 December 1923,2,5,5404,Letter,Kerry Library Tralee,2017-11-21T16:47:06+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 2 February 1923,72,43,4987,Letter,Kerry Library Tralee,2018-06-27T18:02:27+01:00
+per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly, 2 January 1923,2,136,6485,Letter,Kerry Library Tralee,2019-06-24T08:38:37+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 20 December 1921,72,95,6194,Letter,Kerry Library Tralee,2018-05-30T15:49:02+01:00
+per_019,per_013,directed,1,D√≥mnall Ua Cathail,Charlie / Cormac Daly, 20 January 1923,2,136,5038,Letter,Kerry Library Tralee,2018-06-14T15:31:56+01:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 20 July 1922,72,11,6464,Letter,Kerry Library Tralee,2018-06-21T15:48:51+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 20 March 1922,72,95,6196,Letter,Kerry Library Tralee,2018-05-30T16:02:04+01:00
+per_088,per_099,directed,1,Se√°n Lehane,Thomas Daly, 20 November 1923,1,5,5055,Letter,Kerry Library Tralee,2018-07-02T12:55:10+01:00
+per_099,per_098,directed,1,Thomas Daly,the Editor, 20 September 1923,21,1,5051,Letter,Kerry Library Tralee,2018-07-02T12:44:02+01:00
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly, 21 April 1923,15,28,6439,Letter,Kerry Library Tralee,2018-06-21T09:53:46+01:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 21 February 1923,72,43,4989,Letter,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_047,per_013,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly, 21 February 1923,15,136,6431,Letter,Kerry Library Tralee,2018-06-21T09:29:12+01:00
+per_047,per_013,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly, 21 February 1923,15,136,5430,Letter,Kerry Library Tralee,2018-01-25T17:34:18+00:00
+per_078,per_057,directed,1,Patrick O'Connor,Mary / May / M√°ire Daly, 21 January 1923,1,43,5108,Letter,Kerry Library Tralee,2018-06-18T15:55:36+01:00
+per_013,per_088,directed,1,Charlie / Cormac Daly,Se√°n Lehane, 21 January 1923,72,1,5037,Letter,Kerry Library Tralee,2018-06-14T12:13:36+01:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 21 March 1920,72,16,6185,Letter,Kerry Library Tralee,2018-05-30T15:21:37+01:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 21 November 1922,72,11,6470,Letter,Kerry Library Tralee,2019-06-24T09:41:06+00:00
+per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly, 22 December 1922,2,136,6484,Card,Kerry Library Tralee,2019-06-24T08:40:29+00:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 22 December 1922,72,11,6471,Letter,Kerry Library Tralee,2019-06-24T09:40:23+00:00
+per_025,per_013,directed,1,Domhnall,Charlie / Cormac Daly, 22 February 1923,1,136,5047,Letter,Kerry Library Tralee,2018-06-27T17:02:54+01:00
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly, 23 April 1923,5,95,5058,Letter,Kerry Library Tralee,2018-06-14T16:31:45+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 23 May 1923,21,43,5388,Letter,Kerry Library Tralee,2017-12-14T15:05:25+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 24 February 1923,72,43,4990,Letter,Kerry Library Tralee,2018-06-29T11:04:42+01:00
+per_024,per_013,directed,1,Director of Organisation,Charlie / Cormac Daly, 24 June 1921,2,136,5005,Letter,Kerry Library Tralee,2018-06-13T18:13:44+01:00
+per_086,per_013,directed,1,S. Ua N√∫n√°in,Charlie / Cormac Daly, 24 May 1918,3,136,6176,Letter,Kerry Library Tralee,2018-05-30T15:19:36+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 24 November 1922,72,95,6207,Letter,Kerry Library Tralee,2018-06-05T15:13:18+01:00
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly, 25 February 1923,72,11,6449,Letter,Kerry Library Tralee,2018-06-21T11:38:35+01:00
+per_099,per_094,directed,1,Thomas Daly,Susan Daly, 25 May 1923,21,28,5402,Letter,Kerry Library Tralee,2017-11-27T16:43:02+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 26 December 1922,72,95,6213,Letter,Kerry Library Tralee,2018-06-05T15:37:11+01:00
+per_087,per_013,directed,1,S. O. Gallagher,Charlie / Cormac Daly, 26 February 1923,1,136,5049,Letter,Kerry Library Tralee,2018-06-14T14:34:36+01:00
+per_021,per_013,directed,1,David Fitzgerald,Charlie / Cormac Daly, 26 February 1923,2,136,5048,Letter,Kerry Library Tralee,2018-06-27T17:03:28+01:00
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly, 26 January 1923,15,28,5185,Letter,Kerry Library Tralee,2018-06-21T09:24:47+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 26 January 1923,72,95,6219,Letter,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly, 26 January 1923,15,28,5431,Letter,Kerry Library Tralee,2018-01-24T20:35:05+00:00
+per_015,per_028,directed,1,Colm O'Neill,Ellen Daly, 26 November 1923,1,95,5104,Letter,Kerry Library Tralee,2018-06-18T15:49:49+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 27 December 1922,72,95,6214,Letter,Kerry Library Tralee,2018-06-05T15:44:44+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 27 February 1923,72,95,6226,Letter,Kerry Library Tralee,2018-06-27T18:21:56+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 27 June 1922,72,95,6200,Letter,Kerry Library Tralee,2018-11-27T20:57:03+00:00
+per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly, 27 November 1915,2,136,6173,Letter,Kerry Library Tralee,2018-05-30T15:19:01+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 28 August 1923,21,43,5391,Letter,Kerry Library Tralee,2017-12-14T15:50:58+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 28 January 1922,72,95,6195,Letter,Kerry Library Tralee,2018-05-30T15:59:26+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 28 March 1922,72,95,6197,Letter,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_099,per_067,directed,1,Thomas Daly,Mrs Browne, 28 November 1923,21,1,5053,Letter,Kerry Library Tralee,2019-10-27T01:59:13+00:00
+per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly, 28 October 1915,2,136,6172,Letter,Kerry Library Tralee,2018-05-30T15:18:42+01:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 28 October 1921,72,43,4983,Letter,Kerry Library Tralee,2018-06-29T10:48:47+01:00
+per_033,per_065,directed,1,Hugh McLean,Miss Coates, 29 March 1923,1,1,5093,Letter,Kerry Library Tralee,2018-10-21T20:07:39+00:00
+per_032,per_028,directed,1,Henry Kennedy,Ellen Daly, 29 November 1921,1,95,6445,Letter,Kerry Library Tralee,2018-06-21T11:21:20+01:00
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly, 3 December 1921,72,11,6192,Letter,Kerry Library Tralee,2018-05-30T15:43:15+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 3 March 1923,72,95,4993,Letter,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 30 July 1923,21,43,5390,Letter,Kerry Library Tralee,2017-12-13T14:54:01+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 30 June 1922,72,43,6202,Letter,Kerry Library Tralee,2018-06-05T15:10:52+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 30 November 1922,72,95,4995,Letter,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly, 30 November 1922,72,28,6208,Letter,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 30 October 1922,72,95,6466,Letter,Kerry Library Tralee,2018-06-21T15:49:48+01:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 31 January 1920,72,11,6183,Letter,Kerry Library Tralee,2018-05-30T15:21:17+01:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 31 October 1921,72,16,6190,Letter,Kerry Library Tralee,2018-05-30T15:15:58+01:00
+per_052,per_028,directed,1,M. MacMahon,Ellen Daly, 4 December 1923,1,95,5127,Letter,Kerry Library Tralee,2019-06-16T09:05:02+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 4 February 1923,72,43,6472,Letter,Kerry Library Tralee,2018-10-21T19:41:23+00:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 4 September 1922,72,11,6204,Letter,Kerry Library Tralee,2018-06-05T15:11:39+01:00
+per_099,per_057,directed,1,Thomas Daly,Mary / May / M√°ire Daly, 5 December 1923,21,43,5398,Letter,Kerry Library Tralee,2017-12-13T12:17:06+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 5 March 1923,72,95,4994,Letter,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / M√°ire Daly, 5 March 1923,15,43,6432,Letter,Kerry Library Tralee,2018-06-21T09:31:04+01:00
+per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / M√°ire Daly, 5 March 1923,15,43,5428,Letter,Kerry Library Tralee,2018-02-23T14:07:01+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 6 November 1922,72,43,6467,Letter,Kerry Library Tralee,2018-06-21T15:50:46+01:00
+per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / M√°ire Daly, 7 January 1923,15,43,6430,Letter,Kerry Library Tralee,2018-11-21T23:11:22+00:00
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman, 7 June 1920,72,11,6188,Letter,Kerry Library Tralee,2018-05-30T15:22:06+01:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 7 June 1920,72,43,4943,Letter,Kerry Library Tralee,2019-12-07T14:14:21+00:00
+per_047,per_105,directed,1,William / Willie / Liam Daly,unknown, 7 March 1923,15,16,6433,Letter,Kerry Library Tralee,2018-06-21T09:33:08+01:00
+per_047,per_105,directed,1,William / Willie / Liam Daly,unknown, 7 March 1923,15,16,5427,Letter,Kerry Library Tralee,2018-01-25T18:22:19+00:00
+per_013,per_013,directed,1,Charlie / Cormac Daly,Charlie / Cormac Daly, 7 May 1920,72,136,6187,Letter,Kerry Library Tralee,2018-05-30T15:21:57+01:00
+per_038,per_013,directed,1,John Gallagher,Charlie / Cormac Daly, 7 May 1923,1,136,5115,Letter,Kerry Library Tralee,2019-10-27T01:36:06+00:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 8 December 1922,72,16,6447,Letter,Kerry Library Tralee,2018-06-21T11:27:20+01:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 8 December 1922,72,43,6209,Letter,Kerry Library Tralee,2018-06-05T15:03:41+01:00
+per_071,per_018,directed,1,Neil Freant,Cornelius Daly, 8 March 1923,1,11,5050,Letter,Kerry Library Tralee,2018-06-14T14:38:00+01:00
+per_047,per_028,directed,1,William / Willie / Liam Daly,Ellen Daly, 8 March 1923,15,95,6434,Letter,Kerry Library Tralee,2018-06-21T09:35:36+01:00
+per_047,per_013,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly, 8 March 1923,15,136,5426,Letter,Kerry Library Tralee,2018-02-23T14:46:16+00:00
+per_099,per_105,directed,1,Thomas Daly,unknown, 8 November 1923,21,16,5397,Letter,Kerry Library Tralee,2017-12-13T12:15:54+00:00
+per_099,per_105,directed,1,Thomas Daly,unknown, 9 December 1923,21,16,6638,Letter,Kerry Library Tralee,2019-06-24T09:23:32+00:00
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / M√°ire Daly, 9 January 1923,72,43,5033,Letter,Kerry Library Tralee,2018-06-14T12:01:09+01:00
+per_099,per_028,directed,1,Thomas Daly,Ellen Daly, 9 July 1923,21,95,6441,Letter,Kerry Library Tralee,2018-06-21T09:58:04+01:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown, 9 November 1921,72,16,6191,Letter,Kerry Library Tralee,2018-05-30T15:26:24+01:00
+per_016,per_047,directed,1,Con Lucy,William / Willie / Liam Daly, 9 November 1923,2,21,5403,Letter,Kerry Library Tralee,2017-11-21T15:37:18+00:00
+per_041,per_028,directed,1,K. Casey,Ellen Daly, October 1923,3,95,5386,Letter,Kerry Library Tralee,2017-12-16T17:36:34+00:00
+per_047,per_099,directed,1,William / Willie / Liam Daly,Thomas Daly, Sunday 21st 1923,15,5,5382,Letter,Kerry Library Tralee,2018-01-11T16:49:41+00:00
+per_062,per_047,directed,1,Mick Timoney,William / Willie / Liam Daly,undated,1,21,5031,Letter,Kerry Library Tralee,2018-06-14T11:55:49+01:00
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,1922,72,28,5024,Letter,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_103,per_013,directed,1,W. D. Sheehan,Charlie / Cormac Daly,undated,1,136,6178,Letter,Kerry Library Tralee,2018-11-27T21:00:19+00:00
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,undated,72,16,6171,Postcard,Kerry Library Tralee,2018-05-30T15:18:23+01:00
+per_006,per_013,directed,1,Bridget Hannigan,Charlie / Cormac Daly, 28 March 1923,2,136,6336,Letter ,Kerry Library Tralee,2018-06-18T15:26:58+01:00
+per_035,per_057,directed,1,Jennie Gallivan,Mary / May / M√°ire Daly, 19 March 1923,2,43,6335,Letter ,Kerry Library Tralee,2018-06-18T15:24:20+01:00
+per_054,per_028,directed,1,Madge Rodgers,Ellen Daly, 17 March 1923,2,95,6334,Letter ,Kerry Library Tralee,2018-06-18T15:20:25+01:00
+per_092,per_028,directed,1,Sheila Nagle,Ellen Daly, 16 March 1923,2,95,6333,Letter ,Kerry Library Tralee,2018-06-18T15:18:04+01:00
+per_091,per_028,directed,1,Sheila Hartnett,Ellen Daly, 16 March 1923,2,95,6332,Letter ,Kerry Library Tralee,2018-06-18T15:15:55+01:00
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly, 15 March 1923,4,95,6331,Telegraph ,Kerry Library Tralee,2018-06-18T15:12:42+01:00
+per_066,per_028,directed,1,Mollie O'Connor,Ellen Daly, 4 April 1923,4,95,6328,Letter ,Kerry Library Tralee,2018-06-18T15:02:08+01:00
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly, 11 June 1923,8,95,6310,Letter ,Kerry Library Tralee,2018-06-18T10:43:49+01:00
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly, 26 April 1923,8,95,6309,Letter ,Kerry Library Tralee,2018-06-18T10:35:58+01:00
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly, 19 December 1923,4,95,6308,Letter ,Kerry Library Tralee,2018-06-18T10:21:00+01:00
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly, 26 November 1923,4,95,6307,Letter ,Kerry Library Tralee,2018-06-18T10:17:34+01:00
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly, 19 June 1923,5,95,6304,Letter ,Kerry Library Tralee,2018-06-14T16:34:44+01:00
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly, 5 April 1923,5,95,6302,Letter ,Kerry Library Tralee,2018-06-14T16:29:08+01:00
+per_005,per_013,directed,1,Bessie Harrington,Charlie / Cormac Daly, 20 February 1923,2,136,6291,Letter ,Kerry Library Tralee,2018-06-27T17:02:16+01:00
+per_010,per_013,directed,1,Caitl√≠n N√≠ Aoda,Charlie / Cormac Daly, 10 February 1923,2,136,6289,Letter ,Kerry Library Tralee,2018-06-27T17:00:16+01:00
+per_084,per_013,directed,1,Rois√≠n N√≠ Ceallaig,Charlie / Cormac Daly, 6 February 1923,2,136,6287,Letter ,Kerry Library Tralee,2018-06-27T16:59:14+01:00
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly, 24 January 1923,10,136,6286,Letter ,Kerry Library Tralee,2018-06-27T16:58:39+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 28 January 1923,14,136,6285,Letter ,Kerry Library Tralee,2018-06-14T12:25:18+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 21 January 1923,28,136,6284,Letter ,Kerry Library Tralee,2018-06-14T12:20:58+01:00
+per_040,per_013,directed,1,Judy Daly,Charlie / Cormac Daly, 10 January 1923,2,136,6279,Letter ,Kerry Library Tralee,2018-06-14T12:03:57+01:00
+per_059,per_013,directed,1,Mary McFadden,Charlie / Cormac Daly, [December 1922],2,136,6275,Christmas card ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_053,per_013,directed,1,Madge Boner,Charlie / Cormac Daly, 20 December 1922,2,136,6274,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_072,per_013,directed,1,Nellie McGrath,Charlie / Cormac Daly, 20 December 1922,2,136,6273,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_048,per_013,directed,1,Lily Gerard,Charlie / Cormac Daly, 17 December 1922,2,136,6272,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_002,per_013,directed,1,√Åine N√≠ Maolchiar√°in,Charlie / Cormac Daly, [1922],2,136,6268,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_002,per_013,directed,1,√Åine N√≠ Maolchiar√°in,Charlie / Cormac Daly, 5 December 1922,2,136,6267,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly, 19 February 1923,4,136,6264,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly, 25 January 1923,4,136,6263,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly, 21 February 1923,4,136,6262,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly, 4 February 1923,4,136,6261,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, 1 March 1923,6,136,6260,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, 16 February 1923,6,136,6259,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, [December 1922],6,136,6258,Christmas Card ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly, 2 February 1923,8,136,6257,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly, [February 1923],8,136,6256,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [February 1923],33,136,6248,Letter ,Kerry Library Tralee,2018-06-29T11:09:38+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 5 February 1923,33,136,6247,Letter ,Kerry Library Tralee,2018-06-29T11:12:14+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 14 February 1923,33,136,6246,Letter ,Kerry Library Tralee,2018-06-29T11:18:02+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 29 January 1923,33,136,6245,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 18 December 1922,33,136,6244,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [December 1922],33,136,6243,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [December 1922],33,136,6242,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 8 December 1922,33,136,6241,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 26 February 1923,16,136,6236,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 14 February 1923,16,136,6233,Letter ,Kerry Library Tralee,2018-06-29T11:01:06+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 24 January 1923,16,136,6231,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 10 January 1923,16,136,6229,Letter ,Kerry Library Tralee,2018-06-27T18:18:00+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 21 February 1923,28,136,6224,Letter ,Kerry Library Tralee,2018-06-27T18:24:48+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 11 February 1923,28,136,6221,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_028,per_042,directed,1,Ellen Daly,Katherine Allman, 28 March 1923,28,11,6637,Letter ,Kerry Library Tralee,2019-06-24T09:24:15+00:00
+per_057,per_042,directed,1,Mary / May / M√°ire Daly,Katherine Allman, 25 March 1923,16,11,6636,Letter ,Kerry Library Tralee,2019-05-09T10:28:03+00:00
+per_042,per_094,directed,1,Katherine Allman,Susan Daly, 1 December 1922,13,28,6635,Letter ,Kerry Library Tralee,2019-05-09T10:29:38+00:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, December 1922,28,136,6618,Letter ,Kerry Library Tralee,2018-11-20T14:28:24+00:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 26 January 1923,28,28,6613,Letter ,Kerry Library Tralee,2018-11-20T14:31:08+00:00
+per_070,per_013,directed,1,Nancy Daly,Charlie / Cormac Daly, 15 December 1922,3,136,6612,Letter ,Kerry Library Tralee,2018-11-20T14:33:21+00:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, 27 June 1923,10,95,6489,Letter ,Kerry Library Tralee,2019-06-24T08:27:53+00:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, 27 March 1923,10,95,6488,Letter ,Kerry Library Tralee,2018-07-25T11:04:23+01:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, [March 1923],10,95,6487,Letter ,Kerry Library Tralee,2018-07-25T11:04:23+01:00
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly, 16 February 1923,10,136,6486,Letter ,Kerry Library Tralee,2019-06-24T08:34:44+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 8 February 1923,14,136,6483,Letter ,Kerry Library Tralee,2018-10-21T19:39:14+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, [February 1923],14,136,6482,Letter ,Kerry Library Tralee,2019-06-24T09:30:05+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 2 January 1923,14,136,6481,Letter ,Kerry Library Tralee,2019-06-24T09:31:21+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, [December 1922],14,136,6480,Christmas Card ,Kerry Library Tralee,2019-06-24T09:32:17+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 21 December 1922,14,136,6479,Letter ,Kerry Library Tralee,2019-06-24T09:33:24+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 4 December 1922,14,136,6478,Letter ,Kerry Library Tralee,2019-06-24T09:34:59+00:00
+per_042,per_057,directed,1,Katherine Allman,Mary / May / M√°ire Daly, 6 June 1923,13,43,6477,Letter ,Kerry Library Tralee,2019-06-24T09:35:52+00:00
+per_042,per_057,directed,1,Katherine Allman,Mary / May / M√°ire Daly, 15 April 1923,13,43,6476,Letter ,Kerry Library Tralee,2019-06-24T09:37:07+00:00
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly, 17 March 1923,13,95,6475,Letter ,Kerry Library Tralee,2019-06-24T09:37:45+00:00
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly, 9 February 1923,13,95,6474,Letter ,Kerry Library Tralee,2019-06-24T09:39:03+00:00
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly, 13 November 1922,13,136,6469,Letter ,Kerry Library Tralee,2019-06-24T09:42:14+00:00
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly, 9 November 1922,13,136,6468,Letter ,Kerry Library Tralee,2019-06-24T09:43:00+00:00
+per_029,per_094,directed,1,Ellen Mary / Nellie Daly,Susan Daly, 26 January 1923,4,28,6461,Letter ,Kerry Library Tralee,2018-10-22T15:10:50+00:00
+per_029,per_013,directed,1,Ellen Mary / Nellie Daly,Charlie / Cormac Daly, [December 1922],4,136,6460,Letter ,Kerry Library Tralee,2018-06-21T13:33:05+01:00
+per_070,per_013,directed,1,Nancy Daly,Charlie / Cormac Daly, 15 December 1922,3,136,6459,Letter ,Kerry Library Tralee,2018-06-21T13:31:13+01:00
+per_057,per_047,directed,1,Mary / May / M√°ire Daly,William / Willie / Liam Daly, 6 April 1923,16,21,6443,Letter ,Kerry Library Tralee,2018-06-21T10:05:07+01:00
+per_041,per_047,directed,1,K. Casey,William / Willie / Liam Daly, [October 1923],3,21,6442,Letter ,Kerry Library Tralee,2018-06-21T10:02:08+01:00
+per_028,per_047,directed,1,Ellen Daly,William / Willie / Liam Daly, 9 April 1923,28,21,6438,Letter ,Kerry Library Tralee,2018-06-21T09:49:32+01:00
+per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly, [March 1923],33,21,6437,Letter ,Kerry Library Tralee,2018-06-21T09:41:33+01:00
+per_036,per_094,directed,1,Jer Hannifin,Susan Daly, 30 September 1923,2,28,6428,Letter ,Kerry Library Tralee,2018-06-20T09:43:21+01:00
+per_064,per_094,directed,1,Minnie Daly,Susan Daly, 25 May 1923,2,28,6427,Letter ,Kerry Library Tralee,2018-06-20T09:39:56+01:00
+per_094,per_105,directed,1,Susan Daly,unknown, 6 April 1923,33,16,6425,Letter ,Kerry Library Tralee,2018-06-20T09:26:11+01:00
+per_043,per_094,directed,1,Kathleen Durcan,Susan Daly, 1 April 1923,6,28,6424,Letter ,Kerry Library Tralee,2018-06-20T09:23:22+01:00
+per_094,per_057,directed,1,Susan Daly,Mary / May / M√°ire Daly, 12 April 1923,33,43,6421,Letter ,Kerry Library Tralee,2018-06-20T09:12:41+01:00
+per_094,per_057,directed,1,Susan Daly,Mary / May / M√°ire Daly, 15 March 1923,33,43,6420,Letter ,Kerry Library Tralee,2018-06-20T09:08:52+01:00
+per_057,per_094,directed,1,Mary / May / M√°ire Daly,Susan Daly, 29 January 1923,16,28,6419,Letter ,Kerry Library Tralee,2018-06-20T09:04:59+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 8 May 1923,28,28,6418,Letter ,Kerry Library Tralee,2018-06-20T08:52:10+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 24 April 1923,28,28,6417,Letter ,Kerry Library Tralee,2018-06-20T08:47:11+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 8 April 1923,33,95,6416,Letter ,Kerry Library Tralee,2018-06-20T08:40:37+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 27 March 1923,33,95,6415,Letter ,Kerry Library Tralee,2018-06-20T08:29:55+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 25 March 1923,28,28,6414,Letter ,Kerry Library Tralee,2018-06-20T08:22:08+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 21 March 1923,33,95,6413,Letter ,Kerry Library Tralee,2018-06-20T08:22:49+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, [March 1923],33,95,6412,Letter ,Kerry Library Tralee,2018-06-19T16:16:07+01:00
+per_001,per_057,directed,1,Amy,Mary / May / M√°ire Daly, 15 March 1923,2,43,6357,Letter ,Kerry Library Tralee,2018-06-18T16:03:12+01:00
+per_043,per_057,directed,1,Kathleen Durcan,Mary / May / M√°ire Daly, 17 April 1923,6,43,6356,Letter ,Kerry Library Tralee,2018-06-18T16:00:58+01:00
+per_066,per_057,directed,1,Mollie O'Connor,Mary / May / M√°ire Daly, 9 December 1922,4,43,6350,Letter ,Kerry Library Tralee,2018-06-18T15:52:43+01:00
+per_003,per_028,directed,1,Anne O'Flanagan,Ellen Daly, 8 September 1923,2,95,6347,Letter ,Kerry Library Tralee,2018-06-18T15:47:27+01:00
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly, 1 July 1923,4,95,6345,Letter ,Kerry Library Tralee,2018-06-18T15:44:34+01:00
+per_056,per_028,directed,1,M√°ire N√≠ Dhonnghaile,Ellen Daly, 20 June 1923,2,95,6343,Letter ,Kerry Library Tralee,2018-06-18T15:41:07+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 4 February 1923,28,136,6220,Letter ,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 15 January 1923,28,136,6218,Letter ,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 7 January 1923,28,136,6216,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 1 January 1923,72,95,6215,Letter ,Kerry Library Tralee,2018-06-05T15:48:37+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 25 December 1922,28,136,6212,Letter ,Kerry Library Tralee,2018-06-05T15:32:06+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 19 December 1922,28,136,6211,Letter ,Kerry Library Tralee,2018-11-27T20:55:23+00:00
+per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly, 9 April 1923,33,21,5433,Letter ,Kerry Library Tralee,2018-02-23T13:32:03+00:00
+per_057,per_047,directed,1,Mary / May / M√°ire Daly,William / Willie / Liam Daly,1923,16,21,5432,Letter ,Kerry Library Tralee,2018-02-21T15:38:47+00:00
+per_057,per_099,directed,1,Mary / May / M√°ire Daly,Thomas Daly, 23 October 1921,16,5,5423,Letter ,Kerry Library Tralee,2018-01-15T20:38:13+00:00
+per_057,per_047,directed,1,Mary / May / M√°ire Daly,William / Willie / Liam Daly,1923,16,21,5387,Letter ,Kerry Library Tralee,2017-11-01T08:23:25+00:00
+per_074,per_028,directed,1,Nora O'Sullivan,Ellen Daly, 4 April 1923,3,95,5056,Letter ,Kerry Library Tralee,2018-10-09T12:23:00+00:00
+per_043,per_057,directed,1,Kathleen Durcan,Mary / May / M√°ire Daly, 23 March 1923,6,43,5378,Letter ,Kerry Library Tralee,2018-02-26T18:55:07+00:00
+per_043,per_047,directed,1,Kathleen Durcan,William / Willie / Liam Daly, 19 March 1923,6,21,5377,Letters ,Kerry Library Tralee,2018-01-15T20:06:59+00:00
+per_083,per_028,directed,1,R√≥ise N√≠ Dh√≥mhnaill,Ellen Daly,[1923],5,95,5376,Letter ,Kerry Library Tralee,2018-05-02T19:58:07+00:00
+per_007,per_076,directed,1,Brigid McCarron,one of Ellen Daly's children,[1923],2,1,5375,Letter ,Kerry Library Tralee,2017-11-01T14:27:33+00:00
+per_007,per_028,directed,1,Brigid McCarron,Ellen Daly,[March 1923],2,95,5374,Letter ,Kerry Library Tralee,2017-11-09T14:29:40+00:00
+per_083,per_013,directed,1,R√≥ise N√≠ Dh√≥mhnaill,Charlie / Cormac Daly, [February/March 1923],5,136,5373,Letter ,Kerry Library Tralee,2017-11-01T14:06:41+00:00
+per_083,per_013,directed,1,R√≥ise N√≠ Dh√≥mhnaill,Charlie / Cormac Daly, 17 February 1923,5,136,5372,Letter ,Kerry Library Tralee,2017-10-21T18:18:28+00:00
+per_083,per_013,directed,1,R√≥ise N√≠ Dh√≥mhnaill,Charlie / Cormac Daly, [January 1923],5,136,5371,Letter ,Kerry Library Tralee,2017-11-01T13:31:19+00:00
+per_083,per_013,directed,1,R√≥ise N√≠ Dh√≥mhnaill,Charlie / Cormac Daly, December 1922,5,136,5370,Letter ,Kerry Library Tralee,2018-07-06T14:16:47+00:00
+per_075,per_094,directed,1,Nora Ring,Susan Daly, 9 November 1923,2,28,5369,Letter ,Kerry Library Tralee,2017-10-27T14:02:55+00:00
+per_075,per_094,directed,1,Nora Ring,Susan Daly, March 1923,2,28,5368,Letter ,Kerry Library Tralee,2017-10-26T14:41:18+00:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, 27 June 1923,10,95,5245,Letter ,Kerry Library Tralee,2018-07-25T11:04:23+01:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, 27 March 1923,10,95,5244,Letter ,Kerry Library Tralee,2018-07-25T11:04:23+01:00
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly, [March 1923],10,95,5243,Letter ,Kerry Library Tralee,2018-07-25T11:04:23+01:00
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly, 16 February 1923,10,136,5242,Letter ,Kerry Library Tralee,2019-06-16T08:58:38+00:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 8 February 1923,14,136,5239,Letter ,Kerry Library Tralee,2018-07-25T11:04:24+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, [February 1923],14,136,5238,Letter ,Kerry Library Tralee,2018-07-25T11:04:24+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 2 January 1923,14,136,5237,Letter ,Kerry Library Tralee,2018-07-25T11:04:24+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, [December 1922],14,136,5236,Christmas Card ,Kerry Library Tralee,2018-06-22T10:03:42+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 21 December 1922,14,136,5235,Letter ,Kerry Library Tralee,2018-06-22T10:01:18+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 4 December 1922,14,136,5234,Letter ,Kerry Library Tralee,2018-06-22T09:59:11+01:00
+per_042,per_057,directed,1,Katherine Allman,Mary / May / M√°ire Daly, 6 June 1923,13,43,5233,Letter ,Kerry Library Tralee,2018-06-27T18:11:48+01:00
+per_042,per_057,directed,1,Katherine Allman,Mary / May / M√°ire Daly, 15 April 1923,13,43,5232,Letter ,Kerry Library Tralee,2018-06-22T09:52:40+01:00
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly, 17 March 1923,13,95,5231,Letter ,Kerry Library Tralee,2018-06-22T09:50:01+01:00
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly, 9 February 1923,13,95,5230,Letter ,Kerry Library Tralee,2018-06-27T18:14:17+01:00
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly, 13 November 1922,13,136,5225,Letter ,Kerry Library Tralee,2018-06-21T15:51:10+01:00
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly, 9 November 1922,13,136,5224,Letter ,Kerry Library Tralee,2018-06-21T15:50:16+01:00
+per_029,per_094,directed,1,Ellen Mary / Nellie Daly,Susan Daly, 26 January 1923,4,28,5217,Letter ,Kerry Library Tralee,2018-06-21T13:36:09+01:00
+per_029,per_013,directed,1,Ellen Mary / Nellie Daly,Charlie / Cormac Daly, [December 1922],4,136,5216,Letter ,Kerry Library Tralee,2018-06-21T13:33:05+01:00
+per_070,per_013,directed,1,Nancy Daly,Charlie / Cormac Daly, 15 December 1922,3,136,5215,Letter ,Kerry Library Tralee,2018-06-21T13:31:13+01:00
+per_057,per_047,directed,1,Mary / May / M√°ire Daly,William / Willie / Liam Daly, 6 April 1923,16,21,5199,Letter ,Kerry Library Tralee,2018-06-21T10:05:07+01:00
+per_041,per_047,directed,1,K. Casey,William / Willie / Liam Daly, [October 1923],3,21,5198,Letter ,Kerry Library Tralee,2018-06-21T10:02:08+01:00
+per_028,per_047,directed,1,Ellen Daly,William / Willie / Liam Daly, 9 April 1923,28,21,5194,Letter ,Kerry Library Tralee,2018-06-21T09:49:32+01:00
+per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly, [March 1923],33,21,5193,Letter ,Kerry Library Tralee,2018-06-21T09:41:33+01:00
+per_036,per_094,directed,1,Jer Hannifin,Susan Daly, 30 September 1923,2,28,5184,Letter ,Kerry Library Tralee,2018-06-20T09:43:21+01:00
+per_064,per_094,directed,1,Minnie Daly,Susan Daly, 25 May 1923,2,28,5183,Letter ,Kerry Library Tralee,2018-06-20T09:39:56+01:00
+per_094,per_105,directed,1,Susan Daly,unknown, 6 April 1923,33,16,5181,Letter ,Kerry Library Tralee,2018-06-20T09:26:11+01:00
+per_043,per_094,directed,1,Kathleen Durcan,Susan Daly, 1 April 1923,6,28,5180,Letter ,Kerry Library Tralee,2018-06-20T09:23:22+01:00
+per_094,per_057,directed,1,Susan Daly,Mary / May / M√°ire Daly, 12 April 1923,33,43,5177,Letter ,Kerry Library Tralee,2018-06-20T09:12:41+01:00
+per_094,per_057,directed,1,Susan Daly,Mary / May / M√°ire Daly, 15 March 1923,33,43,5176,Letter ,Kerry Library Tralee,2018-06-20T09:08:52+01:00
+per_057,per_094,directed,1,Mary / May / M√°ire Daly,Susan Daly, 29 January 1923,16,28,5175,Letter ,Kerry Library Tralee,2018-06-20T09:04:59+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 8 May 1923,28,28,5174,Letter ,Kerry Library Tralee,2018-06-20T08:52:10+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 24 April 1923,28,28,5173,Letter ,Kerry Library Tralee,2018-06-20T08:47:11+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 8 April 1923,33,95,5172,Letter ,Kerry Library Tralee,2019-06-16T09:00:07+00:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 27 March 1923,33,95,5171,Letter ,Kerry Library Tralee,2018-06-20T08:29:55+01:00
+per_028,per_094,directed,1,Ellen Daly,Susan Daly, 25 March 1923,28,28,5170,Letter ,Kerry Library Tralee,2018-06-20T08:22:08+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, 21 March 1923,33,95,5169,Letter ,Kerry Library Tralee,2018-06-20T08:22:49+01:00
+per_094,per_028,directed,1,Susan Daly,Ellen Daly, [March 1923],33,95,5168,Letter ,Kerry Library Tralee,2018-06-19T16:16:07+01:00
+per_074,per_057,directed,1,Nora O'Sullivan,Mary / May / M√°ire Daly, 8 October 1923,3,43,5126,Letter ,Kerry Library Tralee,2018-06-19T09:52:13+01:00
+per_001,per_057,directed,1,Amy,Mary / May / M√°ire Daly, 15 March 1923,2,43,5113,Letter ,Kerry Library Tralee,2018-06-18T16:03:12+01:00
+per_043,per_057,directed,1,Kathleen Durcan,Mary / May / M√°ire Daly, 17 April 1923,6,43,5112,Letter ,Kerry Library Tralee,2018-06-18T16:00:58+01:00
+per_066,per_057,directed,1,Mollie O'Connor,Mary / May / M√°ire Daly, 9 December 1922,4,43,5106,Letter ,Kerry Library Tralee,2018-06-18T15:52:43+01:00
+per_003,per_028,directed,1,Anne O'Flanagan,Ellen Daly, 8 September 1923,2,95,5103,Letter ,Kerry Library Tralee,2018-06-18T15:47:27+01:00
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly, 1 July 1923,4,95,5101,Letter ,Kerry Library Tralee,2018-06-18T15:44:34+01:00
+per_056,per_028,directed,1,M√°ire N√≠ Dhonnghaile,Ellen Daly, 20 June 1923,2,95,5099,Letter ,Kerry Library Tralee,2018-06-18T15:41:07+01:00
+per_006,per_028,directed,1,Bridget Hannigan,Ellen Daly, 28 March 1923,2,95,5092,Letter ,Kerry Library Tralee,2018-10-21T20:07:07+00:00
+per_035,per_028,directed,1,Jennie Gallivan,Ellen Daly, 19 March 1923,2,95,5091,Letter ,Kerry Library Tralee,2018-06-18T15:24:20+01:00
+per_054,per_028,directed,1,Madge Rodgers,Ellen Daly, 17 March 1923,2,95,5090,Letter ,Kerry Library Tralee,2018-06-18T15:20:25+01:00
+per_092,per_028,directed,1,Sheila Nagle,Ellen Daly, 16 March 1923,2,95,5089,Letter ,Kerry Library Tralee,2018-10-21T20:03:31+00:00
+per_091,per_028,directed,1,Sheila Hartnett,Ellen Daly, 16 March 1923,2,95,5088,Letter ,Kerry Library Tralee,2018-06-18T15:15:55+01:00
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly, 15 March 1923,4,95,5087,Telegraph ,Kerry Library Tralee,2018-06-18T15:12:42+01:00
+per_066,per_028,directed,1,Mollie O'Connor,Ellen Daly, 4 April 1923,4,95,5084,Letter ,Kerry Library Tralee,2018-10-21T20:08:43+00:00
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly, 11 June 1923,8,95,5065,Letter ,Kerry Library Tralee,2018-10-21T20:24:35+00:00
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly, 26 April 1923,8,95,5064,Letter ,Kerry Library Tralee,2018-10-21T20:18:53+00:00
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly, 19 December 1923,4,95,5063,Letter ,Kerry Library Tralee,2018-10-21T20:25:03+00:00
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly, 26 November 1923,4,95,5062,Letter ,Kerry Library Tralee,2018-06-18T10:17:34+01:00
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly, 19 June 1923,5,95,5059,Letter ,Kerry Library Tralee,2019-06-16T09:06:11+00:00
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly, 5 April 1923,5,95,5057,Letter ,Kerry Library Tralee,2018-06-14T16:29:08+01:00
+per_074,per_028,directed,1,Nora O'Sullivan,Ellen Daly, 4 April 1923,3,95,5056,Letter ,Kerry Library Tralee,2018-06-14T16:19:35+01:00
+per_005,per_013,directed,1,Bessie Harrington,Charlie / Cormac Daly, 20 February 1923,2,136,5046,Letter ,Kerry Library Tralee,2018-06-27T17:02:16+01:00
+per_010,per_013,directed,1,Caitl√≠n N√≠ Aoda,Charlie / Cormac Daly, 10 February 1923,2,136,5044,Letter ,Kerry Library Tralee,2018-06-27T17:00:16+01:00
+per_084,per_013,directed,1,Rois√≠n N√≠ Ceallaig,Charlie / Cormac Daly, 6 February 1923,2,136,5042,Letter ,Kerry Library Tralee,2018-06-27T16:59:14+01:00
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly, 24 January 1923,10,136,5041,Letter ,Kerry Library Tralee,2018-06-27T16:58:39+01:00
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly, 28 January 1923,14,136,5040,Letter ,Kerry Library Tralee,2018-06-14T12:25:18+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 21 January 1923,28,136,5039,Letter ,Kerry Library Tralee,2018-06-14T12:20:58+01:00
+per_040,per_013,directed,1,Judy Daly,Charlie / Cormac Daly, 10 January 1923,2,136,5034,Letter ,Kerry Library Tralee,2018-06-14T12:03:57+01:00
+per_059,per_013,directed,1,Mary McFadden,Charlie / Cormac Daly, [December 1922],2,136,5030,Christmas card ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_053,per_013,directed,1,Madge Boner,Charlie / Cormac Daly, 20 December 1922,2,136,5029,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_072,per_013,directed,1,Nellie McGrath,Charlie / Cormac Daly, 20 December 1922,2,136,5028,Letter ,Kerry Library Tralee,2018-10-18T17:08:42+00:00
+per_048,per_013,directed,1,Lily Gerard,Charlie / Cormac Daly, 17 December 1922,2,136,5027,Letter ,Kerry Library Tralee,2018-06-13T18:16:15+01:00
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly, 19 February 1923,4,136,5019,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly, 25 January 1923,4,136,5018,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly, 21 February 1923,4,136,5017,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly, 4 February 1923,4,136,5016,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, 1 March 1923,6,136,5015,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, 16 February 1923,6,136,5014,Letter ,Kerry Library Tralee,2018-10-18T17:10:30+00:00
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly, [December 1922],6,136,5013,Christmas Card ,Kerry Library Tralee,2018-10-20T18:51:04+00:00
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly, 2 February 1923,8,136,5012,Letter ,Kerry Library Tralee,2019-10-27T02:05:17+00:00
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly, [February 1923],8,136,5011,Letter ,Kerry Library Tralee,2018-06-13T18:16:52+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [February 1923],33,136,5003,Letter ,Kerry Library Tralee,2018-06-29T11:09:38+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 5 February 1923,33,136,5002,Letter ,Kerry Library Tralee,2018-06-29T11:12:14+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 14 February 1923,33,136,5001,Letter ,Kerry Library Tralee,2018-06-29T11:18:02+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 29 January 1923,33,136,5000,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 18 December 1922,33,136,4999,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [December 1922],33,136,4998,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, [December 1922],33,136,4997,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly, 8 December 1922,33,136,4996,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 26 February 1923,16,136,4991,Letter ,Kerry Library Tralee,2018-06-13T18:56:13+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 14 February 1923,16,136,4988,Letter ,Kerry Library Tralee,2018-06-29T11:01:06+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 24 January 1923,16,136,4986,Letter ,Kerry Library Tralee,2018-06-27T18:01:15+01:00
+per_057,per_013,directed,1,Mary / May / M√°ire Daly,Charlie / Cormac Daly, 10 January 1923,16,136,4984,Letter ,Kerry Library Tralee,2018-06-27T18:18:00+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 21 February 1923,28,136,4979,Letter ,Kerry Library Tralee,2019-10-27T02:07:33+00:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 11 February 1923,28,136,4976,Letter ,Kerry Library Tralee,2019-10-27T02:11:09+00:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 4 February 1923,28,136,4975,Letter ,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 15 January 1923,28,136,4973,Letter ,Kerry Library Tralee,2018-06-13T18:18:47+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 7 January 1923,28,136,4971,Letter ,Kerry Library Tralee,2019-10-27T02:08:40+00:00
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly, 1 January 1923,72,95,4970,Letter ,Kerry Library Tralee,2018-06-05T15:48:37+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 25 December 1922,28,136,4967,Letter ,Kerry Library Tralee,2018-06-05T15:32:06+01:00
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly, 19 December 1922,28,136,4966,Letter ,Kerry Library Tralee,2018-06-05T15:23:21+01:00

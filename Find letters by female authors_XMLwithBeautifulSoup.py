@@ -22,6 +22,6 @@ for infile in os.listdir(directory):
             results.append(infile) # add name of XML file to result list
             shutil.copy2(join(directory, infile), 'C:\\Users\\mbarg\\Documents\\corpus_women') # copy file to subcorpus 
         else:
-             continue     
+            continue     
 print(results) # print list of file names in subcorpus
 print(len(results)) # print number of files in subcorpus

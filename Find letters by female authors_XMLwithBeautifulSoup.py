@@ -9,7 +9,7 @@ import shutil
 directory=("C:\\Users\\mbarg\\Documents\\corpus") # directory containing all XML files
 
 results=[] # new result list
-items=["Female"] # items searched for in XML
+item=("Female") # item searched for in XML
 for infile in os.listdir(directory):
     filename=join(directory, infile)
     indata=open(filename,"r", encoding="utf-8", errors="ignore") 

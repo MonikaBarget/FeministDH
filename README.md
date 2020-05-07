@@ -1,6 +1,6 @@
 ### Women's agency and networks in Ireland (1915-1923)
 
-The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](www.letters1916.ie) project.
+The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
 
 Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Maastricht University) started the project in 2013.
 

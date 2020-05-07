@@ -10,6 +10,6 @@ Since then, more than 6000 letters, telegrams, postcards and notes relating to I
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 
-[Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923(https://monikabarget.github.io/FeministDH/casestudy2.html)
+[Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923](https://monikabarget.github.io/FeministDH/casestudy2.html)
 
 [Contact](https://monikabarget.github.io/FeministDH/contact-us.html)

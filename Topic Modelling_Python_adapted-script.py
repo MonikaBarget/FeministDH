@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
-
-
 import os
 import numpy as np
 import sklearn.feature_extraction.text as text # submodule gathers utilities to build feature vectors from text documents
@@ -85,24 +82,3 @@ for i in range(len(doctopic)):
 for t in range(len(topic_words)):
     
     print("Topic{}:{}".format(t, ' '.join(topic_words[t][:31])))
-            
-
-    
-
-
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-

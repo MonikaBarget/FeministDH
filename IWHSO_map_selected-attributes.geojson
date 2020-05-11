@@ -1,0 +1,5972 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3478923,52.9152801 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Leinster Express 1831-current, Saturday, December 11, 1915; Page: 5 / Leinster Express 1831-current, Saturday, March 04, 1916; Page: 4",
+    "Unit no.":"none",
+    "Function":"moss depot & regional supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Abbeyleix",
+    "Full Address":"Abbeyleix Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3478923,52.9152801 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Abbeyleix",
+    "Full Address":"Abbeyleix Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.015335,53.9619505 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Achill",
+    "Full Address":"Achill Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.399221,54.105747 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Adavoyle",
+    "Full Address":"Adavoyle Ireland ",
+    "County (ancient)":"Armagh",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2089958,51.836983 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Aghada",
+    "Full Address":"Aghada Ireland ",
+    "County (ancient)":"Carlow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7509757,52.7687606 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Aghade and Ballin Temple",
+    "Full Address":"Aghade and Ballin Temple Ireland ",
+    "County (ancient)":"Carlow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3346318,53.3976127 ]
+    },
+    "properties": {
+    "Source":"Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ahascragh",
+    "Full Address":"Ahascragh Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.850768,52.0882445 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Anglish and Villierstown",
+    "Full Address":"Anglish and Villierstown Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2072498,54.7195338 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Antrim",
+    "Full Address":"Antrim Ireland ",
+    "County (ancient)":"Antrim",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5400009,53.8576227 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ardee",
+    "Full Address":"Ardee Ireland ",
+    "County (ancient)":"Louth",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2140891,52.8586664 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Nenagh Guardian 1838-current, Saturday, September 08, 1917; Page: 2",
+    "Unit no.":"none",
+    "Function":"moss depot (\"sub-depot\")",
+    "Work party / supply depot address":"not stated",
+    "Town":"Arklow and Avoca",
+    "Full Address":"Arklow and Avoca Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6523119,54.3500658 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1733",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE PLACE",
+    "Town":"Armagh",
+    "Full Address":"Armagh Ireland ",
+    "County (ancient)":"Armagh",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6523119,54.3500658 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5715",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"4 MALL VIEW",
+    "Town":"Armagh",
+    "Full Address":"Armagh Ireland ",
+    "County (ancient)":"Armagh",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6523119,54.3500658 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Armagh",
+    "Full Address":"Armagh Ireland ",
+    "County (ancient)":"Armagh",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7453768,53.3008131 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athenry",
+    "Full Address":"Athenry Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7453768,53.3008131 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athenry",
+    "Full Address":"Athenry Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9857281,52.9918336 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athy",
+    "Full Address":"Athy Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Nationalist and Leinster Times 1883-current, Saturday, January 06, 1917; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athy",
+    "Full Address":"Athy Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Westmeath Independent 1848-current, Saturday, December 04, 1915; Page: 5",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athlone",
+    "Full Address":"Athlone Ireland",
+    "County (ancient)":"Westmeath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3259331,52.8559337 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Aughrim",
+    "Full Address":"Aughrim Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1550693,54.1149482 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballina",
+    "Full Address":"Ballina Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1550693,54.1149482 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballina",
+    "Full Address":"Ballina Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2269467,53.3287621 ]
+    },
+    "properties": {
+    "Source":"Royal College of Science Sub-Depot report for 1915 and 1916 / 21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballinasloe",
+    "Full Address":"Ballinasloe Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"",
+    "Unit no.":"",
+    "Function":"",
+    "Work party / supply depot address":"",
+    "Town":"",
+    "Full Address":"",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.948611,51.735556 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballineen",
+    "Full Address":"Ballineen Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2211143,53.6237338 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1816",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"PARTRY",
+    "Town":"Ballinrobe",
+    "Full Address":"Ballinrobe Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Mayo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9027864,54.1294617 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballybay",
+    "Full Address":"Ballybay Ireland ",
+    "County (ancient)":"Monaghan",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2532947,55.2052888 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4526",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballycastle",
+    "Full Address":"Ballycastle Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8437088,52.7168071 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballydarton",
+    "Full Address":"Ballydarton Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3257391,53.5225627 ]
+    },
+    "properties": {
+    "Source":"Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballygar",
+    "Full Address":"Ballygar Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1723961,53.7401727 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballyglass",
+    "Full Address":"Ballyglass Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4875618,53.3805093 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballymacward",
+    "Full Address":"Ballymacward Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7645964,53.5643632 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballymahon",
+    "Full Address":"Ballymahon Ireland ",
+    "County (ancient)":"Longford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2802213,54.8652935 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4282",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"TOWN HALL",
+    "Town":"Ballymena",
+    "Full Address":"Ballymena Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2802213,54.8652935 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5389",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"GRACEHILL",
+    "Town":"Ballymena",
+    "Full Address":"Ballymena Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5173708,55.0704888 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4364",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ASHLEIGH",
+    "Town":"Ballymoney",
+    "Full Address":"Ballymoney Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.882709,53.4638208 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballynahinch",
+    "Full Address":"Ballynahinch Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1920416,54.5029882 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ballyshannon",
+    "Full Address":"Ballyshannon Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.71098,52.9407807 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Baltinglass",
+    "Full Address":"Baltinglass Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3661093,51.4843274 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Baltitore",
+    "Full Address":"Baltitore Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9861049,53.1901112 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Banaghe (now: Banagher / Beannchar)",
+    "Full Address":"Banaghe (now: Banagher / Beannchar) Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2704803,54.348729 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1678",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CLONASLIE",
+    "Town":"Banbridge",
+    "Full Address":"Banbridge Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2704803,54.348729 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5051",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"MILLTOWN HOUSE",
+    "Town":"Banbridge",
+    "Full Address":"Banbridge Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7253133,51.7472382 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bandon",
+    "Full Address":"Bandon Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6937866,53.1226695 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4729",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ARDENODI",
+    "Town":"Bannockstown",
+    "Full Address":"Bannockstown Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4525763,51.6800803 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Skibbereen Eagle 1882-1922, Saturday, September 16, 1916; Page: 2",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bantry",
+    "Full Address":"Bantry Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.871449,54.2964532 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Belcoo",
+    "Full Address":"Belcoo Ireland ",
+    "County (ancient)":"Fermanagh or Cavan (not clearly separated in original map)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"Belfast Newsletter 1738-1938, Wednesday, December 08, 1915; Page: 7",
+    "Unit no.":"none",
+    "Function":"central supply depot for ULSTER",
+    "Work party / supply depot address":"no. 8, OLD TOWN HALL",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1104",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RED HOUSE CLUB, 100 HIGH STREET",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1119",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CHETWOOD, NOTTING HILL, MALONE ROAD",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1401",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"34 GLANTANE STREET, ANTRIM ROAD",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1409",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"34 GLANTANE STREET, ANTRIM ROAD",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1778",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CABIN HILL, KNOCK",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.597285 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5245",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"MUNICIPAL T. INSTITUTE",
+    "Town":"Belfast",
+    "Full Address":"Belfast Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8951652,53.2560708 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bellmount",
+    "Full Address":"Bellmount Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4496679,54.1019056 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Belturbet",
+    "Full Address":"Belturbet Ireland ",
+    "County (ancient)":"Fermanagh and Cavan (not clearly separated)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4371207,52.7674997 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4798",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CRAGG",
+    "Town":"Birdhill",
+    "Full Address":"Birdhill Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4371207,52.7674997 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Birdhill",
+    "Full Address":"Birdhill Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9096882,53.0980052 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1405",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"7 OXMANTOWN MALL",
+    "Town":"Birr",
+    "Full Address":"Birr Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9096882,53.0980052 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Birr",
+    "Full Address":"Birr Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Evening Herald 1891-current, Wednesday, September 27, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Blackrock",
+    "Full Address":"Blackrock Ireland",
+    "County (ancient)":"Louth, Cork oder Dublin???",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5340687,53.1696579 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Blessington",
+    "Full Address":"Blessington Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5340687,53.1696579 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Blessington",
+    "Full Address":"Blessington Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Nenagh Guardian 1838-current, Saturday, September 08, 1917; Page: 2",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Borrisokane",
+    "Full Address":"",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6310983,52.9391777 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Borris in Ossory",
+    "Full Address":"Borris in Ossory Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2972757,53.9722082 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Boyle",
+    "Full Address":"Boyle Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2972757,53.9722082 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Boyle",
+    "Full Address":"Boyle Ireland ",
+    "County (ancient)":"Roscommon",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1072059,53.5683501 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bracklyn",
+    "Full Address":"Bracklyn Ireland ",
+    "County (ancient)":"(West)Meath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1110741,53.200903 ]
+    },
+    "properties": {
+    "Source":"Evening Herald 1891-current, Saturday, March 17, 1917; Page: 2",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bray",
+    "Full Address":"Bray Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1110741,53.200903 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Bray",
+    "Full Address":"Bray Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2707098,52.3127106 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Brosna Sta.",
+    "Full Address":"Brosna Sta. Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4560128,55.1365797 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Buncrana",
+    "Full Address":"Buncrana Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4560128,55.1365797 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Buncrana",
+    "Full Address":"Buncrana Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4560128,55.1365797 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5159",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ARDCASIN",
+    "Town":"Buncrans",
+    "Full Address":"Buncrans Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1595568,53.2649538 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cabinteely",
+    "Full Address":"Cabinteely Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6920536,53.1423672 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cahen",
+    "Full Address":"Cahen Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0995294,51.7690125 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Caherdaniel (?)",
+    "Full Address":"Caherdaniel (?) Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.2209047,51.9477992 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cahersiveen",
+    "Full Address":"Cahersiveen Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.925247,52.3745296 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Irish Examiner 1841-current, Thursday, September 09, 1915; Page: 7",
+    "Unit no.":"none",
+    "Function":"moss depot (initially installed as general supply depot)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cahir",
+    "Full Address":"Cahir Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8427438,52.1462713 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cappoquin",
+    "Full Address":"Cappoquin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8427438,52.1462713 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cappoquin",
+    "Full Address":"Cappoquin Ireland ",
+    "County (ancient)":"Waterford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7290731,53.2373698 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Caragh",
+    "Full Address":"Caragh Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9341359,52.8365072 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Carlow",
+    "Full Address":"Carlow Ireland ",
+    "County (ancient)":"Carlow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2668905,55.2506229 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4819",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY",
+    "Town":"Carndonagh",
+    "Full Address":"Carndonagh Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7188238,53.9779778 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Carrickmacross",
+    "Full Address":"Carrickmacross Ireland ",
+    "County (ancient)":"Monaghan",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.190181,54.0468677 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Carringford (Carlingford)",
+    "Full Address":"Carringford (Carlingford) Ireland ",
+    "County (ancient)":"Louth",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8915829,52.5159097 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Irish Examiner 1841-current, Thursday, September 09, 1915; Page: 7 / Freemans Journal 1763-1924, Thursday, October 21, 1915; Page: 8",
+    "Unit no.":"1072",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ARDMAYLE / \"a room in the county infirmary\"",
+    "Town":"Cashel",
+    "Full Address":"Cashel Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8915829,52.5159097 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cashel",
+    "Full Address":"Cashel Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2879257,53.8550014 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4096",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY",
+    "Town":"Castlebar",
+    "Full Address":"Castlebar Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2879257,53.8550014 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Castlebar",
+    "Full Address":"Castlebar Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7397374,54.120659 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5351",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CARNAGH HOUSE, CARNAGH",
+    "Town":"Castleblayney",
+    "Full Address":"Castleblayney Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Monaghan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4932473,52.7156553 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Castleconnell",
+    "Full Address":"Castleconnell Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2964508,53.6800722 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1371",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"RATHGRAFFE RECTORY",
+    "Town":"Castlepollard",
+    "Full Address":"Castlepollard Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Westmeath"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2964508,53.6800722 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Castlepollard",
+    "Full Address":"Castlepollard Ireland ",
+    "County (ancient)":"Meath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Anglo-Celt 1846-current, Saturday, December 23, 1916; Page: 4",
+    "Unit no.":"none",
+    "Function":"general sub-depot to Monaghan?",
+    "Work party / supply depot address":"not stated",
+    "Town":"Castleshane",
+    "Full Address":"Castleshane Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3633319,53.9897186 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5298",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BANK OF IRELAND",
+    "Town":"Cavan",
+    "Full Address":"Cavan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Cavan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5384589,53.339897 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Celbridge",
+    "Full Address":"Celbridge Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6870404,53.293785 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clane",
+    "Full Address":"Clane Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6134801,53.3425103 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clara",
+    "Full Address":"Clara Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0202388,53.4891345 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clifden",
+    "Full Address":"Clifden Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0202388,53.4891345 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clifden",
+    "Full Address":"Clifden Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9951028,52.2770794 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clogheen",
+    "Full Address":"Clogheen Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5243696,53.1486014 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clonaslee",
+    "Full Address":"Clonaslee Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2306671,54.1796829 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clones",
+    "Full Address":"Clones Ireland ",
+    "County (ancient)":"Monaghan",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6902551,52.3558172 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1822",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"GOVERNOR, H.M. BORSTAL",
+    "Town":"Clonmel",
+    "Full Address":"Clonmel Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6902551,52.3558172 ]
+    },
+    "properties": {
+    "Source":"The Nationalist (Tipperary) 1889-current, Saturday, July 31, 1915; Page: 4",
+    "Unit no.":"",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"Clonmel Central Technical School",
+    "Town":"Clonmel",
+    "Full Address":"Clonmel Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6902551,52.3558172 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Clonmel",
+    "Full Address":"Clonmel Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0383372,52.9429442 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4805",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cloughjordan",
+    "Full Address":"Cloughjordan Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Belfast Newsletter 1738-1938, Wednesday, March 27, 1918; Page: 4",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Coleraine",
+    "Full Address":"Coleraine Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7443895,54.6418158 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Cookstown",
+    "Full Address":"Cookstown Ireland ",
+    "County (ancient)":"Tyrone",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0823541,54.0725034 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Coorhill (or: Cootehill?)",
+    "Full Address":"Coorhill (or: Cootehill?) Ireland ",
+    "County (ancient)":"Fermanagh and Cavan (not clearly separated)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0823541,54.0725034 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4213",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ASHFIELD LODGE",
+    "Town":"Cootehill",
+    "Full Address":"Cootehill Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Cavan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4756035,51.8985143 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4239",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"11 KING STREET",
+    "Town":"Cork",
+    "Full Address":"Cork Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4756035,51.8985143 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"University College",
+    "Town":"Cork",
+    "Full Address":"Cork Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5499547,53.2879391 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Costelloe",
+    "Full Address":"Costelloe Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9555948,52.5415402 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Craiguenamanagh",
+    "Full Address":"Craiguenamanagh Ireland ",
+    "County (ancient)":"Kilkenny",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3158456,54.100342 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Crossmolina",
+    "Full Address":"Crossmolina Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3089222,53.3252584 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4376",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"GLENDARAGH",
+    "Town":"Crumlin",
+    "Full Address":"Crumlin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1651352,55.2859437 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5233",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CULDAFF HOUSE",
+    "Town":"Culdaff",
+    "Full Address":"Culdaff Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0635633,54.1103453 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5491",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Dartrey",
+    "Full Address":"Dartrey Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.777187,53.4711744 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Derryclare",
+    "Full Address":"Derryclare Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Derry Journal 1844-1924, Monday, December 13, 1915; Page: 3 / Derry Journal 1844-1924, Wednesday, February 23, 1916; Page: 2 / Derry Journal 1844-1924, Friday, November 24, 1916; Page: 7",
+    "Unit no.":"none",
+    "Function":"regional moss depot for the NORTH WEST OF IRELAND",
+    "Work party / supply depot address":"STRAND HOUSE",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7344379,53.350377 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Donadea",
+    "Full Address":"Donadea Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1096143,54.653827 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4926",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE MANSE",
+    "Town":"Donegal",
+    "Full Address":"Donegal Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1096143,54.653827 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4936",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"SALT HILL, MOUNTCHARLES",
+    "Town":"Donegal",
+    "Full Address":"Donegal Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1096143,54.653827 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4971",
+    "Function":"general supply depot or local work party",
+    "Work party / supply depot address":"BALLINTRA",
+    "Town":"Donegal",
+    "Full Address":"Donegal Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1096143,54.653827 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5012",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY, GLENCOLUMBKILLE",
+    "Town":"Donegal",
+    "Full Address":"Donegal Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Drogheda Independent 1884-current, Saturday, November 27, 1915; Section: Front page, Page: 1",
+    "Unit no.":"none",
+    "Function":"general supply depot or local work party",
+    "Work party / supply depot address":"PLATTEN HALL",
+    "Town":"Drogheda",
+    "Full Address":"Drogheda Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3026235,54.2306704 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Drumahair",
+    "Full Address":"Drumahair Ireland ",
+    "County (ancient)":"Sligo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2603097,53.3498053 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1591",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BERESFORD, ESQ. 51 DAWSON STREET",
+    "Town":"Dublin",
+    "Full Address":"Dublin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2603097,53.3498053 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1608",
+    "Function":"central supply depot for the SOUTH OF IRELAND",
+    "Work party / supply depot address":"40 MERRION SQUARE",
+    "Town":"Dublin",
+    "Full Address":"Dublin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2603097,53.3498053 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5066",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"29 LOWER FITZWILLIAM STREET",
+    "Town":"Dublin",
+    "Full Address":"Dublin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2603097,53.3498053 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"Royal College of Science",
+    "Town":"Dublin",
+    "Full Address":"Dublin Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.246175,53.2931758 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Dundrum",
+    "Full Address":"Dundrum Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9694369,55.1834711 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5352",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"HORN HEAD",
+    "Town":"Dunfanaghy",
+    "Full Address":"Dunfanaghy Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7669352,54.5082725 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4627",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE VILLA",
+    "Town":"Dungannon",
+    "Full Address":"Dungannon Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3570787,54.6320711 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5020",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY",
+    "Town":"Dunkineely",
+    "Full Address":"Dunkineely Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3965245,52.845268 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Durrow",
+    "Full Address":"Durrow Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0505832,53.3432843 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Edenderry",
+    "Full Address":"Edenderry Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.9887384,52.8474255 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ennis",
+    "Full Address":"Ennis Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5819746,52.5068183 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Enniscorthy",
+    "Full Address":"Enniscorthy Ireland ",
+    "County (ancient)":"Wexford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1707299,53.1935037 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Enniskerry",
+    "Full Address":"Enniskerry Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.131427,53.1997171 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Eyrecourt",
+    "Full Address":"Eyrecourt Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Fermanagh Herald 1903-current, Saturday, September 01, 1917; Page: 3",
+    "Unit no.":"none",
+    "Function":"moss collection centre (associated with the War Working Guild)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Enniskillen",
+    "Full Address":"Enniskillen Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Irish Examiner 1841-current, Wednesday, December 22, 1915; Page: 4",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"Grange Cottage / Fermoy House",
+    "Town":"Fermoy",
+    "Full Address":"Fermoy Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4980105,52.5909249 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ferns",
+    "Full Address":"Ferns Ireland ",
+    "County (ancient)":"Wexford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6927334,52.4659436 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4095",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CLONACODY",
+    "Town":"Fethard",
+    "Full Address":"Fethard Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3884514,53.7799558 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Finnea",
+    "Full Address":"Finnea Ireland ",
+    "County (ancient)":"Meath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3146075,54.4967772 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5124",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Flintona",
+    "Full Address":"Flintona Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4074281,53.8695107 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Frenchpark",
+    "Full Address":"Frenchpark Ireland ",
+    "County (ancient)":"Roscommon",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3968551,52.7325047 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5635",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"LODGE PARK",
+    "Town":"Freshford",
+    "Full Address":"Freshford Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Source":"Connacht Tribune 1909-current, Saturday, September 09, 1916; Page: 8",
+    "Unit no.":"none",
+    "Function":"regional supply depot",
+    "Work party / supply depot address":"house to be taken",
+    "Town":"Galway",
+    "Full Address":"Galway Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Galway",
+    "Full Address":"Galway Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.0567905,53.270668 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Galway",
+    "Full Address":"Galway Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3229567,53.476593 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Gaybrook",
+    "Full Address":"Gaybrook Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3209776,53.2352224 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Geashill",
+    "Full Address":"Geashill Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3610955,54.3719875 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Gilford",
+    "Full Address":"Gilford Ireland ",
+    "County (ancient)":"Down",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1209722,51.5665072 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Glandore",
+    "Full Address":"Glandore Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.3981691,51.9177097 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1846",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"LOTA PARK",
+    "Town":"Glanmire",
+    "Full Address":"Glanmire Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.9403477,52.0561861 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Glenbeigh",
+    "Full Address":"Glenbeigh Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.32984,53.01198 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Glendalough",
+    "Full Address":"Glendalough Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2830316,54.7971669 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Glenfies (now: Glenties, Na Gleannta)",
+    "Full Address":"Glenfies (now: Glenties, Na Gleannta) Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3666546,53.6992601 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Goole (or: Coole, An Chúil, Westmeath)",
+    "Full Address":"Goole (or: Coole, An Chúil, Westmeath) Ireland ",
+    "County (ancient)":"Meath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.8187485,53.0666432 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Gort",
+    "Full Address":"Gort Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.74315,52.997873 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5643",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BALLYNURE",
+    "Town":"Grangecon",
+    "Full Address":"Grangecon Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0793414,53.1491175 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Greystones",
+    "Full Address":"Greystones Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.51667,54.01667 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Hamilton",
+    "Full Address":"Hamilton Ireland ",
+    "County (ancient)":"Armagh",
+    "County (modern)":"Cavan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1172608,53.6607241 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Hollymount",
+    "Full Address":"Hollymount Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0570132,53.3785693 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Howth",
+    "Full Address":"Howth Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1767645,52.8769834 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Inagh",
+    "Full Address":"Inagh Ireland ",
+    "County (ancient)":"Clare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.37383,54.23726 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4066",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"DRUMBANAGHER",
+    "Town":"Jerrestspass",
+    "Full Address":"Jerrestspass Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8769722,53.7271803 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Drogheda Independent 1884-current, Saturday, April 15, 1916; Section: Front page, Page: 1",
+    "Unit no.":"none",
+    "Function":"moss collection centre & general supply depot?",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kells",
+    "Full Address":"Kells Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8769722,53.7271803 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kells Sta. (railroad station?)",
+    "Full Address":"Kells Sta. (railroad station?) Ireland ",
+    "County (ancient)":"Kerry (kann nicht stimmen??)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5835203,51.8801017 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kenmare",
+    "Full Address":"Kenmare Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5835203,51.8801017 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kenmare",
+    "Full Address":"Kenmare Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7452791,53.1302865 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kilcullen",
+    "Full Address":"Kilcullen Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4384061,51.9031476 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Kerry News 1894-1941, Monday, September 11, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kilgarvan",
+    "Full Address":"Kilgarvan Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4384061,51.9031476 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Kerry Advocate 1914-1916, Saturday, March 18, 1916; Page: 8",
+    "Unit no.":"none",
+    "Function":"moss collection centre (associated with the Red Cross Society)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kilgarvan",
+    "Full Address":"Kilgarvan Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.007004,54.0631154 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5129",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"LIONACRES HOUSE",
+    "Town":"Kilkeel",
+    "Full Address":"Kilkeel Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.007004,54.0631154 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5138",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BORCHA",
+    "Town":"Kilkeel",
+    "Full Address":"Kilkeel Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2447879,52.6541454 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Kilkenny People 1895-current, Saturday, July 10, 1915; Page: 7 / Kilkenny People 1895-current, Saturday, November 06, 1915; Page: 7 / Evening Herald 1891-current, Wednesday, September 27, 1916; Page: 3",
+    "Unit no.":"1704",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BUTLER HOUSE (KILKENNY CASTLE?)",
+    "Town":"Kilkenny",
+    "Full Address":"Kilkenny Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Kilkenny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2447879,52.6541454 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Kilkenny People 1895-current, Saturday, July 10, 1915; Page: 7",
+    "Unit no.":"4323",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BELLEVUE HOUSE",
+    "Town":"Kilkenny",
+    "Full Address":"Kilkenny Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Kilkenny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2209999,54.2125146 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killala",
+    "Full Address":"Killala Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4475152,52.808886 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killaloe",
+    "Full Address":"Killaloe Ireland ",
+    "County (ancient)":"Clare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5044265,52.0599353 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1565",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"COLTSMANN GLENFLESK CASTLE",
+    "Town":"Killarney",
+    "Full Address":"Killarney Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Killarney"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5282313,54.0138727 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killashandra",
+    "Full Address":"Killashandra Ireland ",
+    "County (ancient)":"Fermanagh and Cavan (not clearly separated)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5282313,54.0138727 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killeshandra",
+    "Full Address":"Killeshandra Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7843403,52.1063508 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killorglin",
+    "Full Address":"Killorglin Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4547084,54.6347625 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Killybegs",
+    "Full Address":"Killybegs Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.5709354,52.3986564 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5619",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"RIVERSFIELD",
+    "Town":"Kilmallock",
+    "Full Address":"Kilmallock Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1338666,53.2943958 ]
+    },
+    "properties": {
+    "Source":"Freemans Journal 1763-1924, Saturday, August 04, 1917; Page: 4",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kingstown (now: (Dún Laoghaire)",
+    "Full Address":"Kingstown (now: (Dún Laoghaire) Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1338666,53.2943958 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kingstown (now: (Dún Laoghaire)",
+    "Full Address":"Kingstown (now: (Dún Laoghaire) Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1338666,53.2943958 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kingstown (Dún Laoghaire)",
+    "Full Address":"Kingstown (Dún Laoghaire) Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1338666,53.2943958 ]
+    },
+    "properties": {
+    "Source":"Freemans Journal 1763-1924, Friday, March 22, 1918; Page: 2",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kingstown (Dún Laoghaire)",
+    "Full Address":"Kingstown (Dún Laoghaire) Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.5222327,51.7058853 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kinsale",
+    "Full Address":"Kinsale Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8236224,54.8578003 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1849",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"LARK HILL",
+    "Town":"Larne",
+    "Full Address":"Larne Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8236224,54.8578003 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4069",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"1 GOLF VIEW, BAY ROAD",
+    "Town":"Larne",
+    "Full Address":"Larne Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Antrim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4900033,53.3638428 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Leixlip",
+    "Full Address":"Leixlip Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4900033,53.3638428 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Leixlip",
+    "Full Address":"Leixlip Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9336758,55.0454563 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4373",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"DRENAGH",
+    "Town":"Limavady",
+    "Full Address":"Limavady Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.6267343,52.6638367 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / The Nationalist (Tipperary) 1889-current, Wednesday, July 04, 1917; Page: 3",
+    "Unit no.":"5224",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"INTERNATIONAL HOTEL",
+    "Town":"Limerick",
+    "Full Address":"Limerick Ireland ",
+    "County (ancient)":"Limerick",
+    "County (modern)":"Limerick"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0580106,54.516246 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4419",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ST. JOHN'S AMBULANCE",
+    "Town":"Lisburn",
+    "Full Address":"Lisburn Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2897106,53.0301669 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Lisdoonvarna",
+    "Full Address":"Lisdoonvarna Ireland ",
+    "County (ancient)":"Clare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8222696,52.0715072 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Lismore (and Aglish???)",
+    "Full Address":"Lismore (and Aglish???) Ireland ",
+    "County (ancient)":"Waterford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8831009,52.1201217 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Lismore and Tourin",
+    "Full Address":"Lismore and Tourin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4853655,52.4460488 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Listowel",
+    "Full Address":"Listowel Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.735419,52.6369829 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Littleton",
+    "Full Address":"Littleton Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6181276,52.4064615 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Lixnaw",
+    "Full Address":"Lixnaw Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4825",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE DEANERY",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Londonderry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5015",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"KNOCKAN",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Londonderry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5550",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THORN HILL",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Londonderry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5717",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"SPRING HILL, QUIGLEY'S POINT",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Londonderry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5725",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY, CULMORE",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Londonderry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3085748,54.9966124 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Derry Journal 1844-1924, Wednesday, November 27, 1918; Page: 2",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Derry / Londonderry",
+    "Full Address":"Londonderry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7932573,53.7276296 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Longford",
+    "Full Address":"Longford Ireland ",
+    "County (ancient)":"Longford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0426132,54.6986613 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5045",
+    "Function":"5045",
+    "Work party / supply depot address":"5045 LOUGH ESKE MRS RYAN, THE RECTORY",
+    "Town":"Lough Eske",
+    "Full Address":"Lough Eske Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.8130209,53.032165 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Loughcutra",
+    "Full Address":"Loughcutra Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029059,54.4093603 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5229",
+    "Function":"5229",
+    "Work party / supply depot address":"Beechville",
+    "Town":"Loughgall",
+    "Full Address":"Loughgall Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3345506,54.4635261 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4214",
+    "Function":"4214",
+    "Work party / supply depot address":"20 CHURCH PLACE",
+    "Town":"Lurgan",
+    "Full Address":"Lurgan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3345506,54.4635261 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5417",
+    "Function":"5417",
+    "Work party / supply depot address":"WINDSOR BUILDINGS",
+    "Town":"Lurgan",
+    "Full Address":"Lurgan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3345506,54.4635261 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5518",
+    "Function":"5518",
+    "Work party / supply depot address":"20 CHURCH PLACE",
+    "Town":"Lurgan",
+    "Full Address":"Lurgan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.9588478,51.9048039 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Macroom",
+    "Full Address":"Macroom Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.46509,54.29513 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5732",
+    "Function":"5732",
+    "Work party / supply depot address":"Todd Holly Mount",
+    "Town":"Maguiresbridge",
+    "Full Address":"Maguiresbridge Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Fermanagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.2630825,55.2949279 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5234",
+    "Function":"5234",
+    "Work party / supply depot address":"MALIN HALL",
+    "Town":"Malin",
+    "Full Address":"Malin Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7813773,53.9061783 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Malleranny",
+    "Full Address":"Malleranny Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.6539164,52.1389762 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Mallow",
+    "Full Address":"Mallow Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5217383,54.2969635 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4064",
+    "Function":"4064",
+    "Work party / supply depot address":"The Rectory",
+    "Town":"Markethill",
+    "Full Address":"Markethill Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4239579,51.8697663 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Leinster Express 1831-current, Saturday, June 24, 1916; Page: 5",
+    "Unit no.":"moss depot",
+    "Function":"moss depot & general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Maryborough",
+    "Full Address":"Maryborough Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4239579,51.8697663 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Maryborough",
+    "Full Address":"Maryborough Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5918499,53.3812896 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"May (abbr. Maynooth?)",
+    "Full Address":"May (abbr. Maynooth?) Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5625294,53.8841662 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Melcomb (now: Melcombe, Lisduff, Co. Contae Mhaigh Eo, Éire\n)",
+    "Full Address":"Melcomb (now: Melcombe, Lisduff, Co. Contae Mhaigh Eo, Éire\n) Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3823088,53.8868685 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Milestown (Castlebelling)",
+    "Full Address":"Milestown (Castlebelling) Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6989621,55.0883927 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5221",
+    "Function":"5221",
+    "Work party / supply depot address":"KNOCKNAGEANE",
+    "Town":"Milford",
+    "Full Address":"Milford Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7175069,52.1451912 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Milltown",
+    "Full Address":"Milltown Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7175069,52.1451912 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Milltown",
+    "Full Address":"Milltown Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7186188,53.3949987 ]
+    },
+    "properties": {
+    "Source":"Westmeath Independent 1848-current, Saturday, August 19, 1916; Page: 5",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"Sisters of Mercy convent",
+    "Town":"Moate",
+    "Full Address":"Moate Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7186188,53.3949987 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Moate",
+    "Full Address":"Moate Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9683082,54.2492434 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Monaghan",
+    "Full Address":"Monaghan Ireland ",
+    "County (ancient)":"Monaghan",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.060377,53.1400651 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Monasterevin",
+    "Full Address":"Monasterevin Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8228055,52.9560245 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Moore Abbey (Monastery)",
+    "Full Address":"Moore Abbey (Monastery) Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3267379,53.1181481 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Mountmellick",
+    "Full Address":"Mountmellick Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3267379,53.1181481 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Mountmellick",
+    "Full Address":"Mountmellick Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4675763,52.995014 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Mountrath",
+    "Full Address":"Mountrath Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0400533,55.1890182 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5648",
+    "Function":"5648",
+    "Work party / supply depot address":"ST. COLUMBS",
+    "Town":"Moville",
+    "Full Address":"Moville Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6910263,54.4466495 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5592",
+    "Function":"5592",
+    "Work party / supply depot address":"not stated",
+    "Town":"Moy (An Maigh)",
+    "Full Address":"Moy (An Maigh) Ireland ",
+    "County (ancient)":"Tyrone",
+    "County (modern)":"Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6910263,54.4466495 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"Sphagnum Collecting Centres",
+    "Function":"Sphagnum Collecting Centres",
+    "Work party / supply depot address":"not stated",
+    "Town":"Moy (An Maigh)",
+    "Full Address":"Moy (An Maigh) Ireland ",
+    "County (ancient)":"Tyrone",
+    "County (modern)":"Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.0016434,53.5438159 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Moyard",
+    "Full Address":"Moyard Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7796988,52.6178434 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Mt. Leinster",
+    "Full Address":"Mt. Leinster Ireland ",
+    "County (ancient)":"Carlow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.659308,53.2205654 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Naas",
+    "Full Address":"Naas Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.659308,53.2205654 ]
+    },
+    "properties": {
+    "Source":"Leinster Leader 1881-1929, Saturday, December 23, 1916; Page: 3 / Leinster Leader 1881-1929, Saturday, February 24, 1917; Page: 8",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Naas",
+    "Full Address":"Naas Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.659308,53.2205654 ]
+    },
+    "properties": {
+    "Source":"Nationalist and Leinster Times 1883-current, Saturday, January 06, 1917; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Naas",
+    "Full Address":"Naas Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6966605,53.647092 ]
+    },
+    "properties": {
+    "Source":"Leinster Leader 1881-1929, Saturday, December 23, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"NAVAN TECHNICAL SCHOOL",
+    "Town":"Navan",
+    "Full Address":"Navan Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6966605,53.647092 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Navan",
+    "Full Address":"Navan Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6966605,53.647092 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Navan",
+    "Full Address":"Navan Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1975561,52.8642968 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Nenagh Guardian 1838-current, Saturday, October 02, 1915; Page: 6",
+    "Unit no.":"4744",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"KILBEY",
+    "Town":"Nenagh",
+    "Full Address":"Nenagh Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1975561,52.8642968 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Nenagh",
+    "Full Address":"Nenagh Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1975561,52.8642968 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Nenagh",
+    "Full Address":"Nenagh Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8047467,53.1750758 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newbridge",
+    "Full Address":"Newbridge Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8920445,54.21614 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newcastle",
+    "Full Address":"Newcastle Ireland ",
+    "County (ancient)":"Down",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5463685,53.8852758 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newport",
+    "Full Address":"Newport Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5463685,53.8852758 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newport",
+    "Full Address":"Newport Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.835621,53.7654838 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newton Forbes",
+    "Full Address":"Newton Forbes Ireland ",
+    "County (ancient)":"Longford",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4065",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"NEWTOWN HAMILTON",
+    "Town":"(in Co. Armagh?)",
+    "Full Address":"Newtown Ireland ",
+    "County (ancient)":"Co. Armagh",
+    "County (modern)":"Co. Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.6931703,54.5913787 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1617",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"COMMANDANT DOWN, 60 THE CROFT",
+    "Town":"Newtownards",
+    "Full Address":"Newtownards Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.6931703,54.5913787 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4426",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"10 FRANCIS STREET",
+    "Town":"Newtownards",
+    "Full Address":"Newtownards Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6590544,52.6496278 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Newtownbarry",
+    "Full Address":"Newtownbarry Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.730563,54.119015 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"O’blayney (Castleblayney)",
+    "Full Address":"O’blayney (Castleblayney) Ireland ",
+    "County (ancient)":"Monaghan",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1624118,53.7700178 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Oldcastle",
+    "Full Address":"Oldcastle Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1624118,53.7700178 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Oldcastle",
+    "Full Address":"Oldcastle Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3099597,54.5977149 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5317",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE MANSE",
+    "Town":"Omagh",
+    "Full Address":"Omagh Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3189472,53.4285481 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Oughterard",
+    "Full Address":"Oughterard Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8320339,54.54943 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5177",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"RIVERBANK",
+    "Town":"Pettigoe",
+    "Full Address":"Pettigoe Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4755989,53.8159478 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Philipstown",
+    "Full Address":"Philipstown Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4548387,54.4203331 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5354",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"CARRICK BLACKER",
+    "Town":"Portadown",
+    "Full Address":"Portadown Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Armagh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4548387,54.4203331 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portadown",
+    "Full Address":"Portadown Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1877573,53.161211 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portarlington",
+    "Full Address":"Portarlington Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1877573,53.161211 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portarlington",
+    "Full Address":"Portarlington Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3144407,52.2881989 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Waterford News and Star 1848-current, Friday, July 09, 1915; Page: 8",
+    "Unit no.":"none",
+    "Function":"moss depot (initially planned as general supply depot)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portlaw",
+    "Full Address":"Portlaw Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6526708,55.2041945 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5455",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ARDEEVIN",
+    "Town":"Portrush",
+    "Full Address":"Portrush Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2185406,53.0927811 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portumna",
+    "Full Address":"Portumna Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2185406,53.0927811 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Portumna",
+    "Full Address":"Portumna Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Derry Journal 1844-1924, Monday, April 08, 1918; Page: 4",
+    "Unit no.":"none",
+    "Function":"general supply depot (affiliated with Coleraine?)",
+    "Work party / supply depot address":"wanted to use a school room in a Methodist church but had to look elsewhere when the pastor objected?",
+    "Town":"Portstewart",
+    "Full Address":"Portstewart Ireland",
+    "County (ancient)":"Derry",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2385501,52.931884 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Puckaun",
+    "Full Address":"Puckaun Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2942858,51.8503357 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Queenstown",
+    "Full Address":"Queenstown Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6158908,53.2797842 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rahan",
+    "Full Address":"Rahan Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Derry Journal 1844-1924, Monday, April 15, 1918; Page: 2",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Raphoe",
+    "Full Address":"",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2311012,52.9323123 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rathdrum",
+    "Full Address":"Rathdrum Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.64809,55.0359 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rathmelton",
+    "Full Address":"Rathmelton Ireland ",
+    "County (ancient)":"Donegal",
+    "County (modern)":"Donegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5203959,53.656076 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rathowen",
+    "Full Address":"Rathowen Ireland ",
+    "County (ancient)":"Meath",
+    "County (modern)":"Meath"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.082812,52.9946004 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rathrew (\nRathnew\nRáth Naoi)",
+    "Full Address":"Rathrew (\nRathnew\nRáth Naoi) Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3383888,54.0563584 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Ravensdale",
+    "Full Address":"Ravensdale Ireland ",
+    "County (ancient)":"Louth",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7237017,53.4655285 ]
+    },
+    "properties": {
+    "Source":" Royal College of Science Sub-Depot report for 1915 and 1916",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Recess",
+    "Full Address":"Recess Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5513049,54.3718251 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4470",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"HOCKLEY LODGE",
+    "Town":"Richhill (Log a' Choire)",
+    "Full Address":"Richhill (Log a' Choire) Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5513049,54.3718251 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4487",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE RECTORY, KILMORE",
+    "Town":"Richhill (Log a' Choire)",
+    "Full Address":"Richhill (Log a' Choire) Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1890955,53.6275906 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Freemans Journal 1763-1924, Thursday, September 14, 1916; Page: 6",
+    "Unit no.":"none",
+    "Function":"moss depot & general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Roscommon",
+    "Full Address":"Roscommon Ireland ",
+    "County (ancient)":"Roscommon",
+    "County (modern)":"Roscommon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1890955,53.6275906 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Roscommon",
+    "Full Address":"Roscommon Ireland ",
+    "County (ancient)":"Roscommon",
+    "County (modern)":"Roscommon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7984696,52.9551789 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Roscrea",
+    "Full Address":"Roscrea Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7984696,52.9551789 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Roscrea",
+    "Full Address":"Roscrea Ireland ",
+    "County (ancient)":"Queen’s County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2071338,54.5571558 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5333",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ROSSNOWLAGH RECTORY",
+    "Town":"Rossnawlagh",
+    "Full Address":"Rossnawlagh Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2003999,54.10073 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5467",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rostrever",
+    "Full Address":"Rostrever Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2003999,54.10073 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rostrevor",
+    "Full Address":"Rostrevor Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.7171086,53.9064967 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Rosturk",
+    "Full Address":"Rosturk Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2241877,53.0657875 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Roundwood",
+    "Full Address":"Roundwood Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.53316,52.90872 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Scarrit (most likely Scariff / Scarriff / An Scairbh)",
+    "Full Address":"Scariff",
+    "County (ancient)":"Clare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1237578,53.2332663 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Shankhill",
+    "Full Address":"Shankhill Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9245622,52.9844035 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Shinrone",
+    "Full Address":"Shinrone Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7776504,52.7436246 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Sixmilebridge",
+    "Full Address":"Sixmilebridge Ireland ",
+    "County (ancient)":"Clare",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2621303,51.5559244 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Skibbereen",
+    "Full Address":"Skibbereen Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5479801,51.526867 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Skull",
+    "Full Address":"Skull Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.8983245,51.8373942 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Sneem",
+    "Full Address":"Sneem Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":"Kerry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3053627,53.2441766 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Spiddle",
+    "Full Address":"Spiddle Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4633103,54.8273865 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Strabane Chronicle 1908-current, Wednesday, April 11, 1917; Section: Front page, Page: 1",
+    "Unit no.":"1812",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"MAGHEREAGH",
+    "Town":"Strabane",
+    "Full Address":"Strabane Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"West Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4633103,54.8273865 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Strabane Chronicle 1908-current, Wednesday, April 11, 1917; Section: Front page, Page: 1",
+    "Unit no.":"5384",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"DERRY ROAD",
+    "Town":"Strabane",
+    "Full Address":"Strabane Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"West Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4633103,54.8273865 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html / Strabane Chronicle 1908-current, Wednesday, April 11, 1917; Section: Front page, Page: 1",
+    "Unit no.":"5403",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"HAZELWOOD",
+    "Town":"Strabane",
+    "Full Address":"Strabane Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"West Tyrone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Source":"Leinster Express 1831-current, Saturday, August 12, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"sub-depot affiliated with Abbeyleix",
+    "Work party / supply depot address":"Stradbally Hall",
+    "Town":"Stradbally",
+    "Full Address":"Stradbally Ireland",
+    "County (ancient)":"Queen's County",
+    "County (modern)":"Laois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6088248,53.3118851 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Straffan",
+    "Full Address":"Straffan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4914985,53.6806823 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Street",
+    "Full Address":"Street Ireland ",
+    "County (ancient)":"Meath",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1498951,53.1542323 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Sugarloaf",
+    "Full Address":"Sugarloaf Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4147568,54.3561049 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4172",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"ORANGE HILL",
+    "Town":"Tandragee",
+    "Full Address":"Tandragee Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8398609,52.794802 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5482",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BARNANE RECTORY",
+    "Town":"Templemore",
+    "Full Address":"Templemore Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8398609,52.794802 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Templemore",
+    "Full Address":"Templemore Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8398609,52.794802 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Templemore",
+    "Full Address":"Templemore Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0923901,54.70431 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5383",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"LYE HILL MANSE",
+    "Town":"Templepatrick",
+    "Full Address":"Templepatrick Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4609224,54.37648 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tempo",
+    "Full Address":"Tempo Ireland ",
+    "County (ancient)":"Fermanagh and Cavan (not clearly separated)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1388211,52.5270825 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Thomastown",
+    "Full Address":"Thomastown Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8044421,52.6801064 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5129",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"GRAIGUENOE PARK",
+    "Town":"Thurles",
+    "Full Address":"Thurles Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8044421,52.6801064 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"Littleton Rectory",
+    "Town":"Thurles",
+    "Full Address":"Thurles Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Tipperary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4631844,52.7997634 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tihahely",
+    "Full Address":"Tihahely Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1544426,52.4747264 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tipperary",
+    "Full Address":"Tipperary Ireland ",
+    "County (ancient)":"Tipperary",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6999325,52.2713096 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4880",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"BALLYARD HOUSE",
+    "Town":"Tralee",
+    "Full Address":"Tralee Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":"Kerry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6999325,52.2713096 ]
+    },
+    "properties": {
+    "Source":"Kerry Sentinel 1878-1916, Wednesday, December 13, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"TRALEE TECHNICAL SCHOOL",
+    "Town":"Tralee",
+    "Full Address":"Tralee Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":"Kerry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1492952,52.1614354 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Waterford News and Star 1848-current, Friday, July 09, 1915; Page: 8 / Waterford News and Star 1848-current, Friday, July 27, 1917; Page: 12",
+    "Unit no.":"moss depot",
+    "Function":"moss depot (initially planned as general supply depot)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tramore",
+    "Full Address":"Tramore Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.8565177,53.5141156 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tuam",
+    "Full Address":"Tuam Ireland ",
+    "County (ancient)":"Galway",
+    "County (modern)":"Galway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4933852,53.2755255 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1609",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tullamore",
+    "Full Address":"Tullamore Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4933852,53.2755255 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss depot",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tullamore",
+    "Full Address":"Tullamore Ireland ",
+    "County (ancient)":"King's County",
+    "County (modern)":"Offaly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.7371517,52.802547 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"moss collection centre",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Tullow",
+    "Full Address":"Tullow Ireland ",
+    "County (ancient)":"Carlow",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.82263,54.32999 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4203",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"TYNAN ABBEY",
+    "Town":"Tynan",
+    "Full Address":"Tynan Ireland ",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5838666,52.719749 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Urlingford",
+    "Full Address":"Urlingford Ireland ",
+    "County (ancient)":"Kilkenny",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0813222,53.8344096 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Virginia",
+    "Full Address":"Virginia Ireland ",
+    "County (ancient)":"Fermanagh and Cavan (not clearly separated)",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2520778,54.105301 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5074",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"NARROW WATER",
+    "Town":"Warrenpoint",
+    "Full Address":"Warrenpoint Ireland ",
+    "County (ancient)":"Down",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2520778,54.105301 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Warrenpoint",
+    "Full Address":"Warrenpoint Ireland ",
+    "County (ancient)":"Down",
+    "County (modern)":"Down"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.1745436,51.829465 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Waterville",
+    "Full Address":"Waterville Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":"Kerry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1100702,52.2593197 ]
+    },
+    "properties": {
+    "Source":"Waterford News and Star 1848-current, Friday, July 09, 1915; Page: 8",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Waterford",
+    "Full Address":"Waterford Ireland",
+    "County (ancient)":"",
+    "County (modern)":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.5143467,53.8021307 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Westport",
+    "Full Address":"Westport Ireland ",
+    "County (ancient)":"Mayo",
+    "County (modern)":"Mayo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4633381,52.336916 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Wexford",
+    "Full Address":"Wexford Ireland ",
+    "County (ancient)":"Wexford",
+    "County (modern)":"Wexford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.9027838,54.66861 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"4934",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"JORDANSTOWN RECTORY",
+    "Town":"Whiteabbey",
+    "Full Address":"Whiteabbey Ireland ",
+    "County (ancient)":"",
+    "County (modern)":"Belfast Metropolitan Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.044589,52.9808207 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Wicklow",
+    "Full Address":"Wicklow Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.044589,52.9808207 ]
+    },
+    "properties": {
+    "Source":"Wicklow News-Letter 1900-1926, Saturday, November 20, 1915; Page: 5",
+    "Unit no.":"none",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"not stated",
+    "Town":"Wicklow",
+    "Full Address":"Wicklow Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.044589,52.9808207 ]
+    },
+    "properties": {
+    "Source":"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",
+    "Unit no.":"none",
+    "Function":"moss collection centre",
+    "Work party / supply depot address":"not stated",
+    "Town":"Wicklow",
+    "Full Address":"Wicklow Ireland ",
+    "County (ancient)":"Wicklow",
+    "County (modern)":"Wicklow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8471707,51.9542704 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"1882",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE COTTAGE",
+    "Town":"Youghal",
+    "Full Address":"Youghal Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8471707,51.9542704 ]
+    },
+    "properties": {
+    "Source":"http://www.scarletfinders.co.uk/178.html",
+    "Unit no.":"5090",
+    "Function":"general supply depot",
+    "Work party / supply depot address":"THE COLLEGE",
+    "Town":"Youghal",
+    "Full Address":"Youghal Ireland ",
+    "County (ancient)":"Cork",
+    "County (modern)":"Cork"
+    }
+  }
+]
+}

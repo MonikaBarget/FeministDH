@@ -1,89 +1,89 @@
-Unique words women	Overlap women:men	Unique words men	Overlap men:women
-ago	1	able	0
-allowed	0	account	0
-bad	0	ago	1
-best	1	alright	0
-better	1	best	1
-came	1	better	1
-charlie	1	came	1
-come	0	camp	0
-daly	1	cara	0
-day	1	castle	0
-days	1	charlie	1
-dear	1	course	0
-delighted	0	daly	1
-did	1	dan	0
-didn't	0	day	1
-don't	1	days	1
-dublin	1	dear	1
-father	0	death	0
-friends	1	did	1
-getting	1	don't	1
-god	1	dublin	1
-going	1	expect	0
-gone	0	family	0
-good	1	far	0
-got	1	form	0
-great	1	friends	1
-hear	1	getting	1
-heard	1	glad	0
-home	1	god	1
-hope	1	going	1
-I'll	0	good	1
-just	1	got	1
-know	1	great	1
-left	1	hear	1
-letter	1	heard	1
-letters	1	home	1
-like	1	hope	1
-little	0	just	1
-long	1	know	1
-love	0	lads	0
-mother	1	left	1
-mrs	1	let	0
-news	1	letter	1
-nice	0	letters	1
-night	0	like	1
-poor	1	long	1
-said	1	make	0
-saw	0	matter	0
-say	1	meet	0
-send	1	mind	0
-sent	1	mother	1
-soon	1	mrs	1
-st	0	news	1
-sunday	0	old	0
-suppose	1	people	0
-sure	1	poor	1
-susie	1	present	0
-sympathy	0	quite	0
-tell	1	reading	0
-think	1	received	0
-thought	1	remember	0
-time	1	said	1
-told	1	say	1
-tomas	1	send	1
-week	1	sent	1
-went	0	soon	1
-willie	0	suppose	1
-wishes	1	sure	1
-write	1	susie	1
-writing	1	tell	1
-wrote	1	thing	0
-yesterday	1	things	0
-		think	1
-		thought	1
-		time	1
-		tis	0
-		today	0
-		told	1
-		tomas	1
-		want	0
-		way	0
-		week	1
-		wishes	1
-		write	1
-		writing	1
-		wrote	1
-		ye	0
-		yesterday	1
+Unique words in women's topics,Overlap women:men,Unique words in men's topics,Overlap men:women
+ago,1,able,0
+allowed,0,account,0
+bad,0,ago,1
+best,1,alright,0
+better,1,best,1
+came,1,better,1
+charlie,1,came,1
+come,0,camp,0
+daly,1,cara,0
+day,1,castle,0
+days,1,charlie,1
+dear,1,course,0
+delighted,0,daly,1
+did,1,dan,0
+didn't,0,day,1
+don't,1,days,1
+dublin,1,dear,1
+father,0,death,0
+friends,1,did,1
+getting,1,don't,1
+god,1,dublin,1
+going,1,expect,0
+gone,0,family,0
+good,1,far,0
+got,1,form,0
+great,1,friends,1
+hear,1,getting,1
+heard,1,glad,0
+home,1,god,1
+hope,1,going,1
+I'll,0,good,1
+just,1,got,1
+know,1,great,1
+left,1,hear,1
+letter,1,heard,1
+letters,1,home,1
+like,1,hope,1
+little,0,just,1
+long,1,know,1
+love,0,lads,0
+mother,1,left,1
+mrs,1,let,0
+news,1,letter,1
+nice,0,letters,1
+night,0,like,1
+poor,1,long,1
+said,1,make,0
+saw,0,matter,0
+say,1,meet,0
+send,1,mind,0
+sent,1,mother,1
+soon,1,mrs,1
+st,0,news,1
+sunday,0,old,0
+suppose,1,people,0
+sure,1,poor,1
+susie,1,present,0
+sympathy,0,quite,0
+tell,1,reading,0
+think,1,received,0
+thought,1,remember,0
+time,1,said,1
+told,1,say,1
+tomas,1,send,1
+week,1,sent,1
+went,0,soon,1
+willie,0,suppose,1
+wishes,1,sure,1
+write,1,susie,1
+writing,1,tell,1
+wrote,1,thing,0
+yesterday,1,things,0
+,,think,1
+,,thought,1
+,,time,1
+,,tis,0
+,,today,0
+,,told,1
+,,tomas,1
+,,want,0
+,,way,0
+,,week,1
+,,wishes,1
+,,write,1
+,,writing,1
+,,wrote,1
+,,ye,0
+,,yesterday,1

@@ -6,6 +6,6 @@ Data from the Letters 1916-1923 collection as well as newspaper articles and gov
 
 The **general map** is an attempt to display as many regional depots as possible.
 
-The [**zoomable map of female IWHSO managers in Connacht**](https://monikabarget.github.io/FeministDH/IWHSOConnacht_interactive.html) shows women's activities between 1915 and 1917. All the women mentioned here were officially part of the Galway branch although some of them came from places in neighbouring counties. One woman counted among the Galway volunteers was stationed in Malta, most likely in a British war hospital.
+The [zoomable map of IWHSO managers in Connacht](https://monikabarget.github.io/FeministDH/IWHSOConnacht_interactive.html) shows centres of medical supply production in the west of Ireland between 1915 and 1917. Please click on individual orange dots to read the labels. All women (and one man) mentioned here were officially part of the Galway branch although some of them came from places in neighbouring counties. One woman counted among the Galway volunteers was stationed in Malta, most likely in a British war hospital.
     
 [HOME](https://monikabarget.github.io/FeministDH/)

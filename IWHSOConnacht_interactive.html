@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="IWHSOConnacht_interactive-Dateien/leaflet.css">
+        <link rel="stylesheet" href="IWHSOConnacht_interactive-Dateien/qgis2web.css"><link rel="stylesheet" href="IWHSOConnacht_interactive-Dateien/fontawesome-all.css">
+        <style>
+        #map {
+            width: 1519px;
+            height: 748px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map" class="leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" style="position: relative; outline: currentcolor none medium;" tabindex="0">
+        <div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1036.78px, 730.06px, 0px) scale(4);"></div><div class="leaflet-pane leaflet-pane_OSMStandard_0-pane" style="z-index: 400;"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 27; transform: translate3d(574px, 281px, 0px) scale(0.5);"></div><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 28; transform: translate3d(383px, 187px, 0px) scale(1);"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(113px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(369px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(113px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(369px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-143px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(625px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-143px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(625px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(369px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(369px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(113px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(625px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(113px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(625px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(881px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(881px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-143px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(881px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-143px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(881px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-399px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/2.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1137px, -31px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-399px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/3_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1137px, 225px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-399px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/1_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1137px, -287px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-399px, 481px, 0px); opacity: 1;"><img alt="" role="presentation" src="IWHSOConnacht_interactive-Dateien/4_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1137px, 481px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-pane_IWHSOConnacht_1-pane" style="z-index: 401; mix-blend-mode: normal;"><svg pointer-events="none" class="leaflet-zoom-animated" width="1835" height="898" style="transform: translate3d(-153px, -75px, 0px);" viewBox="-153 -75 1835 898"><g><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M692,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M700,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M695,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M691,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M694,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M831,449a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M693,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M696,300a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M695,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,310a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,310a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M691,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M695,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M700,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M691,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M691,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M698,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,310a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M696,309a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M691,306a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M693,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M698,311a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,310a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M694,308a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M696,309a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M701,307a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path><path class="leaflet-interactive" stroke="rgba(35,35,35,1.0)" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255,158,23,1.0)" fill-opacity="1" fill-rule="evenodd" d="M696,309a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 "></path></g></svg></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> · <a href="https://leafletjs.com/" title="A JS library for interactive maps">Leaflet</a> · <a href="https://qgis.org/">QGIS</a> | <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a></div></div></div></div>
+        <script src="IWHSOConnacht_interactive-Dateien/qgis2web_expressions.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/leaflet_003.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/leaflet.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/leaflet_002.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/leaflet-hash.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/Autolinker.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/rbush.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/labelgun.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/labels.js"></script>
+        <script src="IWHSOConnacht_interactive-Dateien/IWHSOConnacht_1.js"></script>
+        <script>
+        var highlightLayer;
+        function highlightFeature(e) {
+            highlightLayer = e.target;
+
+            if (e.target.feature.geometry.type === 'LineString') {
+              highlightLayer.setStyle({
+                color: '#ffff00',
+              });
+            } else {
+              highlightLayer.setStyle({
+                fillColor: '#ffff00',
+                fillOpacity: 1
+              });
+            }
+        }
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[35.4434644625,-17.20201284267761],[54.5721140375,21.696326842677614]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_OSMStandard_0');
+        map.getPane('pane_OSMStandard_0').style.zIndex = 400;
+        var layer_OSMStandard_0 = L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            pane: 'pane_OSMStandard_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_OSMStandard_0;
+        map.addLayer(layer_OSMStandard_0);
+        function pop_IWHSOConnacht_1(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    for (i in e.target._eventParents) {
+                        e.target._eventParents[i].resetStyle(e.target);
+                    }
+                },
+                mouseover: highlightFeature,
+            });
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Work party managers in Co. Galway (1916)</th>\
+                        <td>' + (feature.properties['Work party managers in Co. Galway (1916)'] !== null ? autolinker.link(feature.properties['Work party managers in Co. Galway (1916)'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Place</th>\
+                        <td>' + (feature.properties['Place'] !== null ? autolinker.link(feature.properties['Place'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Notes in NLI edition of 1915-1916 report'] !== null ? autolinker.link(feature.properties['Notes in NLI edition of 1915-1916 report'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['1915-1916 report'] !== null ? autolinker.link(feature.properties['1915-1916 report'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['1917-1918 report'] !== null ? autolinker.link(feature.properties['1917-1918 report'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_IWHSOConnacht_1_0() {
+            return {
+                pane: 'pane_IWHSOConnacht_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(255,158,23,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_IWHSOConnacht_1');
+        map.getPane('pane_IWHSOConnacht_1').style.zIndex = 401;
+        map.getPane('pane_IWHSOConnacht_1').style['mix-blend-mode'] = 'normal';
+        var layer_IWHSOConnacht_1 = new L.geoJson(json_IWHSOConnacht_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_IWHSOConnacht_1',
+            layerName: 'layer_IWHSOConnacht_1',
+            pane: 'pane_IWHSOConnacht_1',
+            onEachFeature: pop_IWHSOConnacht_1,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_IWHSOConnacht_1_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_IWHSOConnacht_1);
+        map.addLayer(layer_IWHSOConnacht_1);
+        setBounds();
+        </script>
+    
+
+</body></html>

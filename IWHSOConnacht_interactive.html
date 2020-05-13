@@ -86,13 +86,13 @@
                         <td>' + (feature.properties['Place'] !== null ? autolinker.link(feature.properties['Place'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['Notes in NLI edition of 1915-1916 report'] !== null ? autolinker.link(feature.properties['Notes in NLI edition of 1915-1916 report'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['Notes in NLI'] !== null ? autolinker.link(feature.properties['Notes in NLI'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['1915-1916 report'] !== null ? autolinker.link(feature.properties['1915-1916 report'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['1915-1916'] !== null ? autolinker.link(feature.properties['1915-1916'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['1917-1918 report'] !== null ? autolinker.link(feature.properties['1917-1918 report'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['1917-1918'] !== null ? autolinker.link(feature.properties['1917-1918'].toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});

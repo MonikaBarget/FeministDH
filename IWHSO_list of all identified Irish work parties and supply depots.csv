@@ -1,7 +1,4 @@
-"
-Source",Unit no.,Function,"Work party / supply depot address
-",Town,Full Address,Latitude,Longitude,County (ancient),County (modern),Opened,Closed,"Established / run by (last name)
-",First and middle names,Gender,Marital status,Collaborators
+"Source",Unit no.,Function,"Work party / supply depot address",Town,Full Address,Latitude,Longitude,County (ancient),County (modern),Opened,Closed,"Established / run by (last name)",First and middle names,Gender,Marital status,Collaborators
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation / Leinster Express 1831-current, Saturday, December 11, 1915; Page: 5 / Leinster Express 1831-current, Saturday, March 04, 1916; Page: 4",none,moss depot & regional supply depot,not stated,Abbeyleix,Abbeyleix Ireland ,52.9152801,-7.3478923,Queen’s County,Laois,Dec. 1915,[1919],Marchioness of Waterford,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Abbeyleix,Abbeyleix Ireland ,52.9152801,-7.3478923,Queen’s County,Laois,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Achill,Achill Ireland ,53.9619505,-10.015335,Mayo,,,[1919],,,,,
@@ -25,9 +22,7 @@ http://www.scarletfinders.co.uk/178.html,5715,general supply depot,4 MALL VIEW,A
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Ballina,Ballina Ireland ,54.1149482,-9.1550693,Mayo,,,[1919],,,,,
  Royal College of Science Sub-Depot report for 1915 and 1916,none,moss collection centre,not stated,Ballina,Ballina Ireland ,54.1149482,-9.1550693,Mayo,,,[1919],Knox,Miss,f,,
 "Royal College of Science Sub-Depot report for 1915 and 1916 / 21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Ballinasloe,Ballinasloe Ireland ,53.3287621,-8.2269467,Galway,Galway,1915,[1919],Thorp,Mrs,f,married,"Mrs Davidson, Miss Johnson (quite before 1917), Miss Johnson (quite before 1917),
-Miss Mabel Oliver (quite before 1917),
-Miss M Davidson (quite before 1917)
-"
+Miss Mabel Oliver (quit before 1917), Miss M Davidson (quit before 1917)"
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Ballineen,Ballineen Ireland ,51.735556,-8.948611,Cork,,,[1919],,,,,
 http://www.scarletfinders.co.uk/178.html,1816,general supply depot,PARTRY,Ballinrobe,Ballinrobe Ireland ,53.6237338,-9.2211143,,Mayo,,[1919],Blosse Lynch,,f,married,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Ballybay,Ballybay Ireland ,54.1294617,-6.9027864,Monaghan,,,[1919],,,,,
@@ -57,8 +52,7 @@ http://www.scarletfinders.co.uk/178.html,1119,general supply depot,"CHETWOOD, NO
 http://www.scarletfinders.co.uk/178.html,1401,general supply depot,"34 GLANTANE STREET, ANTRIM ROAD",Belfast,Belfast Ireland ,54.597285,-5.93012,,Belfast Metropolitan Area,,[1919],Wilkins,C. A.,f,married,
 http://www.scarletfinders.co.uk/178.html,1409,general supply depot,"34 GLANTANE STREET, ANTRIM ROAD",Belfast,Belfast Ireland ,54.597285,-5.93012,,Belfast Metropolitan Area,,[1919],Wilkins,C. A.,f,married,
 http://www.scarletfinders.co.uk/178.html,1778,general supply depot,"CABIN HILL, KNOCK",Belfast,Belfast Ireland ,54.597285,-5.93012,,Belfast Metropolitan Area,,[1919],McCordie,R. J.,f,married,
-http://www.scarletfinders.co.uk/178.html,5245,general supply depot,MUNICIPAL T. INSTITUTE,Belfast,Belfast Ireland ,54.597285,-5.93012,,Belfast Metropolitan Area,,[1919],Johnstone,"A.
-",f,single,
+http://www.scarletfinders.co.uk/178.html,5245,general supply depot,MUNICIPAL T. INSTITUTE,Belfast,Belfast Ireland ,54.597285,-5.93012,,Belfast Metropolitan Area,,[1919],Johnstone,"A.",f,single,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Bellmount,Bellmount Ireland ,53.2560708,-7.8951652,Galway,Galway,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Belturbet,Belturbet Ireland ,54.1019056,-7.4496679,Fermanagh and Cavan (not clearly separated),,,[1919],,,,,
 http://www.scarletfinders.co.uk/178.html,4798,general supply depot,CRAGG,Birdhill,Birdhill Ireland ,52.7674997,-8.4371207,Tipperary,Tipperary,,[1919],Going,not stated,f,single,
@@ -124,8 +118,7 @@ http://www.scarletfinders.co.uk/178.html,4239,general supply depot,11 KING STREE
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Crossmolina,Crossmolina Ireland ,54.100342,-9.3158456,Mayo,,,[1919],,,,,
 http://www.scarletfinders.co.uk/178.html,4376,general supply depot,GLENDARAGH,Crumlin,Crumlin Ireland ,53.3252584,-6.3089222,,,,[1919],McClintock,C. E.,f,married,
 http://www.scarletfinders.co.uk/178.html,5233,general supply depot,CULDAFF HOUSE,Culdaff,Culdaff Ireland ,55.2859437,-7.1651352,,,,[1919],Young,R. C.,f,married,
-http://www.scarletfinders.co.uk/178.html,5491,general supply depot,not stated,Dartrey,Dartrey Ireland ,54.1103453,-7.0635633,,,,[1919],Dartrey,"The Countess of
-",f,unkown,
+http://www.scarletfinders.co.uk/178.html,5491,general supply depot,not stated,Dartrey,Dartrey Ireland ,54.1103453,-7.0635633,,,,[1919],Dartrey,"The Countess of",f,unkown,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Derryclare,Derryclare Ireland ,53.4711744,-9.777187,Galway,,,[1919],,,,,
 "Derry Journal 1844-1924, Monday, December 13, 1915; Page: 3 / Derry Journal 1844-1924, Wednesday, February 23, 1916; Page: 2 / Derry Journal 1844-1924, Friday, November 24, 1916; Page: 7",none,regional moss depot for the NORTH WEST OF IRELAND,STRAND HOUSE,Derry / Londonderry,Londonderry Ireland,,,,,[01/01/1916],[1919],Lily E. Anderson (Mayoress) / the Duchess of Abercorn,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Donadea,Donadea Ireland ,53.350377,-6.7344379,Kildare,,,[1919],,,,,
@@ -238,8 +231,7 @@ http://www.scarletfinders.co.uk/178.html,4064,not specified,The Rectory,Markethi
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Maryborough,Maryborough Ireland ,51.8697663,-8.4239579,Queen’s County,Laois,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,May (abbr. Maynooth?),May (abbr. Maynooth?) Ireland ,53.3812896,-6.5918499,Kildare,Kildare,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss depot,moss depot,not stated,"Melcomb (now: Melcombe, Lisduff, Co. Contae Mhaigh Eo, Éire
-)","Melcomb (now: Melcombe, Lisduff, Co. Contae Mhaigh Eo, Éire
-) Ireland ",53.8841662,-9.5625294,Mayo,,,[1919],,,,,
+)","Melcomb (now: Melcombe / Lisduff / Co. Contae Mhaigh Eo / Éire) Ireland",53.8841662,-9.5625294,Mayo,,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss depot,moss depot,not stated,Milestown (Castlebelling),Milestown (Castlebelling) Ireland ,53.8868685,-6.3823088,,,,[1919],,,,,
 http://www.scarletfinders.co.uk/178.html,5221,not specified,KNOCKNAGEANE,Milford,Milford Ireland ,55.0883927,-7.6989621,,,,[1919],Osborne,not stated,f,married,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Milltown,Milltown Ireland ,52.1451912,-9.7175069,Kerry,,,[1919],,,,,
@@ -255,10 +247,7 @@ http://www.scarletfinders.co.uk/178.html,5221,not specified,KNOCKNAGEANE,Milford
 http://www.scarletfinders.co.uk/178.html,5648,not specified,ST. COLUMBS,Moville,Moville Ireland ,55.1890182,-7.0400533,,,,[1919],Montgomery,not stated,f,married,
 http://www.scarletfinders.co.uk/178.html,5592,not specified,not stated,Moy (An Maigh),Moy (An Maigh) Ireland ,54.4466495,-6.6910263,Tyrone,Tyrone,,[1919],MacGeough Bond,The Lady,f,unkown,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",Sphagnum Collecting Centres,Sphagnum Collecting Centres,not stated,Moy (An Maigh),Moy (An Maigh) Ireland ,54.4466495,-6.6910263,Tyrone,Tyrone,,[1919],,,,,
- Royal College of Science Sub-Depot report for 1915 and 1916,moss collection centre,moss collection centre,not stated,Moyard,Moyard Ireland ,53.5438159,-10.0016434,Galway,,<1919,[1919],France-Lushington-Tulloch,Mrs,,,"Mrs K Tulloch (Moyard)
-Miss Henry (Moyard)
-Mrs A Irwin (Moyard)
-"
+ Royal College of Science Sub-Depot report for 1915 and 1916,moss collection centre,moss collection centre,not stated,Moyard,Moyard Ireland ,53.5438159,-10.0016434,Galway,,<1919,[1919],France-Lushington-Tulloch,Mrs,,,"Mrs K Tulloch (Moyard)/ Miss Henry (Moyard) / Mrs A Irwin (Moyard)"
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Mt. Leinster,Mt. Leinster Ireland ,52.6178434,-6.7796988,Carlow,,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",moss collection centre,moss collection centre,not stated,Naas,Naas Ireland ,53.2205654,-6.659308,Kildare,Kildare,,[1919],,,,,
 "Leinster Leader 1881-1929, Saturday, December 23, 1916; Page: 3 / Leinster Leader 1881-1929, Saturday, February 24, 1917; Page: 8",none,general supply depot,not stated,Naas,Naas Ireland ,53.2205654,-6.659308,Kildare,Kildare,[1917],[1919],Lady Albreda Bourke,,,,V. Moore
@@ -301,11 +290,7 @@ http://www.scarletfinders.co.uk/178.html,5455,general supply depot,ARDEEVIN,Port
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Rathdrum,Rathdrum Ireland ,52.9323123,-6.2311012,Wicklow,Wicklow,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Rathmelton,Rathmelton Ireland ,55.0359,-7.64809,Donegal,Donegal,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Rathowen,Rathowen Ireland ,53.656076,-7.5203959,Meath,Meath,,[1919],,,,,
-"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,"Rathrew (
-Rathnew
-Ráth Naoi)","Rathrew (
-Rathnew
-Ráth Naoi) Ireland ",52.9946004,-6.082812,Wicklow,Wicklow,,[1919],,,,,
+"21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,"Rathrew (Rathnew/ Ráth Naoi)","Rathrew (Rathnew / Ráth Naoi) Ireland ",52.9946004,-6.082812,Wicklow,Wicklow,,[1919],,,,,
 "21 February 1919, Third Annual Report of the Sphagnum Department of the Irish War Hospital Supply Organisation",none,moss collection centre,not stated,Ravensdale,Ravensdale Ireland ,54.0563584,-6.3383888,Louth,,,[1919],,,,,
  Royal College of Science Sub-Depot report for 1915 and 1916,none,moss collection centre,not stated,Recess,Recess Ireland ,53.4655285,-9.7237017,Galway,Galway,,[1919],Wilcox,Mr,m,,
 http://www.scarletfinders.co.uk/178.html,4470,general supply depot,HOCKLEY LODGE,Richhill (Log a' Choire),Richhill (Log a' Choire) Ireland ,54.3718251,-6.5513049,,,,[1919],Wilson,not stated,f,married,

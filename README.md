@@ -6,7 +6,7 @@ Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Ma
 
 Since then, circa 6000 letters, telegrams, postcards and notes relating to Irish history between December 1915 and the end of the Civil War in 1923 have been collected from 36 private and 29 public archives.
 
-Statistics on our metadata categories highlight the [distribution of letters by gender](https://github.com/MonikaBarget/FeministDH/blob/master/Letters%20by%20gender%20%26%20tag_statistics.png) in on all items uploaded to the Letters 1916-1923 backend by December 2019.
+The quantitative analysis of our metadata categories highlights the [distribution of letters by gender](https://github.com/MonikaBarget/FeministDH/blob/master/Letters%20by%20gender%20%26%20tag_statistics.png) in all items uploaded to the Letters 1916-1923 backend by December 2019.
 
 These graphs visualise the data:
 
@@ -14,7 +14,7 @@ These graphs visualise the data:
 1. [Percentage of male authors per tag (in comparison to women)](https://github.com/MonikaBarget/FeministDH/blob/master/Percentage%20of%20male%20authors%20per%20tag.png)
 1. [Topics covered by women writers (based on tags)](https://github.com/MonikaBarget/FeministDH/blob/master/Topics%20covered%20by%20women%20writers%20based%20on%20tags.png)
 
-*Projects:*
+*Related projects:*
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 

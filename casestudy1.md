@@ -10,6 +10,8 @@ The [general map](https://monikabarget.github.io/FeministDH/IWHSO_full-map_qgis2
 
 **PLEASE NOTE: The point layers in the general map are overlapping, so the ones displayed on top of the list may cover other centres in the same place. Please de(select) individual layers to get a better impression of the dense distribution of centres across Ireland.** 
 
+The [datasheet of all work parties identified so far](https://github.com/MonikaBarget/FeministDH/blob/master/IWHSO_list%20of%20all%20identified%20Irish%20work%20parties%20and%20supply%20depots.csv) provides further information on our sources and doubtful data.
+
 Both web-maps were created using [Python](https://www.python.org/), [QGIS](https://qgis.org/de/site/) and [QGIS2web](https://github.com/tomchadwin/qgis2web). 
     
 [HOME](https://monikabarget.github.io/FeministDH/)

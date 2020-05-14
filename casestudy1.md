@@ -6,7 +6,7 @@ Data from the Letters 1916-1923 collection as well as newspaper articles and gov
 
 The [zoomable map of IWHSO managers in Connacht](https://monikabarget.github.io/FeministDH/IWHSOConnacht_interactive.html) shows centres of medical supply production in the west of Ireland between 1915 and 1917. Please click on individual orange dots to read the labels. All women (and one man) mentioned here were officially part of the Galway branch although some of them came from places in neighbouring counties. One woman counted among the Galway volunteers was stationed in Malta, most likely in a British war hospital.
 
-More **biographical details** (including information from the Irish 1911 census records) is available in the following datasheets:
+More **biographical details** (including information from the Irish 1911 census records) are available in the following datasheets:
 
 1. [Women active in 1915/1916 only](https://github.com/MonikaBarget/FeministDH/blob/master/IWHSO-Connacht_bios_women-active-in-1st-period.csv)
 1. [Women active in 1917/1918 only](https://github.com/MonikaBarget/FeministDH/blob/master/IWHSO-Connacht_bios_women-active-in-2nd-period.csv)

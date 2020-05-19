@@ -7,7 +7,13 @@ Almost 50 percent of correspondents in this collection are female, including Cha
 Topic modelling and network analysis were used to understand the connections between these people and to read their letters in the overall context of social and political change in early-twentieth-century Ireland.
 
 The following network graph show the Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019.
-Charlie Daly and his mother Ellen are the largest nodes, corresponding with both men and women. Charlie's brother Cornelius (community in the top right corner) exclusively corresponds with men and one person of unidentified gender. 
+Based on this visualisation, we can make the following observations:
+
+1. Charlie Daly and his mother Ellen are the largest nodes, corresponding with both men and women. 
+1. Of the letters written by and to Charlie's sister Mary (Máire / May), predominantly those exchanged with Charlie and their brother Thomas have been preserved.
+1. Letters from and to Charlie's sister Susan were mainly exchanged with him and their mother. But Susan also corresponded with people outside the family, including men.
+1. The network includes seven letters written by Katherine Allman and 14 received by her. These letters were exchanged with just people: Charlie Daly, Thomas Daly, Ellen Daly and May Daly.
+1. Charlie's brother Cornelius (community in the top right corner) exclusively corresponded with men and one person of unidentified gender. 
 
 ![Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019](https://github.com/MonikaBarget/FeministDH/blob/master/Daly_network_19May2020.png)
 

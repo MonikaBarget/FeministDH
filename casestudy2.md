@@ -6,7 +6,7 @@ Almost 50 percent of correspondents in this collection are female, including Cha
 
 Topic modelling and network analysis were used to understand the connections between these people and to read their letters in the overall context of social and political change in early-twentieth-century Ireland.
 
-The following network graph shows the Daly family's correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019. Based on this visualisation, we can make the following observations:
+The following network graph shows the Daly family's correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019. Pink nodes are male correspondents, green nodes are female correspondents and blue nodes are correspondents whose gender we could not identify. Other node colours refer to groups of people writing or receiving letters. The edges (connecting lines) stand for the letters exchanged and inherit the colour of the author node. Brown nodes stand for bi-directional correspondence. Based on this visualisation, we can make the following observations:
 
 1. Charlie Daly and his mother Ellen are the largest nodes, corresponding with both men and women. 
 1. Of the letters written by and to Charlie's sister Mary (Máire / May), predominantly those exchanged with Charlie and their brother Thomas have been preserved.

@@ -1,301 +1,289 @@
-Source_ID,Target_ID,Edge type,Weight,Source_Name,Target_Name,Date,Total no. sender:,Total no. recipient:,ID Letters 1916,Item type,Contributor,
-per_108,per_028,directed,1,A. B. Browne,Ellen Daly,11 April 1923,2,80,6622, Letter ,Kerry Library Tralee,
-per_108,per_094,directed,1,A. B. Browne,Susan Daly,25 January 1923,2,23,6423, Letter ,Kerry Library Tralee,
-per_002,per_013,directed,1,Áine Ní Maolchiaráin,Charlie / Cormac Daly,1922,2,90,6268,Letter ,Kerry Library Tralee,
-per_002,per_013,directed,1,Áine Ní Maolchiaráin,Charlie / Cormac Daly,5 December 1922,2,90,6267,Letter ,Kerry Library Tralee,
-per_001,per_057,directed,1,Amy,Mary / May / Máire Daly,15 March 1923,1,36,6357,Letter ,Kerry Library Tralee,
-per_003,per_028,directed,1,Anne O'Flanagan,Ellen Daly,8 September 1923,1,80,6347,Letter ,Kerry Library Tralee,
-per_106,per_018,directed,1,Arthur Cox and Company Solici,Cornelius Daly,1921,1,14,7.json397 , Letter ,Kerry Library Tralee,
-per004_020,per_013,directed,1,Austin Stack and Darrell Figgis,Charlie / Cormac Daly,1 January 1918,1,90,6174,Letter,Kerry Library Tralee,
-per_005,per_013,directed,1,Bessie Harrington,Charlie / Cormac Daly,20 February 1923,1,90,6291,Letter ,Kerry Library Tralee,
-per_006,per_028,directed,1,Bridget Hannigan,Ellen Daly,28 March 1923,1,80,5092,Letter ,Kerry Library Tralee,
-per_007,per_076,directed,1,Brigid McCarron,one of Ellen Daly's children,1923,2,1,5375,Letter ,Kerry Library Tralee,
-per_007,per_028,directed,1,Brigid McCarron,Ellen Daly,March 1923,2,80,5374,Letter ,Kerry Library Tralee,
-per_010,per_013,directed,1,Caitlín Ní Aoda,Charlie / Cormac Daly,10 February 1923,1,90,6289,Letter ,Kerry Library Tralee,
-per_011,per_013,directed,1,Cathal Brugha,Charlie / Cormac Daly,17 November 1921,1,90,5006,Letter,Kerry Library Tralee,
-per_012,per_028,directed,1,Charles McGinley,Ellen Daly,13 June 1923,2,80,5061,Letter,Kerry Library Tralee,
-per_012,per_028,directed,1,Charles McGinley,Ellen Daly,15 May 1923,2,80,5060,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,undated,79,36,4926, Postcard ,Kerry Library Tralee,
-per_013,per_023,directed,1,Charlie / Cormac Daly,Dick,1920,79,1,6179,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,1922,79,15,6465,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,1922,79,80,6201,Letter,Kerry Library Tralee,
-per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly,February 1923,79,12,5020,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,February 1923,79,80,6225,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,January 1920,79,10,6181,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,March 1920,79,10,6186,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,September 1921,79,80,6189,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,1 February 1920,79,10,6184,Letter,Kerry Library Tralee,
-per_013,per_093,directed,1,Charlie / Cormac Daly,Sinéad Ring,1 February 1923,79,1,5363,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,1 January 1923,79,80,6215,Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,11 January 1923,79,80,6217,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,12 February 1923,79,80,6222,Letter,Kerry Library Tralee,
-per_013,per_077,directed,1,Charlie / Cormac Daly,Patrick Lynch,12 November 1921,79,2,5008,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,13 February 1923,79,15,6473,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,13 January 1920,79,10,6182,Letter,Kerry Library Tralee,
-per_013,per_008,directed,1,Charlie / Cormac Daly,C.,13 July 1922,79,1,5025,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,13 September 1922,79,80,6203,Letter,Kerry Library Tralee,
-per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly,14 March 1923,79,12,5021,Letter,Kerry Library Tralee,
-per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,14 March 1923,79,23,5004,Letter,Kerry Library Tralee,
-per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,14 March 1923,79,14,6450,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,14 March 1923,79,80,6227,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,16 January 1923,79,36,4985,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,17 December 1922,79,80,6210,Letter,Kerry Library Tralee,
-per_013,per_011,directed,1,Charlie / Cormac Daly,Cathal Brugha,17 November 1921,79,1,5007,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,18 February 1923,79,80,6223,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,19 December 1921,79,80,6193,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,19 November 1922,79,80,6206,Letter,Kerry Library Tralee,
-per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,1922,79,23,5024,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,1922,79,10,7.json236 , Letter ,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,1922,79,15,7.json415 , Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,1922,79,80,7.json173 , Letter ,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,2 February 1923,79,36,4987,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,20 December 1921,79,80,6194,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,20 July 1922,79,15,6464,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,20 March 1922,79,80,6196,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,21 February 1923,79,36,4989,Letter,Kerry Library Tralee,
-per_013,per_088,directed,1,Charlie / Cormac Daly,Seán Lehane,21 January 1923,79,1,5037,Letter,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,21 March 1920,79,10,6185,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,21 November 1922,79,15,6470,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,22 December 1922,79,15,6471,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,24 February 1923,79,36,4990,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,24 November 1922,79,80,6207,Letter,Kerry Library Tralee,
-per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,25 February 1923,79,14,6449,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,26 December 1922,79,80,6213,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,26 January 1923,79,80,6219,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 December 1922,79,80,6214,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 February 1923,79,80,6226,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 June 1922,79,80,6200,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,28 January 1922,79,80,6195,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,28 March 1922,79,80,6197,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,28 October 1921,79,36,4983,Letter,Kerry Library Tralee,
-per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,3 December 1921,79,14,6192,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,3 March 1923,79,80,4993,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,30 June 1922,79,36,6202,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,30 November 1922,79,80,4995,Letter,Kerry Library Tralee,
-per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,30 November 1922,79,23,6208,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,30 Oc,79,15,7.json416 , Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,30 October 1922,79,80,6466,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,31 January 1920,79,15,6183,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,31 October 1921,79,80,4945, Letter ,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Katherine Allman,4 February 1923,79,15,6472,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,4 September 1922,79,15,6204,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,4 September 1922,79,80,7.json178 , Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,5 March 1923,79,80,4994,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,5 March 1923,79,36,7.json209 , Letter ,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,6 November 1922,79,36,6467,Letter,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,6 November 1922,79,15,7.json417 , Letter ,Kerry Library Tralee,
-per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,7 June 1920,79,15,6188,Letter,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,7 June 1920,79,36,4943,Letter,Kerry Library Tralee,
-per_013,per_013,directed,1,Charlie / Cormac Daly,Charlie / Cormac Daly,7 May 1920,79,90,6187,Letter,Kerry Library Tralee,
-per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,8 December 1922,79,14,6447, Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,8 December 1922,79,80,6209, Letter ,Kerry Library Tralee,
-per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,9 January 1923,79,36,5033,Letter,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,9 November 1921,79,80,6191, Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,February 1923,79,80,7.json197 , Letter ,Kerry Library Tralee,
-per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,September 1921,79,80,7.json164 , Letter ,Kerry Library Tralee,
-per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,undated,79,10,6171,Postcard,Kerry Library Tralee,
-per_114,per_013,directed,1,Chief of Staff (IRA),Charlie / Cormac Daly,30 November 1921,1,90,7.json224 , Letter,Kerry Library Tralee,
-per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,December 1922,4,90,6258,Christmas Card ,Kerry Library Tralee,
-per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,1 March 1923,4,90,6260,Letter ,Kerry Library Tralee,
-per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,16 February 1923,4,90,6259,Letter ,Kerry Library Tralee,
-per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,December 1922,4,90,7.json226 , Christmas Card ,Kerry Library Tralee,
-per_015,per_028,directed,1,Colm O'Neill,Ellen Daly,26 November 1923,1,80,5104,Letter,Kerry Library Tralee,
-per_016,per_099,directed,1,Con Lucy,Thomas Daly,2 December 1923,3,7,5404,Letter,Kerry Library Tralee,
-per_016,per_047,directed,1,Con Lucy,William / Willie / Liam Daly,9 November 1923,3,12,5403,Letter,Kerry Library Tralee,
-per_016,per_099,directed,1,Con Lucy,Thomas Daly,9 November 1923,3,7,5403, Letter ,Kerry Library Tralee,
-per_017,per_013,directed,1,Con Sullivan,Charlie / Cormac Daly,15 February 1923,1,90,5045,Letter,Kerry Library Tralee,
-per_018,per_009,directed,1,Cornelius Daly,C. I. Francis,November 1923,3,1,6446,Letter,Kerry Library Tralee,
-per_018,per_047,directed,1,Cornelius Daly,William / Willie / Liam Daly,15 June 1923,3,12,6458,Letter,Kerry Library Tralee,
-per_018,per_013,directed,1,Cornelius Daly,Charlie / Cormac Daly,19 February 1923,3,90,6448,Letter,Kerry Library Tralee,
-per_111,per_013,directed,1,D. V.,Charlie / Cormac Daly,10 January 1923,1,90,7.json246 , Letter ,Kerry Library Tralee,
-per_021,per_018,directed,1,David Fitzgerald,Cornelius Daly,19 April 1923,2,14,6457,Letter,Kerry Library Tralee,
-per_021,per_013,directed,1,David Fitzgerald,Charlie / Cormac Daly,26 February 1923,2,90,5048,Letter,Kerry Library Tralee,
-per_022,per_028,directed,1,Denis Mahony,Ellen Daly,1923,1,80,5085,Letter,Kerry Library Tralee,
-per_024,per_099,directed,1,Director of Organisation,Thomas Daly,12 November 1920,2,7,6177,Letter,Kerry Library Tralee,
-per_024,per_013,directed,1,Director of Organisation,Charlie / Cormac Daly,24 June 1921,2,90,5005,Letter,Kerry Library Tralee,
-per_025,per_013,directed,1,Domhnall,Charlie / Cormac Daly,22 February 1923,1,90,5047,Letter,Kerry Library Tralee,
-per_026,per_028,directed,1,Domhnall MacEarraig,Ellen Daly,1 April 1923,1,80,5094,Letter,Kerry Library Tralee,
-per_019,per_057,directed,1,Dómnall Ua Cathail,Mary / May / Máire Daly,February 1923,2,36,5110,Letter,Kerry Library Tralee,
-per_019,per_013,directed,1,Dómnall Ua Cathail,Charlie / Cormac Daly,20 January 1923,2,90,5038,Letter,Kerry Library Tralee,
-#N/A,per_028,directed,1,E. O'Sullivan,Ellen Daly,6 April 1923,1,80,7.json305 , Letter ,Kerry Library Tralee,
-per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,March 1923,6,80,6487,Letter ,Kerry Library Tralee,
-per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly,16 February 1923,6,90,6486,Letter ,Kerry Library Tralee,
-per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly,24 January 1923,6,90,6286,Letter ,Kerry Library Tralee,
-per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,27 June 1923,6,80,6489,Letter ,Kerry Library Tralee,
-per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,27 March 1923,6,80,6488,Letter ,Kerry Library Tralee,
-per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,March 1923,6,80,7.json435 , Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,11 February 1923,16,90,6221,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,15 January 1923,16,90,6218,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,16 November 1922,16,90,6205,Letter,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,19 December 1922,16,90,6211,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,21 February 1923,16,90,6224,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,21 January 1923,16,90,6284,Letter ,Kerry Library Tralee,
-per_028,per_094,directed,1,Ellen Daly,Susan Daly,24 April 1923,16,23,6417,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,25 December 1922,16,90,6212,Letter ,Kerry Library Tralee,
-per_028,per_094,directed,1,Ellen Daly,Susan Daly,25 March 1923,16,23,6414,Letter ,Kerry Library Tralee,
-per_028,per_094,directed,1,Ellen Daly,Susan Daly,26 January 1923,16,23,6613,Letter ,Kerry Library Tralee,
-per_028,per_042,directed,1,Ellen Daly,Katherine Allman,28 March 1923,16,15,6637,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,4 February 1923,16,90,6220,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,7 January 1923,16,90,6216,Letter ,Kerry Library Tralee,
-per_028,per_094,directed,1,Ellen Daly,Susan Daly,8 May 1923,16,23,6418,Letter ,Kerry Library Tralee,
-per_028,per_047,directed,1,Ellen Daly,William / Willie / Liam Daly,9 April 1923,16,12,6438,Letter ,Kerry Library Tralee,
-per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,December 1922,16,90,6618,Letter ,Kerry Library Tralee,
-per_029,per_013,directed,1,Ellen Mary / Nellie Daly,Charlie / Cormac Daly,December 1922,2,90,6460,Letter ,Kerry Library Tralee,
-per_029,per_094,directed,1,Ellen Mary / Nellie Daly,Susan Daly,26 January 1923,2,23,6461,Letter ,Kerry Library Tralee,
-per_115,per_094,directed,1,H. Malone,Susan Daly,30 October 1922,1,23,7.json377 , Letter ,Kerry Library Tralee,
-per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly,21 February 1923,2,90,6262,Letter ,Kerry Library Tralee,
-per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly,4 February 1923,2,90,6261,Letter ,Kerry Library Tralee,
-per_032,per_018,directed,1,Henry Kennedy,Cornelius Daly,29 November 1921,1,14,6445, Letter ,Kerry Library Tralee,
-per_033,per_028,directed,1,Hugh McLean,Ellen Daly,29 March 1923,1,80,5093, Letter ,Kerry Library Tralee,
-per_034,per_018,directed,1,James J. Donaghy,Cornelius Daly,15 March 1923,1,14,6451,Letter,Kerry Library Tralee,
-per_110,per_013,directed,1,Jamie,Charlie / Cormac Daly,9 February 1923,1,90,5043, Letter ,Kerry Library Tralee,
-per_035,per_028,directed,1,Jennie Gallivan,Ellen Daly,19 March 1923,1,80,5091,Letter ,Kerry Library Tralee,
-per_036,per_094,directed,1,Jer Hannifin,Susan Daly,30 September 1923,1,23,6428,Letter ,Kerry Library Tralee,
-per_037,per_057,directed,1,Joe,Mary / May / Máire Daly,19 August 1923,1,36,5125,Letter,Kerry Library Tralee,
-per_038,per_057,directed,1,John Gallagher,Mary / May / Máire Daly,7 May 1923,1,36,7.json320 , Letter ,Kerry Library Tralee,
-per_040,per_013,directed,1,Judy Daly,Charlie / Cormac Daly,10 January 1923,1,90,6279,Letter ,Kerry Library Tralee,
-per_041,per_028,directed,1,K. Casey,William / Willie / Liam Daly,October 1923,1,12,5386,Letter,Kerry Library Tralee,
-per_042,per_094,directed,1,Katherine Allman,Susan Daly,1 December 1922,7,23,6635,Letter ,Kerry Library Tralee,
-per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly,13 November 1922,7,90,6469,Letter ,Kerry Library Tralee,
-per_042,per_057,directed,1,Katherine Allman,Mary / May / Máire Daly,15 April 1923,7,36,6476,Letter ,Kerry Library Tralee,
-per_042,per_028,directed,1,Katherine Allman,Ellen Daly,17 March 1923,7,80,6475,Letter ,Kerry Library Tralee,
-per_042,per_057,directed,1,Katherine Allman,Mary / May / Máire Daly,6 June 1923,7,36,6477,Letter ,Kerry Library Tralee,
-per_042,per_028,directed,1,Katherine Allman,Ellen Daly,9 February 1923,7,80,6474,Letter ,Kerry Library Tralee,
-per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly,9 November 1922,7,90,6468,Letter ,Kerry Library Tralee,
-per_043,per_094,directed,1,Kathleen Durcan,Susan Daly,1 April 1923,4,23,6424,Letter ,Kerry Library Tralee,
-per_043,per_057,directed,1,Kathleen Durcan,Mary / May / Máire Daly,17 April 1923,4,36,6356,Letter ,Kerry Library Tralee,
-per_043,per_047,directed,1,Kathleen Durcan,William / Willie / Liam Daly,19 March 1923,4,12,5377,Letters ,Kerry Library Tralee,
-per_043,per_057,directed,1,Kathleen Durcan,Mary / May / Máire Daly,23 March 1923,4,36,5378,Letter ,Kerry Library Tralee,
-per_045,per_013,directed,1,L. Breaney,Charlie / Cormac Daly,January 1923,1,90,5032,Letter,Kerry Library Tralee,
-per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly,2 January 1923,2,90,6485,Letter,Kerry Library Tralee,
-per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly,22 December 1922,2,90,6484,Card,Kerry Library Tralee,
-per_048,per_013,directed,1,Lily Gerard,Charlie / Cormac Daly,17 December 1922,1,90,6272,Letter ,Kerry Library Tralee,
-per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly,27 November 1915,2,90,6173,Letter,Kerry Library Tralee,
-per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly,28 October 1915,2,90,6172,Letter,Kerry Library Tralee,
-per_107,per_094,directed,1,M. Corkery,Susan Daly,29 April 1923,1,23,6426, Letter ,Kerry Library Tralee,
-per_051,per_018,directed,1,M. Buckley,Cornelius Daly,19 March 1923,1,14,6456,Letter,Kerry Library Tralee,
-per_113,per_099,directed,1,M. K.,Thomas Daly,13 December 1923,1,7,8.json93 , Letter ,Kerry Library Tralee,
-per_052,per_028,directed,1,M. MacMahon,Ellen Daly,4 December 1923,1,80,5127,Letter,Kerry Library Tralee,
-per_112,per_099,directed,1,M. T.,Thomas Daly,12 December 1923,1,7,8.json92 , Letter ,Kerry Library Tralee,
-per_053,per_013,directed,1,Madge Boner,Charlie / Cormac Daly,20 December 1922,1,90,6274,Letter ,Kerry Library Tralee,
-per_054,per_028,directed,1,Madge Rodgers,Ellen Daly,17 March 1923,1,80,6334,Letter ,Kerry Library Tralee,
-per_055,per_028,directed,1,Maggie Larkin,Ellen Daly,1 July 1923,2,80,6345,Letter ,Kerry Library Tralee,
-per_055,per_028,directed,1,Maggie Larkin,Ellen Daly,15 March 1923,2,80,6331,Telegraph ,Kerry Library Tralee,
-per_056,per_028,directed,1,Máire Ní Dhonnghaile,Ellen Daly,20 June 1923,1,80,6343,Letter ,Kerry Library Tralee,
-per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,10 January 1923,9,90,6229,Letter ,Kerry Library Tralee,
-per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,14 February 1923,9,90,6233,Letter ,Kerry Library Tralee,
-per_057,per_047,directed,1,Mary / May / Máire Daly,William / Willie / Liam Daly,1923,9,12,5432,Letter ,Kerry Library Tralee,
-per_057,per_099,directed,1,Mary / May / Máire Daly,Thomas Daly,23 October 1921,9,7,5423,Letter ,Kerry Library Tralee,
-per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,24 January 1923,9,90,6231,Letter ,Kerry Library Tralee,
-per_057,per_042,directed,1,Mary / May / Máire Daly,Katherine Allman,25 March 1923,9,15,6636,Letter ,Kerry Library Tralee,
-per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,26 February 1923,9,90,6236,Letter ,Kerry Library Tralee,
-per_057,per_094,directed,1,Mary / May / Máire Daly,Susan Daly,29 January 1923,9,23,6419,Letter ,Kerry Library Tralee,
-per_057,per_047,directed,1,Mary / May / Máire Daly,William / Willie / Liam Daly,6 April 1923,9,12,6443,Letter ,Kerry Library Tralee,
-per_058,per_028,directed,1,Mary Kelly,Ellen Daly,19 December 1923,2,80,6308,Letter ,Kerry Library Tralee,
-per_058,per_028,directed,1,Mary Kelly,Ellen Daly,26 November 1923,2,80,6307,Letter ,Kerry Library Tralee,
-per_059,per_013,directed,1,Mary McFadden,Charlie / Cormac Daly,December 1922,2,90,6275,Christmas card ,Kerry Library Tralee,
-per_059,per_013,directed,1,Mary McFadden,Charlie / Cormac Daly,December 1922,2,90,7.json242 , Christmas card ,Kerry Library Tralee,
-per_060,per_028,directed,1,Michael Blake,Ellen Daly,2 April 1923,1,80,5096,Letter,Kerry Library Tralee,
-per_061,per_013,directed,1,Mick Leary,Charlie / Cormac Daly,1 December 1922,1,90,5026,Letter,Kerry Library Tralee,
-per_062,per_047,directed,1,Mick Timoney,Charlie / Cormac Daly,undated,1,90,5031,Letter,Kerry Library Tralee,
-per_064,per_094,directed,1,Minnie Daly,Susan Daly,25 May 1923,1,23,6427,Letter ,Kerry Library Tralee,
-per_066,per_028,directed,1,Mollie O'Connor,Ellen Daly,4 April 1923,2,80,6328,Letter ,Kerry Library Tralee,
-per_066,per_057,directed,1,Mollie O'Connor,Mary / May / Máire Daly,9 December 1922,2,36,6350,Letter ,Kerry Library Tralee,
-per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,19 June 1923,3,80,6304,Letter ,Kerry Library Tralee,
-per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,23 April 1923,3,80,5058,Letter,Kerry Library Tralee,
-per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,5 April 1923,3,80,6302,Letter ,Kerry Library Tralee,
-per_070,per_013,directed,1,Nancy Daly,Charlie / Cormac Daly,15 December 1922,1,90,6612,Letter ,Kerry Library Tralee,
-per_071,per_018,directed,1,Neil Freant,Cornelius Daly,8 March 1923,1,14,5050,Letter,Kerry Library Tralee,
-per_072,per_013,directed,1,Nellie McGrath,Charlie / Cormac Daly,20 December 1922,1,90,6273,Letter ,Kerry Library Tralee,
-per_074,per_028,directed,1,Nora O'Sullivan,Ellen Daly,4 April 1923,2,80,5056,Letter ,Kerry Library Tralee,
-per_074,per_057,directed,1,Nora O'Sullivan,Mary / May / Máire Daly,8 October 1923,2,36,5126,Letter ,Kerry Library Tralee,
-per_075,per_094,directed,1,Nora Ring,Susan Daly,9 November 1923,2,23,5369,Letter ,Kerry Library Tralee,
-per_075,per_094,directed,1,Nora Ring,Susan Daly,March 1923,2,23,5368,Letter ,Kerry Library Tralee,
-per_078,per_057,directed,1,Patrick O'Connor,Mary / May / Máire Daly,21 January 1923,1,36,5108,Letter,Kerry Library Tralee,
-per_079,per_013,directed,1,Peadar O'Dóimhín,Charlie / Cormac Daly,17 January 1923,1,90,5036,Letter,Kerry Library Tralee,
-per_080,per_018,directed,1,R. E. Shanahan,Cornelius Daly,16 March 1923,1,14,6454,Letter,Kerry Library Tralee,
-per_081,per_018,directed,1,Rev. J. O'Flynn,Cornelius Daly,15 March 1923,1,14,6453,Letter,Kerry Library Tralee,
-per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly,19 February 1923,2,90,6264,Letter ,Kerry Library Tralee,
-per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly,25 January 1923,2,90,6263,Letter ,Kerry Library Tralee,
-per_083,per_028,directed,1,Róise Ní Dhómhnaill,Ellen Daly,1923,7,80,5376,Letter ,Kerry Library Tralee,
-per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,February/March 1923,7,90,5373,Letter ,Kerry Library Tralee,
-per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,January 1923,7,90,5371,Letter ,Kerry Library Tralee,
-per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,17 February 1923,7,90,5372,Letter ,Kerry Library Tralee,
-per_083,per_028,directed,1,Róise Ní Dhómhnaill,Ellen Daly,1923,7,80,5376,Letter ,Kerry Library Tralee,
-per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,December 1922,7,90,5370,Letter ,Kerry Library Tralee,
-per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,January 1923,7,90,8.json55 , Letter ,Kerry Library Tralee,
-per_084,per_013,directed,1,Roisín Ní Ceallaig,Charlie / Cormac Daly,6 February 1923,1,90,6287,Letter ,Kerry Library Tralee,
-per_087,per_013,directed,1,S. O. Gallagher,Charlie / Cormac Daly,26 February 1923,1,90,5049,Letter,Kerry Library Tralee,
-per_085,per_028,directed,1,S. O'Brien,Ellen Daly,15 March 1923,1,80,6619,Letter,Kerry Library Tralee,
-per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,June 1918,3,90,6180,Envelope,Kerry Library Tralee,
-per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,12 June 1918,3,90,6175,Letter,Kerry Library Tralee,
-per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,24 May 1918,3,90,6176,Letter,Kerry Library Tralee,
-per_088,per_099,directed,1,Seán Lehane,Thomas Daly,20 November 1923,1,7,5055,Letter,Kerry Library Tralee,
-per_109,per_077,directed,1,Seán Ó Coráig,Patrick Lynch,18 November 1921,1,2,7.json223 , Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,December 1922,7,90,6480,Christmas Card ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,February 1923,7,90,6482,Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,2 January 1923,7,90,6481,Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,21 December 1922,7,90,6479,Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,28 January 1923,7,90,6285,Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,4 December 1922,7,90,6478,Letter ,Kerry Library Tralee,
-per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,8 February 1923,7,90,6483,Letter ,Kerry Library Tralee,
-per_091,per_028,directed,1,Sheila Hartnett,Ellen Daly,16 March 1923,1,80,6332,Letter ,Kerry Library Tralee,
-per_092,per_028,directed,1,Sheila Nagle,Ellen Daly,16 March 1923,1,80,6333,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,December 1922,19,90,6243,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,February 1923,19,90,6248,Letter ,Kerry Library Tralee,
-per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly,March 1923,19,12,6437,Letter ,Kerry Library Tralee,
-per_094,per_028,directed,1,Susan Daly,Ellen Daly,March 1923,19,80,6412,Letter ,Kerry Library Tralee,
-per_094,per_057,directed,1,Susan Daly,Mary / May / Máire Daly,12 April 1923,19,36,6421,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,14 February 1923,19,90,6246,Letter ,Kerry Library Tralee,
-per_094,per_057,directed,1,Susan Daly,Mary / May / Máire Daly,15 March 1923,19,36,6420,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,18 December 1922,19,90,6244,Letter ,Kerry Library Tralee,
-per_094,per_028,directed,1,Susan Daly,Ellen Daly,21 March 1923,19,80,6413,Letter ,Kerry Library Tralee,
-per_094,per_028,directed,1,Susan Daly,Ellen Daly,27 March 1923,19,80,6415,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,29 January 1923,19,90,6245,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,5 February 1923,19,90,6247,Letter ,Kerry Library Tralee,
-per_094,per_105,directed,1,Susan Daly,unknown,6 April 1923,19,10,6425,Letter ,Kerry Library Tralee,
-per_094,per_028,directed,1,Susan Daly,Ellen Daly,8 April 1923,19,80,6416,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,8 December 1922,19,90,6241,Letter ,Kerry Library Tralee,
-per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly,9 April 1923,19,12,5433,Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,December 1922,19,90,7.json212 , Letter ,Kerry Library Tralee,
-per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,February 1923,19,90,7.json217 , Letter ,Kerry Library Tralee,
-per_094,per_028,directed,1,Susan Daly,Ellen Daly,March 1923,19,80,7.json368 , Letter ,Kerry Library Tralee,
-per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly,February 1923,5,90,6256,Letter ,Kerry Library Tralee,
-per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly,11 June 1923,5,80,6310,Letter ,Kerry Library Tralee,
-per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly,2 February 1923,5,90,6257,Letter ,Kerry Library Tralee,
-per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly,26 April 1923,5,80,6309,Letter ,Kerry Library Tralee,
-per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly,February 1923,5,90,8.json424 , Letter ,Kerry Library Tralee,
-per030_101,per_018,directed,1,Thomas and Ellen Leonard,Cornelius Daly,15 March 1923,1,14,6452,Letter,Kerry Library Tralee,
-per_099,per_105,directed,1,Thomas Daly,unknown,1923,20,10,5054,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,1 December 1923,20,36,5394,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,11 November 1923,20,36,5392,Letter,Kerry Library Tralee,
-per_099,per_094,directed,1,Thomas Daly,Susan Daly,12 March 1923,20,23,5401,Letter,Kerry Library Tralee,
-per_099,per_042,directed,1,Thomas Daly,Katherine Allman,13 November 1922,20,15,6634,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,14 December 1923,20,36,5399,Letter,Kerry Library Tralee,
-per_099,per_063,directed,1,Thomas Daly,Midge,15 October 1923,20,1,5052,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,16 July 1923,20,36,5389,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,17 December 1923,20,36,5400,Letter,Kerry Library Tralee,
-per_099,per_047,directed,1,Thomas Daly,William / Willie / Liam Daly,19 June 1923,20,12,6440,Letter,Kerry Library Tralee,
-per_099,per_098,directed,1,Thomas Daly,the Editor,20 September 1923,20,1,5051,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,23 May 1923,20,36,5388,Letter,Kerry Library Tralee,
-per_099,per_094,directed,1,Thomas Daly,Susan Daly,25 May 1923,20,23,5402,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,28 August 1923,20,36,5391,Letter,Kerry Library Tralee,
-per_099,per_067,directed,1,Thomas Daly,Mrs Browne,28 November 1923,20,1,5053,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,30 July 1923,20,36,5390,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,5 December 1923,20,36,5398,Letter,Kerry Library Tralee,
-per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,8 November 1923,20,36,5397, Letter ,Kerry Library Tralee,
-per_099,per_028,directed,1,Thomas Daly,Ellen Daly,9 December 1923,20,80,6638, Letter ,Kerry Library Tralee,
-per_099,per_028,directed,1,Thomas Daly,Ellen Daly,9 July 1923,20,80,6441,Letter,Kerry Library Tralee,
-per_100,per_018,directed,1,Thomas Donoghue,Cornelius Daly,18 March 1923,1,14,6455,Letter,Kerry Library Tralee,
-per_102,per_028,directed,1,UA Cuinneagain,Ellen Daly,10 August 1923,1,80,5354,Letter,Kerry Library Tralee,
-per_103,per_013,directed,1,W. D. Sheehan,Charlie / Cormac Daly,undated,1,90,6178,Letter,Kerry Library Tralee,
-per_104,per_097,directed,1,W. G. Kelly Senior,the Daly Family,15 March 1923,1,1,5086,Telegraph,Kerry Library Tralee,
-per_047,per_028,directed,1,William / Willie / Liam Daly,Ellen Daly,12 March 1923,9,80,6435,Letter,Kerry Library Tralee,
-per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly,21 April 1923,9,23,6439,Letter,Kerry Library Tralee,
-per_047,per_013,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly,21 February 1923,9,90,6431,Letter,Kerry Library Tralee,
-per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly,26 January 1923,9,23,5185,Letter,Kerry Library Tralee,
-per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / Máire Daly,5 March 1923,9,36,6432,Letter,Kerry Library Tralee,
-per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / Máire Daly,7 January 1923,9,36,6430,Letter,Kerry Library Tralee,
-per_047,per_105,directed,1,William / Willie / Liam Daly,unknown,7 March 1923,9,10,6433,Letter,Kerry Library Tralee,
-per_047,per_028,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly,8 March 1923,9,90,6434,Letter,Kerry Library Tralee,
-per_047,per_099,directed,1,William / Willie / Liam Daly,Susan Daly,Sunday 21st 1923,9,23,5382,Letter,Kerry Library Tralee,
+Source,Target,Type,Weight,Source_Name,Target_Name,Date,Total no. sender:,Total no. recipient:,ID Letters 1916,Item type,Contributor
+per_108,per_028,directed,1,A. B. Browne,Ellen Daly,11 April 1923,2,75,6622, Letter ,Kerry Library Tralee
+per_108,per_094,directed,1,A. B. Browne,Susan Daly,25 January 1923,2,23,6423, Letter ,Kerry Library Tralee
+per_002,per_013,directed,1,Áine Ní Maolchiaráin,Charlie / Cormac Daly,[1922],2,84,6268,Letter ,Kerry Library Tralee
+per_002,per_013,directed,1,Áine Ní Maolchiaráin,Charlie / Cormac Daly,5 December 1922,2,84,6267,Letter ,Kerry Library Tralee
+per_001,per_057,directed,1,Amy,Mary / May / Máire Daly,15 March 1923,1,35,6357,Letter ,Kerry Library Tralee
+per_003,per_028,directed,1,Anne O'Flanagan,Ellen Daly,8 September 1923,1,75,6347,Letter ,Kerry Library Tralee
+per_106,per_018,directed,1,Arthur Cox and Company Solici,Cornelius Daly,1921],1,14,5200, Letter ,Kerry Library Tralee
+per004_020,per_013,directed,1,Austin Stack and Darrell Figgis,Charlie / Cormac Daly,1 January 1918,1,84,6174,Letter,Kerry Library Tralee
+per_005,per_013,directed,1,Bessie Harrington,Charlie / Cormac Daly,20 February 1923,1,84,6291,Letter ,Kerry Library Tralee
+per_006,per_028,directed,1,Bridget Hannigan,Ellen Daly,28 March 1923,1,75,5092,Letter ,Kerry Library Tralee
+per_007,per_076,directed,1,Brigid McCarron,one of Ellen Daly's children,[1923],2,1,5375,Letter ,Kerry Library Tralee
+per_007,per_028,directed,1,Brigid McCarron,Ellen Daly,[March 1923],2,75,5374,Letter ,Kerry Library Tralee
+per_010,per_013,directed,1,Caitlín Ní Aoda,Charlie / Cormac Daly,10 February 1923,1,84,6289,Letter ,Kerry Library Tralee
+per_011,per_013,directed,1,Cathal Brugha,Charlie / Cormac Daly,17 November 1921,1,84,5006,Letter,Kerry Library Tralee
+per_012,per_028,directed,1,Charles McGinley,Ellen Daly,13 June 1923,2,75,5061,Letter,Kerry Library Tralee
+per_012,per_028,directed,1,Charles McGinley,Ellen Daly,15 May 1923,2,75,5060,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,undated,75,35,4926, Postcard ,Kerry Library Tralee
+per_013,per_023,directed,1,Charlie / Cormac Daly,Dick,[1920],75,1,6179,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,[1922],75,14,6465,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,[1922],75,75,4956,Letter,Kerry Library Tralee
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly,[February 1923],75,12,5020,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,[February 1923],75,75,6225,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,[January 1920],75,11,6181,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,[March 1920],75,11,6186,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,[September 1921],75,75,6189,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,1 February 1920,75,11,6184,Letter,Kerry Library Tralee
+per_013,per_093,directed,1,Charlie / Cormac Daly,Sinéad Ring,1 February 1923,75,1,5363,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,1 January 1923,75,75,6215,Letter ,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,11 January 1923,75,75,6217,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,12 February 1923,75,75,6222,Letter,Kerry Library Tralee
+per_013,per_077,directed,1,Charlie / Cormac Daly,Patrick Lynch,12 November 1921,75,2,5008,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,13 February 1923,75,14,6473,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,13 January 1920,75,11,6182,Letter,Kerry Library Tralee
+per_013,per_008,directed,1,Charlie / Cormac Daly,C.,13 July 1922,75,1,5025,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,13 September 1922,75,75,6203,Letter,Kerry Library Tralee
+per_013,per_047,directed,1,Charlie / Cormac Daly,William / Willie / Liam Daly,14 March 1923,75,12,5021,Letter,Kerry Library Tralee
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,14 March 1923,75,23,5004,Letter,Kerry Library Tralee
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,14 March 1923,75,14,6450,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,14 March 1923,75,75,6227,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,16 January 1923,75,35,4985,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,17 December 1922,75,75,6210,Letter,Kerry Library Tralee
+per_013,per_011,directed,1,Charlie / Cormac Daly,Cathal Brugha,17 November 1921,75,1,5007,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,18 February 1923,75,75,6223,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,19 December 1921,75,75,6193,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,19 November 1922,75,75,6206,Letter,Kerry Library Tralee
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,1922,75,23,5024,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,1922,75,11,5024, Letter ,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,1922,75,14,5221, Letter ,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,1922,75,75,4953, Letter ,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,2 February 1923,75,35,4987,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,20 December 1921,75,75,6194,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,20 July 1922,75,14,6464,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,20 March 1922,75,75,6196,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,21 February 1923,75,35,4989,Letter,Kerry Library Tralee
+per_013,per_088,directed,1,Charlie / Cormac Daly,Seán Lehane,21 January 1923,75,1,5037,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,21 March 1920,75,11,6185,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,21 November 1922,75,14,6470,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,22 December 1922,75,14,6471,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,24 February 1923,75,35,4990,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,24 November 1922,75,75,6207,Letter,Kerry Library Tralee
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,25 February 1923,75,14,6449,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,26 December 1922,75,75,6213,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,26 January 1923,75,75,6219,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 December 1922,75,75,6214,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 February 1923,75,75,6226,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,27 June 1922,75,75,6200,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,28 January 1922,75,75,6195,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,28 March 1922,75,75,6197,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,28 October 1921,75,35,4983,Letter,Kerry Library Tralee
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,3 December 1921,75,14,6192,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,3 March 1923,75,75,4993,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,30 June 1922,75,35,6202,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,30 November 1922,75,75,4995,Letter,Kerry Library Tralee
+per_013,per_094,directed,1,Charlie / Cormac Daly,Susan Daly,30 November 1922,75,23,6208,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,30 October 1922,75,14,6466,Letter,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,31 January 1920,75,14,6183,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,31 October 1921,75,75,4945, Letter ,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,4 February 1923,75,14,6472,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,4 September 1922,75,75,4959, Letter ,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,5 March 1923,75,35,4994, Letter ,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,6 November 1922,75,14,5223, Letter ,Kerry Library Tralee
+per_013,per_042,directed,1,Charlie / Cormac Daly,Katherine Allman,7 June 1920,75,14,6188,Letter,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,7 June 1920,75,35,4943,Letter,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,7 May 1920,75,11,6187,Letter,Kerry Library Tralee
+per_013,per_018,directed,1,Charlie / Cormac Daly,Cornelius Daly,8 December 1922,75,14,6447, Letter ,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,8 December 1922,75,75,6209, Letter ,Kerry Library Tralee
+per_013,per_057,directed,1,Charlie / Cormac Daly,Mary / May / Máire Daly,9 January 1923,75,35,5033,Letter,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,9 November 1921,75,75,6191, Letter ,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,February 1923,75,75,4980, Letter ,Kerry Library Tralee
+per_013,per_028,directed,1,Charlie / Cormac Daly,Ellen Daly,7915,75,75,4944, Letter ,Kerry Library Tralee
+per_013,per_105,directed,1,Charlie / Cormac Daly,unknown,undated,75,11,6171,Postcard,Kerry Library Tralee
+per_114,per_013,directed,1,Chief of Staff (IRA),Charlie / Cormac Daly,30 November 1921,1,84,5010, Letter,Kerry Library Tralee
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,[December 1922],3,84,6258,Christmas Card ,Kerry Library Tralee
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,1 March 1923,3,84,6260,Letter ,Kerry Library Tralee
+per_014,per_013,directed,1,Cis Doherty,Charlie / Cormac Daly,16 February 1923,3,84,6259,Letter ,Kerry Library Tralee
+per_015,per_028,directed,1,Colm O'Neill,Ellen Daly,26 November 1923,1,75,5104,Letter,Kerry Library Tralee
+per_016,per_099,directed,1,Con Lucy,Thomas Daly,2 December 1923,3,7,5404,Letter,Kerry Library Tralee
+per_016,per_047,directed,1,Con Lucy,William / Willie / Liam Daly,9 November 1923,3,12,5403,Letter,Kerry Library Tralee
+per_016,per_099,directed,1,Con Lucy,Thomas Daly,9 November 1923,3,7,5403, Letter ,Kerry Library Tralee
+per_017,per_013,directed,1,Con Sullivan,Charlie / Cormac Daly,15 February 1923,1,84,5045,Letter,Kerry Library Tralee
+per_018,per_009,directed,1,Cornelius Daly,C. I. Francis,[November 1923],3,1,6446,Letter,Kerry Library Tralee
+per_018,per_047,directed,1,Cornelius Daly,William / Willie / Liam Daly,15 June 1923,3,12,6458,Letter,Kerry Library Tralee
+per_018,per_013,directed,1,Cornelius Daly,Charlie / Cormac Daly,19 February 1923,3,84,6448,Letter,Kerry Library Tralee
+per_111,per_013,directed,1,D. V.,Charlie / Cormac Daly,10 January 1923,1,84,5035, Letter ,Kerry Library Tralee
+per_021,per_018,directed,1,David Fitzgerald,Cornelius Daly,19 April 1923,2,14,6457,Letter,Kerry Library Tralee
+per_021,per_013,directed,1,David Fitzgerald,Charlie / Cormac Daly,26 February 1923,2,84,5048,Letter,Kerry Library Tralee
+per_022,per_028,directed,1,Denis Mahony,Ellen Daly,[1923],1,75,5085,Letter,Kerry Library Tralee
+per_024,per_099,directed,1,Director of Organisation,Thomas Daly,12 November 1920,2,7,6177,Letter,Kerry Library Tralee
+per_024,per_013,directed,1,Director of Organisation,Charlie / Cormac Daly,24 June 1921,2,84,5005,Letter,Kerry Library Tralee
+per_025,per_013,directed,1,Domhnall,Charlie / Cormac Daly,22 February 1923,1,84,5047,Letter,Kerry Library Tralee
+per_026,per_028,directed,1,Domhnall MacEarraig,Ellen Daly,1 April 1923,1,75,5094,Letter,Kerry Library Tralee
+per_019,per_057,directed,1,Dómnall Ua Cathail,Mary / May / Máire Daly,[February 1923],2,35,5110,Letter,Kerry Library Tralee
+per_019,per_013,directed,1,Dómnall Ua Cathail,Charlie / Cormac Daly,20 January 1923,2,84,5038,Letter,Kerry Library Tralee
+per_116,per_028,directed,1,E. O'Sullivan,Ellen Daly,6 April 1923,1,75,5098, Letter ,Kerry Library Tralee
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,[March 1923],5,75,5243,Letter ,Kerry Library Tralee
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly,16 February 1923,5,84,6486,Letter ,Kerry Library Tralee
+per_027,per_013,directed,1,Elizabeth Whelan,Charlie / Cormac Daly,24 January 1923,5,84,6286,Letter ,Kerry Library Tralee
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,27 June 1923,5,75,6489,Letter ,Kerry Library Tralee
+per_027,per_028,directed,1,Elizabeth Whelan,Ellen Daly,27 March 1923,5,75,6488,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,11 February 1923,16,84,6221,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,15 January 1923,16,84,6218,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,16 November 1922,16,84,4960,Letter,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,19 December 1922,16,84,6211,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,21 February 1923,16,84,6224,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,21 January 1923,16,84,6284,Letter ,Kerry Library Tralee
+per_028,per_094,directed,1,Ellen Daly,Susan Daly,24 April 1923,16,23,6417,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,25 December 1922,16,84,6212,Letter ,Kerry Library Tralee
+per_028,per_094,directed,1,Ellen Daly,Susan Daly,25 March 1923,16,23,6414,Letter ,Kerry Library Tralee
+per_028,per_094,directed,1,Ellen Daly,Susan Daly,26 January 1923,16,23,6613,Letter ,Kerry Library Tralee
+per_028,per_042,directed,1,Ellen Daly,Katherine Allman,28 March 1923,16,14,6637,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,4 February 1923,16,84,6220,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,7 January 1923,16,84,6216,Letter ,Kerry Library Tralee
+per_028,per_094,directed,1,Ellen Daly,Susan Daly,8 May 1923,16,23,6418,Letter ,Kerry Library Tralee
+per_028,per_047,directed,1,Ellen Daly,William / Willie / Liam Daly,9 April 1923,16,12,6438,Letter ,Kerry Library Tralee
+per_028,per_013,directed,1,Ellen Daly,Charlie / Cormac Daly,December 1922,16,84,6618,Letter ,Kerry Library Tralee
+per_029,per_013,directed,1,Ellen Mary / Nellie Daly,Charlie / Cormac Daly,[December 1922],2,84,6460,Letter ,Kerry Library Tralee
+per_029,per_094,directed,1,Ellen Mary / Nellie Daly,Susan Daly,26 January 1923,2,23,6461,Letter ,Kerry Library Tralee
+per_115,per_094,directed,1,H. Malone,Susan Daly,30 October 1922,1,23,5178, Letter ,Kerry Library Tralee
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly,21 February 1923,2,84,6262,Letter ,Kerry Library Tralee
+per_031,per_013,directed,1,H. McGrath,Charlie / Cormac Daly,4 February 1923,2,84,6261,Letter ,Kerry Library Tralee
+per_032,per_018,directed,1,Henry Kennedy,Cornelius Daly,29 November 1921,1,14,6445, Letter ,Kerry Library Tralee
+per_033,per_028,directed,1,Hugh McLean,Ellen Daly,29 March 1923,1,75,5093, Letter ,Kerry Library Tralee
+per_034,per_018,directed,1,James J. Donaghy,Cornelius Daly,15 March 1923,1,14,6451,Letter,Kerry Library Tralee
+per_110,per_013,directed,1,Jamie,Charlie / Cormac Daly,9 February 1923,1,84,5043, Letter ,Kerry Library Tralee
+per_035,per_028,directed,1,Jennie Gallivan,Ellen Daly,19 March 1923,1,75,5091,Letter ,Kerry Library Tralee
+per_036,per_094,directed,1,Jer Hannifin,Susan Daly,30 September 1923,1,23,6428,Letter ,Kerry Library Tralee
+per_037,per_057,directed,1,Joe,Mary / May / Máire Daly,19 August 1923,1,35,5125,Letter,Kerry Library Tralee
+per_038,per_057,directed,1,John Gallagher,Mary / May / Máire Daly,7 May 1923,1,35,5115, Letter ,Kerry Library Tralee
+per_040,per_013,directed,1,Judy Daly,Charlie / Cormac Daly,10 January 1923,1,84,6279,Letter ,Kerry Library Tralee
+per_041,per_028,directed,1,K. Casey,William / Willie / Liam Daly,October 1923,1,12,5386,Letter,Kerry Library Tralee
+per_042,per_094,directed,1,Katherine Allman,Susan Daly,1 December 1922,7,23,6635,Letter ,Kerry Library Tralee
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly,13 November 1922,7,84,6469,Letter ,Kerry Library Tralee
+per_042,per_057,directed,1,Katherine Allman,Mary / May / Máire Daly,15 April 1923,7,35,6476,Letter ,Kerry Library Tralee
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly,17 March 1923,7,75,6475,Letter ,Kerry Library Tralee
+per_042,per_057,directed,1,Katherine Allman,Mary / May / Máire Daly,6 June 1923,7,35,6477,Letter ,Kerry Library Tralee
+per_042,per_028,directed,1,Katherine Allman,Ellen Daly,9 February 1923,7,75,6474,Letter ,Kerry Library Tralee
+per_042,per_013,directed,1,Katherine Allman,Charlie / Cormac Daly,9 November 1922,7,84,6468,Letter ,Kerry Library Tralee
+per_043,per_094,directed,1,Kathleen Durcan,Susan Daly,1 April 1923,4,23,6424,Letter ,Kerry Library Tralee
+per_043,per_057,directed,1,Kathleen Durcan,Mary / May / Máire Daly,17 April 1923,4,35,6356,Letter ,Kerry Library Tralee
+per_043,per_047,directed,1,Kathleen Durcan,William / Willie / Liam Daly,19 March 1923,4,12,5377,Letters ,Kerry Library Tralee
+per_043,per_057,directed,1,Kathleen Durcan,Mary / May / Máire Daly,23 March 1923,4,35,5378,Letter ,Kerry Library Tralee
+per_045,per_013,directed,1,L. Breaney,Charlie / Cormac Daly,[January 1923],1,84,5032,Letter,Kerry Library Tralee
+per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly,2 January 1923,2,84,6485,Letter,Kerry Library Tralee
+per_046,per_013,directed,1,Leo Whelan,Charlie / Cormac Daly,22 December 1922,2,84,6484,Card,Kerry Library Tralee
+per_048,per_013,directed,1,Lily Gerard,Charlie / Cormac Daly,17 December 1922,1,84,6272,Letter ,Kerry Library Tralee
+per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly,27 November 1915,2,84,6173,Letter,Kerry Library Tralee
+per_050,per_013,directed,1,Lord Wimborne,Charlie / Cormac Daly,28 October 1915,2,84,6172,Letter,Kerry Library Tralee
+per_107,per_094,directed,1,M. Corkery,Susan Daly,29 April 1923,1,23,6426, Letter ,Kerry Library Tralee
+per_051,per_018,directed,1,M. Buckley,Cornelius Daly,19 March 1923,1,14,6456,Letter,Kerry Library Tralee
+per_113,per_099,directed,1,M. K.,Thomas Daly,13 December 1923,1,7,5409, Letter ,Kerry Library Tralee
+per_052,per_028,directed,1,M. MacMahon,Ellen Daly,4 December 1923,1,75,5127,Letter,Kerry Library Tralee
+per_112,per_099,directed,1,M. T.,Thomas Daly,12 December 1923,1,7,5408, Letter ,Kerry Library Tralee
+per_053,per_013,directed,1,Madge Boner,Charlie / Cormac Daly,20 December 1922,1,84,6274,Letter ,Kerry Library Tralee
+per_054,per_028,directed,1,Madge Rodgers,Ellen Daly,17 March 1923,1,75,6334,Letter ,Kerry Library Tralee
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly,1 July 1923,2,75,6345,Letter ,Kerry Library Tralee
+per_055,per_028,directed,1,Maggie Larkin,Ellen Daly,15 March 1923,2,75,6331,Telegraph ,Kerry Library Tralee
+per_056,per_028,directed,1,Máire Ní Dhonnghaile,Ellen Daly,20 June 1923,1,75,6343,Letter ,Kerry Library Tralee
+per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,10 January 1923,9,84,6229,Letter ,Kerry Library Tralee
+per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,14 February 1923,9,84,6233,Letter ,Kerry Library Tralee
+per_057,per_047,directed,1,Mary / May / Máire Daly,William / Willie / Liam Daly,1923,9,12,5432,Letter ,Kerry Library Tralee
+per_057,per_099,directed,1,Mary / May / Máire Daly,Thomas Daly,23 October 1921,9,7,5423,Letter ,Kerry Library Tralee
+per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,24 January 1923,9,84,6231,Letter ,Kerry Library Tralee
+per_057,per_042,directed,1,Mary / May / Máire Daly,Katherine Allman,25 March 1923,9,14,6636,Letter ,Kerry Library Tralee
+per_057,per_013,directed,1,Mary / May / Máire Daly,Charlie / Cormac Daly,26 February 1923,9,84,6236,Letter ,Kerry Library Tralee
+per_057,per_094,directed,1,Mary / May / Máire Daly,Susan Daly,29 January 1923,9,23,6419,Letter ,Kerry Library Tralee
+per_057,per_047,directed,1,Mary / May / Máire Daly,William / Willie / Liam Daly,6 April 1923,9,12,6443,Letter ,Kerry Library Tralee
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly,19 December 1923,2,75,6308,Letter ,Kerry Library Tralee
+per_058,per_028,directed,1,Mary Kelly,Ellen Daly,26 November 1923,2,75,6307,Letter ,Kerry Library Tralee
+per_059,per_013,directed,1,Mary McFadden,Charlie / Cormac Daly,[December 1922],1,84,5030,Christmas card ,Kerry Library Tralee
+per_060,per_028,directed,1,Michael Blake,Ellen Daly,2 April 1923,1,75,5096,Letter,Kerry Library Tralee
+per_061,per_013,directed,1,Mick Leary,Charlie / Cormac Daly,1 December 1922,1,84,5026,Letter,Kerry Library Tralee
+per_062,per_047,directed,1,Mick Timoney,Charlie / Cormac Daly,undated,1,84,5031,Letter,Kerry Library Tralee
+per_064,per_094,directed,1,Minnie Daly,Susan Daly,25 May 1923,1,23,6427,Letter ,Kerry Library Tralee
+per_066,per_028,directed,1,Mollie O'Connor,Ellen Daly,4 April 1923,2,75,6328,Letter ,Kerry Library Tralee
+per_066,per_057,directed,1,Mollie O'Connor,Mary / May / Máire Daly,9 December 1922,2,35,6350,Letter ,Kerry Library Tralee
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,19 June 1923,3,75,6304,Letter ,Kerry Library Tralee
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,23 April 1923,3,75,5058,Letter,Kerry Library Tralee
+per_068,per_028,directed,1,Mrs MacFeely,Ellen Daly,5 April 1923,3,75,6302,Letter ,Kerry Library Tralee
+per_070,per_013,directed,1,Nancy Daly,Charlie / Cormac Daly,15 December 1922,1,84,6612,Letter ,Kerry Library Tralee
+per_071,per_018,directed,1,Neil Freant,Cornelius Daly,8 March 1923,1,14,5050,Letter,Kerry Library Tralee
+per_072,per_013,directed,1,Nellie McGrath,Charlie / Cormac Daly,20 December 1922,1,84,6273,Letter ,Kerry Library Tralee
+per_074,per_028,directed,1,Nora O'Sullivan,Ellen Daly,4 April 1923,2,75,5056,Letter ,Kerry Library Tralee
+per_074,per_057,directed,1,Nora O'Sullivan,Mary / May / Máire Daly,8 October 1923,2,35,5126,Letter ,Kerry Library Tralee
+per_075,per_094,directed,1,Nora Ring,Susan Daly,9 November 1923,2,23,5369,Letter ,Kerry Library Tralee
+per_075,per_094,directed,1,Nora Ring,Susan Daly,March 1923,2,23,5368,Letter ,Kerry Library Tralee
+per_078,per_057,directed,1,Patrick O'Connor,Mary / May / Máire Daly,21 January 1923,1,35,5108,Letter,Kerry Library Tralee
+per_079,per_013,directed,1,Peadar O'Dóimhín,Charlie / Cormac Daly,17 January 1923,1,84,5036,Letter,Kerry Library Tralee
+per_080,per_018,directed,1,R. E. Shanahan,Cornelius Daly,16 March 1923,1,14,6454,Letter,Kerry Library Tralee
+per_081,per_018,directed,1,Rev. J. O'Flynn,Cornelius Daly,15 March 1923,1,14,6453,Letter,Kerry Library Tralee
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly,19 February 1923,2,84,6264,Letter ,Kerry Library Tralee
+per_082,per_013,directed,1,Rita Murphy,Charlie / Cormac Daly,25 January 1923,2,84,6263,Letter ,Kerry Library Tralee
+per_083,per_028,directed,1,Róise Ní Dhómhnaill,Ellen Daly,[1923],5,75,5376,Letter ,Kerry Library Tralee
+per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,[February/March 1923],5,84,5373,Letter ,Kerry Library Tralee
+per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,[January 1923],5,84,5371,Letter ,Kerry Library Tralee
+per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,17 February 1923,5,84,5372,Letter ,Kerry Library Tralee
+per_083,per_013,directed,1,Róise Ní Dhómhnaill,Charlie / Cormac Daly,December 1922,5,84,5370,Letter ,Kerry Library Tralee
+per_084,per_013,directed,1,Roisín Ní Ceallaig,Charlie / Cormac Daly,6 February 1923,1,84,6287,Letter ,Kerry Library Tralee
+per_087,per_013,directed,1,S. O. Gallagher,Charlie / Cormac Daly,26 February 1923,1,84,5049,Letter,Kerry Library Tralee
+per_085,per_028,directed,1,S. O'Brien,Ellen Daly,15 March 1923,1,75,6619,Letter,Kerry Library Tralee
+per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,[June 1918],3,84,6180,Envelope,Kerry Library Tralee
+per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,12 June 1918,3,84,6175,Letter,Kerry Library Tralee
+per_086,per_013,directed,1,S. Ua Núnáin,Charlie / Cormac Daly,24 May 1918,3,84,6176,Letter,Kerry Library Tralee
+per_088,per_099,directed,1,Seán Lehane,Thomas Daly,20 November 1923,1,7,5055,Letter,Kerry Library Tralee
+per_109,per_077,directed,1,Seán Ó Coráig,Patrick Lynch,18 November 1921,1,2,5009,Letter,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,[December 1922],7,84,6480,Christmas Card ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,[February 1923],7,84,6482,Letter ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,2 January 1923,7,84,6481,Letter ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,21 December 1922,7,84,6479,Letter ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,28 January 1923,7,84,6285,Letter ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,4 December 1922,7,84,6478,Letter ,Kerry Library Tralee
+per_090,per_013,directed,1,Sheila Doogan,Charlie / Cormac Daly,8 February 1923,7,84,6483,Letter ,Kerry Library Tralee
+per_091,per_028,directed,1,Sheila Hartnett,Ellen Daly,16 March 1923,1,75,5088,Letter ,Kerry Library Tralee
+per_092,per_028,directed,1,Sheila Nagle,Ellen Daly,16 March 1923,1,75,5089,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,[December 1922],17,84,4998,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,[February 1923],17,84,6248,Letter ,Kerry Library Tralee
+per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly,[March 1923],17,12,6437,Letter ,Kerry Library Tralee
+per_094,per_028,directed,1,Susan Daly,Ellen Daly,[March 1923],17,75,6412,Letter ,Kerry Library Tralee
+per_094,per_057,directed,1,Susan Daly,Mary / May / Máire Daly,12 April 1923,17,35,6421,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,14 February 1923,17,84,6246,Letter ,Kerry Library Tralee
+per_094,per_057,directed,1,Susan Daly,Mary / May / Máire Daly,15 March 1923,17,35,6420,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,18 December 1922,17,84,6244,Letter ,Kerry Library Tralee
+per_094,per_028,directed,1,Susan Daly,Ellen Daly,21 March 1923,17,75,6413,Letter ,Kerry Library Tralee
+per_094,per_028,directed,1,Susan Daly,Ellen Daly,27 March 1923,17,75,6415,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,29 January 1923,17,84,6245,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,5 February 1923,17,84,6247,Letter ,Kerry Library Tralee
+per_094,per_105,directed,1,Susan Daly,unknown,6 April 1923,17,11,6425,Letter ,Kerry Library Tralee
+per_094,per_028,directed,1,Susan Daly,Ellen Daly,8 April 1923,17,75,6416,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,8 December 1922,17,84,6241,Letter ,Kerry Library Tralee
+per_094,per_047,directed,1,Susan Daly,William / Willie / Liam Daly,9 April 1923,17,12,5433,Letter ,Kerry Library Tralee
+per_094,per_013,directed,1,Susan Daly,Charlie / Cormac Daly,December 1922,17,84,4997, Letter ,Kerry Library Tralee
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly,[February 1923],4,84,6256,Letter ,Kerry Library Tralee
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly,11 June 1923,4,75,6310,Letter ,Kerry Library Tralee
+per_096,per_013,directed,1,Susan O'Flaherty,Charlie / Cormac Daly,2 February 1923,4,84,6257,Letter ,Kerry Library Tralee
+per_096,per_028,directed,1,Susan O'Flaherty,Ellen Daly,26 April 1923,4,75,6309,Letter ,Kerry Library Tralee
+per030_101,per_018,directed,1,Thomas and Ellen Leonard,Cornelius Daly,15 March 1923,1,14,6452,Letter,Kerry Library Tralee
+per_099,per_105,directed,1,Thomas Daly,unknown,[1923],20,11,5054,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,1 December 1923,20,35,5394,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,11 November 1923,20,35,5392,Letter,Kerry Library Tralee
+per_099,per_094,directed,1,Thomas Daly,Susan Daly,12 March 1923,20,23,5401,Letter,Kerry Library Tralee
+per_099,per_042,directed,1,Thomas Daly,Katherine Allman,13 November 1922,20,14,6634,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,14 December 1923,20,35,5399,Letter,Kerry Library Tralee
+per_099,per_063,directed,1,Thomas Daly,Midge,15 October 1923,20,1,5052,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,16 July 1923,20,35,5389,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,17 December 1923,20,35,5400,Letter,Kerry Library Tralee
+per_099,per_047,directed,1,Thomas Daly,William / Willie / Liam Daly,19 June 1923,20,12,6440,Letter,Kerry Library Tralee
+per_099,per_098,directed,1,Thomas Daly,the Editor,20 September 1923,20,1,5051,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,23 May 1923,20,35,5388,Letter,Kerry Library Tralee
+per_099,per_094,directed,1,Thomas Daly,Susan Daly,25 May 1923,20,23,5402,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,28 August 1923,20,35,5391,Letter,Kerry Library Tralee
+per_099,per_067,directed,1,Thomas Daly,Mrs Browne,28 November 1923,20,1,5053,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,30 July 1923,20,35,5390,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,5 December 1923,20,35,5398,Letter,Kerry Library Tralee
+per_099,per_057,directed,1,Thomas Daly,Mary / May / Máire Daly,8 November 1923,20,35,5397, Letter ,Kerry Library Tralee
+per_099,per_028,directed,1,Thomas Daly,Ellen Daly,9 December 1923,20,75,6638, Letter ,Kerry Library Tralee
+per_099,per_028,directed,1,Thomas Daly,Ellen Daly,9 July 1923,20,75,6441,Letter,Kerry Library Tralee
+per_100,per_018,directed,1,Thomas Donoghue,Cornelius Daly,18 March 1923,1,14,6455,Letter,Kerry Library Tralee
+per_102,per_028,directed,1,UA Cuinneagain,Ellen Daly,10 August 1923,1,75,5354,Letter,Kerry Library Tralee
+per_103,per_013,directed,1,W. D. Sheehan,Charlie / Cormac Daly,undated,1,84,6178,Letter,Kerry Library Tralee
+per_104,per_028,directed,1,W. G. Kelly Senior,the Daly Family (Ellen Daly),15 March 1923,1,1,5086,Telegraph,Kerry Library Tralee
+per_047,per_028,directed,1,William / Willie / Liam Daly,Ellen Daly,12 March 1923,9,75,6435,Letter,Kerry Library Tralee
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly,21 April 1923,9,23,6439,Letter,Kerry Library Tralee
+per_047,per_013,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly,21 February 1923,9,84,6431,Letter,Kerry Library Tralee
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly,26 January 1923,9,23,5185,Letter,Kerry Library Tralee
+per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / Máire Daly,5 March 1923,9,35,4709,Letter,Kerry Library Tralee
+per_047,per_057,directed,1,William / Willie / Liam Daly,Mary / May / Máire Daly,7 January 1923,9,35,6430,Letter,Kerry Library Tralee
+per_047,per_105,directed,1,William / Willie / Liam Daly,unknown,7 March 1923,9,11,6433,Letter,Kerry Library Tralee
+per_047,per_028,directed,1,William / Willie / Liam Daly,Charlie / Cormac Daly,8 March 1923,9,84,6434,Letter,Kerry Library Tralee
+per_047,per_094,directed,1,William / Willie / Liam Daly,Susan Daly,Sunday 21st 1923,9,23,5382,Letter,Kerry Library Tralee

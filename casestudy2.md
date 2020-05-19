@@ -18,4 +18,9 @@ Based on this visualisation, we can make the following observations:
 1. The network includes seven letters written by Katherine Allman and 14 received by her. These letters were exchanged with five people: Charlie Daly, Thomas Daly, Ellen Daly, Susan Daly and May Daly.
 1. Charlie's brother Cornelius (community in the top right corner) is exclusively connected with men and one married couple. His letters in this network mainly relate to political activities and were exchanged with IRA members / supporters. 
 
+The data (incl. attributes) used to create this network can be consulted in these searchable CSV files:
+
+1. [List of correspondents including name variants and biographical information](https://github.com/MonikaBarget/FeministDH/blob/master/DalyNetwork_nodes_correspondents.csv)
+1. [List of 288 letters including dates and Letters 1916-1923 item IDs](https://github.com/MonikaBarget/FeministDH/blob/master/DalyNetwork_edges_letters.csv)
+
 [HOME](https://monikabarget.github.io/FeministDH/)

@@ -16,4 +16,6 @@ The following network graph shows the Daly family's correspondence network of 28
 
 ![Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019](https://github.com/MonikaBarget/FeministDH/blob/master/Daly_network_19May2020.png)
 
+ <img src="https://github.com/MonikaBarget/FeministDH/blob/master/Daly_network_19May2020.png" alt="Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019"> 
+
 [HOME](https://monikabarget.github.io/FeministDH/)

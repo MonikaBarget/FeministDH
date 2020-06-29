@@ -14,7 +14,7 @@ Analysing the relevance of these topics in the 2019 data dump, we find that "per
 
 Please check the [data table](https://github.com/MonikaBarget/FeministDH/blob/master/Top%20NFM%20topics_full%20data_18%20TOPICS.csv) for details.
 
-The [Python script used to generate the topic model](https://github.com/MonikaBarget/FeministDH/blob/master/Topic%20Modelling_Python_adapted-script.py) is based on the NLTK and Scikit Learn packages. Special thanks goes to [Allen Riddel](https://github.com/ariddell) and the [Sicit Learn development team](https://github.com/scikit-learn/scikit-learn) for their tutorials, documentation and willingness to discuss issues.
+The [Python script used to generate the topic model](https://github.com/MonikaBarget/FeministDH/blob/master/Topic%20Modelling_Python_adapted-script.py) is based on the NLTK and Scikit Learn packages. Special thanks go to [Allen Riddel](https://github.com/ariddell) and the [Sicit Learn development team](https://github.com/scikit-learn/scikit-learn) for their tutorials, documentation and willingness to discuss issues.
 
 For insights into the problems one may encounter when working with multilingual corpora or corpora that contain outdated forms of English, consult [issue #17929 in the Scikit Learn issue tracker](https://github.com/scikit-learn/scikit-learn/issues/17292). 
 

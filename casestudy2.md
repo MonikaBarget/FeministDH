@@ -29,6 +29,6 @@ A **topic model** of the Daly letters which have already been described gives in
 
 Matching these results with gender, we find that letters which were predominantly written in Irish came from women. Men's letters transcribed so far are more likely to contain occassional phrases in Irish.
 
-<img src="Daly_5 topics_distribution by gender.png" alt="5 topics in Daly letters" target="_blank">
+<img src="Daly_5 topics_distribution by gender.jpg" alt="5 topics in Daly letters" target="_blank">
 
 [HOME](https://monikabarget.github.io/FeministDH/)

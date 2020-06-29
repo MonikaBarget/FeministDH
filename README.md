@@ -16,7 +16,7 @@ These graphs visualise the data:
 
 *For more detailed analyses of the Letters 1916-1923 go to:*
 
-[Topic model of the 2019 data dump](https://github.com/MonikaBarget/FeministDH/blob/master/TopicModel2019.md)
+[Topic model of the 2019 data dump](https://monikabarget.github.io/FeministDH/TopicModel2019.html)
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 

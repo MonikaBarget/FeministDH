@@ -14,7 +14,9 @@ These graphs visualise the data:
 1. [Percentage of male authors per tag (in comparison to women)](https://github.com/MonikaBarget/FeministDH/blob/master/Percentage%20of%20male%20authors%20per%20tag.png)
 1. [Topics covered by women writers (based on tags)](https://github.com/MonikaBarget/FeministDH/blob/master/Topics%20covered%20by%20women%20writers%20based%20on%20tags.png)
 
-*Related projects:*
+*For more detailed analyses of the Letters 1916-1923 go to:*
+
+[Topic model of the 2019 data dump](https://github.com/MonikaBarget/FeministDH/blob/master/TopicModel2019.md)
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 

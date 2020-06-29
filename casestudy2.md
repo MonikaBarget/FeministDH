@@ -23,4 +23,8 @@ The data (incl. attributes) used to create this network can be consulted in thes
 1. [List of correspondents including name variants and biographical information](https://github.com/MonikaBarget/FeministDH/blob/master/DalyNetwork_nodes_correspondents.csv)
 1. [List of 288 letters including dates and Letters 1916-1923 item IDs](https://github.com/MonikaBarget/FeministDH/blob/master/DalyNetwork_edges_letters.csv)
 
+A **topic model** of the Daly letters which have already been described gives insight into the content of the correspondence:
+
+<img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank">
+
 [HOME](https://monikabarget.github.io/FeministDH/)

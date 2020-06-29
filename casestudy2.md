@@ -27,4 +27,6 @@ A **topic model** of the Daly letters which have already been described gives in
 
 <img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank">
 
+Matching these results with gender, we find that all letters in Irish for which transcriptions are available at present were written by women.
+
 [HOME](https://monikabarget.github.io/FeministDH/)

@@ -1,18 +1,41 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# import necessary modules
+
 import os
 import numpy as np
 import sklearn.feature_extraction.text as text # submodule gathers utilities to build feature vectors from text documents
 from sklearn import decomposition
+from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+from nltk.corpus import stopwords
+nltk.download('stopwords')
 
-CORPUS_PATH ="C:\\Users\\mobarget\\Google Drive\\ACADEMIA\\7_FeministDH for Susan\\7_Transcriptions from JSON files\\JSON_all_files_TXT"                                  
+# call custom NLTK stopword list
+
+my_stopwords=stopwords.words('en_letters')
+my_stopwords.extend(['x2014', '39', 'st', 'quot', 'us', 'didn', 'couldn', 'shouldn', 'wouldn', '000']) # extend list if necessary
+print(my_stopwords)
+
+# read .txt files to be analysed from directory
+
+CORPUS_PATH=("C:\\Users\\mobarget\\Google Drive\\ACADEMIA\\7_FeministDH for Susan\\7_Transcriptions from JSON files\\JSON_all_files_TXT")
 
 filenames=sorted([os.path.join(CORPUS_PATH, fn) for fn in os.listdir(CORPUS_PATH)])
 print(len(filenames)) # count files in corpus
 print(filenames[:10]) # print names of 1st ten files in corpus
 
-vectorizer = text.CountVectorizer(input='filename', stop_words='english', min_df=20) # HOW CAN I ADD MY OWN STOP WORD LIST?
+# apply stopword list and vectorise data
+
+vectorizer=text.CountVectorizer(input='filename', stop_words=my_stopwords, min_df=1) 
+
+# min_df: float in range [0.0, 1.0] or int, default=1
+# When building the vocabulary ignore terms that have a document frequency 
+# strictly lower than the given threshold. This value is also called cut-off
+# in the literature. If float, the parameter represents a proportion of documents,
+# integer absolute counts. 
+#This parameter is ignored if vocabulary is not None
 
 dtm=vectorizer.fit_transform(filenames).toarray() # defines document term matrix
 
@@ -20,27 +43,27 @@ vocab=np.array(vectorizer.get_feature_names())
 
 print(dtm.shape)
 
-print(len(vocab)) # seems rather too small?
+print(len(vocab)) # vocabulary size of corpus
 
-num_topics=15 # No. of topics created in a previous topic model of 2016 to which I want to compare the results.
+num_topics=18 # no. of topics
 
-num_top_words=30 # Can be reduced if a better stop word list is used!
+num_top_words=25 # no. of words per topic to be displayed
 
 clf=decomposition.NMF(n_components=num_topics, random_state=1)
 
 doctopic=clf.fit_transform(dtm) 
 
 topic_words=[] # list of most prominent words associated with topics
-for topic in clf.components_: # I have no idea where this class was defined but it works.
+for topic in clf.components_: 
    
     word_idx=np.argsort(topic)[::-1][0:num_top_words]
     topic_words.append([vocab[i] for i in word_idx])
     
-print(topic_words) # 
+print(topic_words) # output results
     
-doctopic=doctopic/np.sum(doctopic,axis=1,keepdims=True)# not sure why doctopic is being redefined here
+doctopic=doctopic/np.sum(doctopic,axis=1,keepdims=True)
     
-text_names=[] # names of texts associated with each topic, according to topic shares in MALLET?        
+text_names=[] # names of texts associated with each topic, according to topic shares in MALLET    
 for fn in filenames:
     
     basename=os.path.basename(fn)
@@ -64,20 +87,20 @@ print(num_groups) # occassionaly, a strange warning comes up:
 doctopic_grouped=np.zeros((num_groups, num_topics)) 
         
 for i, name in enumerate(sorted(set(text_names))):
-    doctopic_grouped[i,:]=np.mean(doctopic[novel_names==name,:],axis=0)
+    doctopic_grouped[i,:]=np.mean(doctopic[text_names==name,:],axis=0)
             
 doctopic=doctopic_grouped
             
-novels=sorted(set(text_names))
+texts=sorted(set(text_names))
             
 print("Top NMF topics in ...")
             
 for i in range(len(doctopic)):
     top_topics=np.argsort(doctopic[i,:])[::-1][0:3]
-    top_topics_str=' '.join(str(t)for t in top_topics)
-    print("{}:{}".format(novels[i],top_topics_str)) # show top topics per text in corpus
+    top_topics_str=' '.join(str(t)for t in top_topics) # what does this generator do?
+    print("{}:{}".format(texts[i],top_topics_str)) # show top topics per text in corpus
     
-# show top 15 words
+# show top words
 
 for t in range(len(topic_words)):
     

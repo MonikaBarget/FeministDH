@@ -2,7 +2,7 @@
 
 The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
 
-<img src="http://letters1916.maynoothuniversity.ie/static/media/logo-update.8166fb93.png" alt="logo" width="200"/>
+<img src="http://letters1916.maynoothuniversity.ie/static/media/logo-update.8166fb93.png" alt="logo" width="500"/>
 
 Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Maastricht University) started the project in 2013.
 

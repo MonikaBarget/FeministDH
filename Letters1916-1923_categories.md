@@ -1,4 +1,4 @@
-| To Change                 |                                    |
+| Category used in the first phase of Letters 1916 until 2018                 |     Category used after the Letters 1916-1923 redesign since 2018  |
 | ------------------------- | ---------------------------------- |
 | Art and literature        | Country and city life              |
 | Battle of the Somme       | World War I, 1914-1918             |
@@ -17,10 +17,10 @@
 | War of Independence       | War of Independence, 1919-1921     |
 | The Rising Tide          | The Rising Tide, 1917-1919         |
 |                           |                                    |
-| No change                 |                                    |
-| Easter Rising Ireland 1916 |                                    |
-| Faith                     |                                    |
-| Last letters before death |                                    |
-| Politics                  |                                    |
-| Medicine                  |                                    |
-| Civil War, 1922-1923     |                                    |
+|                |                                    |
+| Easter Rising Ireland 1916 |     No change                                 |
+| Faith                     |       No change                               |
+| Last letters before death |        No change                              |
+| Politics                  |       No change                               |
+| Medicine                  |       No change                               |
+| Civil War, 1922-1923     |        No change                             |

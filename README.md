@@ -10,6 +10,8 @@ Since then, circa 6000 letters, telegrams, postcards and notes relating to Irish
 
 The initial quantitative analysis of our metadata categories highlighted the [gender ratio per manually assigned tag / topic](https://github.com/MonikaBarget/FeministDH/blob/master/Fig3_gender%20distribution%20per%20tag.png) in all items uploaded to the Letters 1916-1923 backend by December 2019.
 
+
+
 In this way, we could uncover themes that were [predominantly addressed by women](https://github.com/MonikaBarget/FeministDH/blob/master/Fig2_topics%20covered%20by%20women_grayscale.png).
 
 A topic model helped us compare an automated analysis of the corpus with the tags previously selected by project members and volunteers. Some thematic shifts that occurred when the collection period was expanded became clearer and raised further questions on the role(s) of Irish women from different social and cultural backgrounds.

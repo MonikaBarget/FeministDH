@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# based on tutorial provided by Allen Riddell (https://github.com/ariddell)
+
 # import necessary modules
 
 import os
@@ -16,7 +18,7 @@ nltk.download('stopwords')
 
 my_stopwords=stopwords.words('en_letters')
 my_stopwords.extend(['x2014', '39', 'st', 'quot', 'us', 'didn', 'couldn', 'shouldn', 'wouldn', '000']) # extend list if necessary
-print(my_stopwords)
+print(my_stopwords) # show updated stop word list (optional)
 
 # read .txt files to be analysed from directory
 
@@ -49,7 +51,10 @@ num_topics=18 # no. of topics
 
 num_top_words=25 # no. of words per topic to be displayed
 
-clf=decomposition.NMF(n_components=num_topics, random_state=1)
+clf=decomposition.NMF(n_components=num_topics, random_state=1) # Non-Negative Matrix Factorization (NMF)
+
+# for full documentation see: 
+# https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html#sklearn.decomposition.NMF
 
 doctopic=clf.fit_transform(dtm) 
 
@@ -63,7 +68,7 @@ print(topic_words) # output results
     
 doctopic=doctopic/np.sum(doctopic,axis=1,keepdims=True)
     
-text_names=[] # names of texts associated with each topic, according to topic shares in MALLET    
+text_names=[] # names of texts associated with each topic, corresponding to topic shares in MALLET    
 for fn in filenames:
     
     basename=os.path.basename(fn)
@@ -80,9 +85,7 @@ doctopic_orig=doctopic.copy()
 print(doctopic_orig)
         
 num_groups=len(set(text_names))
-print(num_groups) # occassionaly, a strange warning comes up: 
-# C:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:38:
-# RuntimeWarning: invalid value encountered in true_divide
+print(num_groups) 
         
 doctopic_grouped=np.zeros((num_groups, num_topics)) 
         

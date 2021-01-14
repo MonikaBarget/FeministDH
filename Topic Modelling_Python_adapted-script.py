@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# based on tutorial provided by Allen Riddell (https://github.com/ariddell)
+# script for topic modelling based on Scikit Learn and NLTK stopword list
+# adapted from tutorial provided by Allen Riddell (https://github.com/ariddell)
 
 # import necessary modules
 
@@ -28,9 +29,7 @@ filenames=sorted([os.path.join(CORPUS_PATH, fn) for fn in os.listdir(CORPUS_PATH
 print(len(filenames)) # count files in corpus
 print(filenames[:10]) # print names of 1st ten files in corpus
 
-# apply stopword list and vectorise data
-
-vectorizer=text.CountVectorizer(input='filename', stop_words=my_stopwords, min_df=1) 
+vectorizer=text.CountVectorizer(input='filename', stop_words=my_stopwords, min_df=1) # apply stopword list and vectorise data
 
 # min_df: float in range [0.0, 1.0] or int, default=1
 # When building the vocabulary ignore terms that have a document frequency 
@@ -102,15 +101,16 @@ doctopic=doctopic_grouped
             
 texts=sorted(set(text_names))
             
-print("Top NMF topics in ...")
+print("Top NMF topics in ...") 
             
 for i in range(len(doctopic)):
     top_topics=np.argsort(doctopic[i,:])[::-1][0:3]
     top_topics_str=' '.join(str(t)for t in top_topics) 
     print("{}:{}".format(texts[i],top_topics_str)) # show top topics per text in corpus
-    
-# show top words
 
 for t in range(len(topic_words)):
     
-    print("Topic{}:{}".format(t, ' '.join(topic_words[t][:31])))
+    print("Topic{}:{}".format(t, ' '.join(topic_words[t][:31]))) # show topic words according to indicated range
+
+print("done") # confirm successful completion
+

@@ -56,6 +56,12 @@ clf=decomposition.NMF(n_components=num_topics, random_state=1) # Non-Negative Ma
 # for full documentation see: 
 # https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html#sklearn.decomposition.NMF
 
+# random_state : int
+# RandomState instance or None, optional (default=None)
+# If int, random_state is the seed used by the random number generator; 
+# If RandomState instance, random_state is the random number generator; 
+# If None, the random number generator is the RandomState instance used by np.random.
+
 doctopic=clf.fit_transform(dtm) 
 
 topic_words=[] # list of most prominent words associated with topics
@@ -78,7 +84,7 @@ for fn in filenames:
 
 text_names=np.asarray(text_names) # turn into array to use NumPy function
         
-# print(text_names) # list all file names in corpus
+print(text_names) # list all file names in corpus (optional)
         
 doctopic_orig=doctopic.copy()
         
@@ -100,7 +106,7 @@ print("Top NMF topics in ...")
             
 for i in range(len(doctopic)):
     top_topics=np.argsort(doctopic[i,:])[::-1][0:3]
-    top_topics_str=' '.join(str(t)for t in top_topics) # what does this generator do?
+    top_topics_str=' '.join(str(t)for t in top_topics) 
     print("{}:{}".format(texts[i],top_topics_str)) # show top topics per text in corpus
     
 # show top words

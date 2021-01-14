@@ -109,7 +109,6 @@ for i in range(len(doctopic)):
     print("{}:{}".format(texts[i],top_topics_str)) # show top topics per text in corpus
 
 for t in range(len(topic_words)):
-    
     print("Topic{}:{}".format(t, ' '.join(topic_words[t][:31]))) # show topic words according to indicated range
 
 print("done") # confirm successful completion

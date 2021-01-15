@@ -1,4 +1,4 @@
-![home](https://github.com/MonikaBarget/FeministDH/blob/master/home-button.png)
+<a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="https://github.com/MonikaBarget/FeministDH/blob/master/home-button.png"></a>
 **Topic model of fully-transcribed correspondence in *Letters 1916-1923***
 
 <img src="Top NMF topics_full data dump 2019.png" alt="topics in 2019 data dump" target="_blank">

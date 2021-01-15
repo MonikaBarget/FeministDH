@@ -20,7 +20,7 @@ A topic model helped us compare an automated analysis of the corpus with the tag
 
 *More detailed analyses and links to our data:*
 
-[Topic model of the 2019 data dump](https://monikabarget.github.io/FeministDH/TopicModel2019.html)
+[Topic model of 3049 fully transcribed letters](https://monikabarget.github.io/TopicModel_Letters1916-1923.html)
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 

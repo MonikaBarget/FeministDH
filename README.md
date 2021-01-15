@@ -1,4 +1,3 @@
-## Feminst DH
 ### Women's agency and networks in Ireland (1915-1923)
 
 The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.

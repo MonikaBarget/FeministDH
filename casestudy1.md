@@ -1,3 +1,5 @@
+![home](https://cdn4.iconfinder.com/data/icons/mono-color-web-mobile/250/Home-512.png)
+
 **Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919**
 
 The first case study relates to the *production of medical supplies for war hospitals* in the United Kingdom and abroad, carried out by female volunteers across Ireland. The collection of sphagnum moss used to make wound dressings was an especially important Irish contribution to the British war effort in the First World War.

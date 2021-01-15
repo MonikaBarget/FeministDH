@@ -1,4 +1,7 @@
-Please address all requests to:
+The visualisations in this repository are based on data from the [Letters 1916-1923](www.letters1916.ie) project curated by Prof. Susan Schreibman (Maastricht University).
+A research paper detailing the analysis of women's correspondence from the collection has been co-authored by Susan Schreibman and Monika Barget and will appear in print the collective volume "Feminist DH" to be published in 2021.
+
+Please address all requests concerning this repository to:
 
 Monika Barget
 

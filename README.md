@@ -12,15 +12,13 @@ Since then, circa 6000 letters, telegrams, postcards and notes relating to Irish
 
 The initial quantitative analysis of our metadata categories highlighted the [gender ratio per manually assigned tag / topic](https://github.com/MonikaBarget/FeministDH/blob/master/Letters_gender-distribution-per-tag.png) in all items uploaded to the Letters 1916-1923 backend by December 2019.
 
-
-
 In this way, we could uncover themes that were [predominantly addressed by women](https://github.com/MonikaBarget/FeministDH/blob/master/Letters_topics-covered-by-women.png).
 
-A topic model helped us compare an automated analysis of the corpus with the tags previously selected by project members and volunteers. Some thematic shifts that occurred when the collection period was expanded became clearer and raised further questions on the role(s) of Irish women from different social and cultural backgrounds.
+[Topic modelling](https://monikabarget.github.io/FeministDH/TopicModel_Letters1916-1923.html) helped us compare an automated analysis of the corpus with the tags selected by project members and volunteers when adding items to the collection. This comparison highlighted thematic shifts that occurred as the collection period expanded and raised further questions on the **role(s) of Irish women** from different social and cultural backgrounds. In the time period we are covering, **gender-identity** was inherently linked to what people could or could not do and how they behaved in various social settings. Womanhood, for example, was linked to being a mother (or someone caring for family members more generally), a religious sister, a teacher, or a nurse. In rare cases, women could occupy other professions or become politically active, but even in times of crisis and war, pushing gender boundaries was only socially acceptable if women continued to publicly embrace more traditional roles at the same time. The networking and management responsibilities of the wartime volunteers in the [Irish War Hospital Supply Organisation (IWHSO)](https://monikabarget.github.io/FeministDH/casestudy1.html), for instance, were rooted in traditional concepts of upper class female volunteering and feminine dedication to care. Similarly, the politically aware and outspoken women in the Irish-republican [Charlie Daly network](https://monikabarget.github.io/FeministDH/casestudy2.html) were devoted to family values and religion. Meeting society's expectations and (self-)empowerment often went hand in hand, which makes the analysis of female agency in early 20th-century Ireland particularly challenging and exciting.
 
 ***
 
-*More detailed analyses and links to our data:*
+*Detailed analyses and links to our data:*
 
 [Topic model of 3049 fully transcribed letters](https://monikabarget.github.io/FeministDH/TopicModel_Letters1916-1923.html)
 

@@ -1,4 +1,7 @@
-**Topic model of Letters 1916-1923 transcriptions exported in 2019**
+![home](https://github.com/MonikaBarget/FeministDH/blob/master/home-button.png)
+**Topic model of fully-transcribed correspondence in *Letters 1916-1923***
+
+<img src="Top NMF topics_full data dump 2019.png" alt="topics in 2019 data dump" target="_blank">
 
 This topic model was created in 2020 to track the evolution of the collection since the 2016 topic model created by Roman Bleier. Back then, 15 topics were identified that largely corresponded with the tagging system used by the Letters 1916-1923 team. As the collection expanded, the content of the letters became more diverse and a revision of tags was necessary. As volunteers adding letters as well as users searching for letters in the front-end were supposed to work with these tags, we needed to keep their overall number limited. The 2020 topic modelling helped us check the validity of the newly-assigned content tagging.
 
@@ -9,8 +12,6 @@ https://github.com/MonikaBarget/FeministDH/blob/master/TopicModel_fulldata_18top
 ) shows the **18 topics identified as the most meaningful** including our interpretation.
 
 Analysing the relevance of these topics across the 3049 transcriptions, we find that "personal relations" is the most dominant topic overall. This matches the analysis of our manually attributed categories. At the same time, the automated topics give a more nuanced insight into the different aspects of government proceedings and administration covered in our letters. Also, it is interesting that "imprisonment" forms a topic of its own as the Letters 1916-1923 database contains many prison letters from the First World War as well as the Easter Rising and the Irish Civil War. The topics concerning correspondence in Irish and French show that the collection has become more diverse in terms of language as well as content. French (and German) letters in the collection are intervowen with the First World War (e.g. the aristocratic Ballindoolin collection), whereas Irish letters predominantly come from Irish-Republican circles between 1918 and 1923. Possibilities for more advanced topic modelling in the future may be to exclude particularly ambivalent expressions and to work with translations of foreign words. 
-
-<img src="Top NMF topics_full data dump 2019.png" alt="5 topics in Daly letters" target="_blank">
 
 Please check the [data table](https://github.com/MonikaBarget/FeministDH/blob/master/Top%20NFM%20topics_full%20data_18%20TOPICS.csv) for details. For insights into the challenges of working with multilingual corpora or corpora that contain outdated forms of English, consult [issue #17929 in the Scikit Learn issue tracker](https://github.com/scikit-learn/scikit-learn/issues/17292). 
 

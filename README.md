@@ -30,31 +30,31 @@ In this way, we could uncover themes that were [predominantly addressed by women
 
 *Selected blog posts on women's stories in the Letters 1916-1923 collection:*
 
-<img src="./Logos/Logo_IWHSO.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Irish War Hospital Supply Organisation (1):**](http://letters1916.maynoothuniversity.ie/wp-post/women-in-the-irish-war-hospital-supply-organisation-help-us-uncover-forgotten-stories-of-the-first-world-war-part-1) "The Letters 1916-1923 team collect and publish Irish-themed letters, but we are also actively analysing the life stories of the people whose correspondence we add to our database. At the moment, we are trying to find out more about the volunteers who were involved in the Irish War Hospital Supply Organisation (till spring 1919), helping to produce and ship surgical supplies for military hospitals ..."
+<img src="./Logos/Logo_IWHSO.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Irish War Hospital Supply Organisation (1):**](http://letters1916.ie/wp-post/women-in-the-irish-war-hospital-supply-organisation-help-us-uncover-forgotten-stories-of-the-first-world-war-part-1) "The Letters 1916-1923 team collect and publish Irish-themed letters, but we are also actively analysing the life stories of the people whose correspondence we add to our database. At the moment, we are trying to find out more about the volunteers who were involved in the Irish War Hospital Supply Organisation (till spring 1919), helping to produce and ship surgical supplies for military hospitals ..."
 
 ***
 
-<img src="./Logos/Logo_Nurse.jpg" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Irish War Hospital Supply Organisation (2):**](http://letters1916.maynoothuniversity.ie/wp-post/women-in-the-irish-war-hospital-supply-organisation-help-us-uncover-forgotten-stories-of-the-first-world-war-part-2) "The biographies of women who worked in the Irish War Hospital Supply Organisation are a major research interest of the Letters 1916-1923 team, and we need your help in uncovering these forgotten stories."<br/><br/>
-
-
-***
-
-<img src="./Logos/Logo_Women.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**International Women's Day 2018:**](http://letters1916.maynoothuniversity.ie/wp-post/iwd-2018) "8th March is International Women's Day and people around the world are celebrating the social, economic, cultural and political achievement of women. To mark the day, we would like to highlight some of the women from the Letters of 1916 collection."<br/><br/>
+<img src="./Logos/Logo_Nurse.jpg" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Irish War Hospital Supply Organisation (2):**](http://letters1916.ie/wp-post/women-in-the-irish-war-hospital-supply-organisation-help-us-uncover-forgotten-stories-of-the-first-world-war-part-2) "The biographies of women who worked in the Irish War Hospital Supply Organisation are a major research interest of the Letters 1916-1923 team, and we need your help in uncovering these forgotten stories."<br/><br/>
 
 
 ***
 
-<img src="./Logos/Logo_Daily.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Daly collection:**](http://letters1916.maynoothuniversity.ie/wp-post/women-daly) "We need your detective skills to help us find out more information about the women in the Daly collection which we recently acquired  from the Kerry Library Archives. We have already processed some of the Daly letters which are available to read and transcribe."<br/><br/>
+<img src="./Logos/Logo_Women.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**International Women's Day 2018:**](http://letters1916.ie/wp-post/iwd-2018) "8th March is International Women's Day and people around the world are celebrating the social, economic, cultural and political achievement of women. To mark the day, we would like to highlight some of the women from the Letters of 1916 collection."<br/><br/>
 
 
 ***
 
-<img src="./Logos/Logo_Votes.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women's Suffrage in the Letters 1916-1923 collection:**](http://letters1916.maynoothuniversity.ie/wp-post/womens-suffrage) "2018 marked 100 years since Irish women over the age of 30 were granted the right to vote. The Letters 1916-1923 collection contains correspondence relating to the struggle for increased women’s rights and we have chosen some interesting highlights from the collection, e.g. the Sheehy Skeffington Papers."<br/><br/>
+<img src="./Logos/Logo_Daily.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in the Daly collection:**](http://letters1916.ie/wp-post/women-daly) "We need your detective skills to help us find out more information about the women in the Daly collection which we recently acquired  from the Kerry Library Archives. We have already processed some of the Daly letters which are available to read and transcribe."<br/><br/>
 
 
 ***
 
-<img src="./Logos/Logo_Martin.jpg" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in WW1: Marie Martin:**](http://letters1916.maynoothuniversity.ie/wp-post/women-ww1-marie-martin) "At the height of World War 1 over 375,000 letters were being processed a day and 12.5 million letters left the British home depot every week. During the First World War letters to and from the front served an extremely important purpose. Letters were one of the sole comforts a soldier at the front could count on and their replies reassured those waiting at home..."<br/><br/>
+<img src="./Logos/Logo_Votes.png" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women's Suffrage in the Letters 1916-1923 collection:**](http://letters1916.ie/wp-post/womens-suffrage) "2018 marked 100 years since Irish women over the age of 30 were granted the right to vote. The Letters 1916-1923 collection contains correspondence relating to the struggle for increased women’s rights and we have chosen some interesting highlights from the collection, e.g. the Sheehy Skeffington Papers."<br/><br/>
+
+
+***
+
+<img src="./Logos/Logo_Martin.jpg" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in WW1: Marie Martin:**](http://letters1916.ie/wp-post/women-ww1-marie-martin) "At the height of World War 1 over 375,000 letters were being processed a day and 12.5 million letters left the British home depot every week. During the First World War letters to and from the front served an extremely important purpose. Letters were one of the sole comforts a soldier at the front could count on and their replies reassured those waiting at home..."<br/><br/>
 
 ***
 

@@ -3,7 +3,7 @@
 
 The first case study relates to the *production of medical supplies for war hospitals* in the United Kingdom and abroad, carried out by female volunteers across Ireland. The collection of sphagnum moss used to make wound dressings was an especially important Irish contribution to the British war effort in the First World War.
 
-Data from the Letters 1916-1923 collection as well as newspaper articles and government reports have been used to map the activities of women's work groups between 1915 and 1919.
+<img src="./Logos/Logo_IWHSO.png" alt="logo" align="left" style="padding-right:10px" width="250"/> Data from the Letters 1916-1923 collection as well as newspaper articles and government reports have been used to map the activities of women's work groups between 1915 and 1919.
 
 The [zoomable map of IWHSO managers in Connacht](https://monikabarget.github.io/FeministDH/IWHSOConnacht_interactive.html) shows centres of medical supply production in the west of Ireland between 1915 and 1917. Please click on individual orange dots to read the labels. All women (and one man) mentioned here were officially part of the Galway branch although some of them came from places in neighbouring counties. One woman counted among the Galway volunteers was stationed in Malta, most likely in a British war hospital.
 

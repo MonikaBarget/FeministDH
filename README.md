@@ -4,7 +4,7 @@
 
 The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
 
-<img src="http://letters1916.maynoothuniversity.ie/static/media/logo-update.8166fb93.png" alt="logo" align="left" style="float:left; padding:16px" width="300"/>
+<img src="https://github.com/MonikaBarget/FeministDH/blob/master/Logos/logo-update.png" alt="logo" align="left" style="float:left; padding:16px" width="300"/>
 
 Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Maastricht University) started the project in 2013.
 
@@ -60,3 +60,10 @@ In this way, we could uncover themes that were [predominantly addressed by women
 ***
 
 [Contact](https://monikabarget.github.io/FeministDH/contact-us.html)
+
+***
+
+The Letters 1916-1923 project has received generous funding from the Irish Research Council and is currently hosted by NUI Maynooth.
+
+<img src="https://github.com/MonikaBarget/FeministDH/blob/master/Logos/IRC_LOGO_White.png" alt="logo" align="left" style="padding-right:10px" width="250"/> 
+<img src="https://github.com/MonikaBarget/FeministDH/blob/master/Logos/mu-logo-white-footer.png" alt="logo" align="left" style="padding-right:10px" width="250"/> 

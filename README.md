@@ -64,8 +64,10 @@ The Letters 1916-1923 project has received generous funding from the Irish Resea
 <img src="./Logos/IRC_LOGO_White.png" alt="logo" align="left" style="padding-right:10px" width="250"/> 
 <img src="./Logos/mu-logo-white-footer.png" alt="logo" align="right" style="padding-right:10px" width="250"/> 
 
+***
+
 [Contact](https://monikabarget.github.io/FeministDH/contact-us.html)
 
-***
+
 
 

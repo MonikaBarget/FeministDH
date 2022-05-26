@@ -56,14 +56,6 @@ In this way, we could uncover themes that were [predominantly addressed by women
 
 <img src="./Logos/Logo_Martin.jpg" alt="logo" align="left" style="padding-right:10px" width="250"/> [**Women in WW1: Marie Martin:**](http://letters1916.maynoothuniversity.ie/wp-post/women-ww1-marie-martin) "At the height of World War 1 over 375,000 letters were being processed a day and 12.5 million letters left the British home depot every week. During the First World War letters to and from the front served an extremely important purpose. Letters were one of the sole comforts a soldier at the front could count on and their replies reassured those waiting at home..."<br/><br/>
 
-
-***
-
-The Letters 1916-1923 project has received generous funding from the Irish Research Council and is currently hosted by NUI Maynooth.
-
-<img src="./Logos/IRC_LOGO_White.png" alt="logo" align="left" style="padding-right:10px" width="250"/> 
-<img src="./Logos/mu-logo-white-footer.png" alt="logo" align="right" style="padding-right:10px" width="250"/> 
-
 ***
 
 [Contact](https://monikabarget.github.io/FeministDH/contact-us.html)

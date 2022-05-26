@@ -1,19 +1,17 @@
-<a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="https://github.com/MonikaBarget/FeministDH/blob/master/home-button.png"></a>
+<a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="./home-button.png" align="left" style="padding-right:10px"></a>
 The visualisations in this repository are based on data from the [Letters 1916-1923](www.letters1916.ie) project curated by Prof. Susan Schreibman (Maastricht University).
 A research paper detailing the analysis of women's correspondence from the collection has been co-authored by Susan Schreibman and Monika Barget and will appear in print the collective volume "Feminist DH" to be published in 2021.
 
 Please address all requests concerning this repository to:
 
-Monika Barget
+@MonikaBarget
 
-*Leibniz Institut für Europäische Geschichte*
+***
 
-Wiss. Mitarbeiterin, Digitale historische Forschung
-Raum: 03-06, Diether-von-Isenburg-Str. 9-11, 55116 Mainz (Besucheranschrift)
-Tel: +49 6131 39 26975
-Fax: +49 6131 39 35326
+The Letters 1916-1923 project has received generous funding from the Irish Research Council and is currently hosted by NUI Maynooth.
 
-[E-Mail](mailto:barget@ieg-mainz.de)
+<img src="./Logos/IRC_LOGO_White.png" alt="logo" align="left" style="padding-right:10px" width="250"/> 
+<img src="./Logos/mu-logo-white-footer.png" alt="logo" align="right" style="padding-right:10px" width="250"/> 
 
 [HOME](https://monikabarget.github.io/FeministDH/)
 

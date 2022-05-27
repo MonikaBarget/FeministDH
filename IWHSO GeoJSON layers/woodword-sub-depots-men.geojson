@@ -1,0 +1,149 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.98028,52.99139 ]
+    },
+    "properties": {
+    "Source":"Nationalist and Leinster Times 1883-current, Saturday, January 06, 1917; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Athy",
+    "Full Address":"Athy Ireland ",
+    "County (ancient)":"#",
+    "County (modern)":"Kildare",
+    "Opened":"Dec. 1915",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"Painting",
+    "First and middle names":"H.",
+    "Gender":"m",
+    "Marital status":"not stated",
+    "Collaborators":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1338666,53.2943958 ]
+    },
+    "properties": {
+    "Source":"Freemans Journal 1763-1924, Friday, March 22, 1918; Page: 2",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Kingstown (Dún Laoghaire)",
+    "Full Address":"Kingstown (Dún Laoghaire) Ireland ",
+    "County (ancient)":"Dublin",
+    "County (modern)":"#",
+    "Opened":"1918",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"Sir Dunbar Plunket Barton (baronet)",
+    "First and middle names":"#",
+    "Gender":"m",
+    "Marital status":"#",
+    "Collaborators":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.659308,53.2205654 ]
+    },
+    "properties": {
+    "Source":"Nationalist and Leinster Times 1883-current, Saturday, January 06, 1917; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"not stated",
+    "Town":"Naas",
+    "Full Address":"Naas Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"Kildare",
+    "Opened":"Dec. 1915",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"Halsall",
+    "First and middle names":"John R.",
+    "Gender":"m",
+    "Marital status":"not stated",
+    "Collaborators":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6966605,53.647092 ]
+    },
+    "properties": {
+    "Source":"Leinster Leader 1881-1929, Saturday, December 23, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"NAVAN TECHNICAL SCHOOL",
+    "Town":"Navan",
+    "Full Address":"Navan Ireland ",
+    "County (ancient)":"Kildare",
+    "County (modern)":"#",
+    "Opened":"Dec. 1916",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"the teachers",
+    "First and middle names":"#",
+    "Gender":"m",
+    "Marital status":"not stated",
+    "Collaborators":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6999325,52.2713096 ]
+    },
+    "properties": {
+    "Source":"Kerry Sentinel 1878-1916, Wednesday, December 13, 1916; Page: 3",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"TRALEE TECHNICAL SCHOOL",
+    "Town":"Tralee",
+    "Full Address":"Tralee Ireland ",
+    "County (ancient)":"Kerry",
+    "County (modern)":"Kerry",
+    "Opened":"Dec. 1916",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"the teachers",
+    "First and middle names":"#",
+    "Gender":"m",
+    "Marital status":"#",
+    "Collaborators":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.34917,-7.41306 ]
+    },
+    "properties": {
+    "Source":"Munster Express 03.08.1918; page 4",
+    "Unit no.":"none",
+    "Function":"woodwork sub-depot (men's section)",
+    "Work party / supply depot address":"The Castle",
+    "Town":"Carrick-on-Suir",
+    "Full Address":"Carrick-on-Suir Ireland",
+    "County (ancient)":"Tipperary",
+    "County (modern)":"Tipperary",
+    "Opened":"Jan. 1917",
+    "Closed":"[1919]",
+    "Established / run by (last name)":"Rev. Canon Kellett (from Piltown, Kilkenny)",
+    "First and middle names":"#",
+    "Gender":"m",
+    "Marital status":"#",
+    "Collaborators":"#"
+    }
+  }
+]
+}

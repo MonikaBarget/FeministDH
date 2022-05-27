@@ -1,4 +1,4 @@
-<a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="./home-button.png" align="left" style="padding-right:10px"></a>
+<a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="./home-button.png" align="left" style="padding-right:10px" width="45px"></a>
 **Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923**
 
 The second case study focusses on the Charlie Daly collection from Co. Kerry, one of Ireland's most important collections of republican correspondence relating to the Civil War (1922-1923).

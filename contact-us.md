@@ -4,7 +4,7 @@ A research paper detailing the analysis of women's correspondence from the colle
 
 Please address all requests concerning this repository to:
 
-@MonikaBarget
+[@MonikaBarget](https://github.com/MonikaBarget)
 
 ***
 

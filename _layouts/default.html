@@ -15,18 +15,15 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-
       {%  include download.html %}
       <hr/>
-        
+      
       <nav id="menu" class="clearfix">
-           <a href="https://monikabarget.github.io/FeministDH/publications"><img src="./Logos/publications.png" alt="logo" align="right" style="padding:16px" width="50px"/></a>
-           <a href="https://monikabarget.github.io/FeministDH/contact-us"><img src="./Logos/mail.png" alt="logo" align="right" style="padding:16px" width="50px"/></a>
+           <a href="https://monikabarget.github.io/FeministDH/publications"><img src="./Logos/publications.png" alt="logo" align="right" style="padding:10px" width="50px"/></a>
+           <a href="https://monikabarget.github.io/FeministDH/contact-us"><img src="./Logos/mail.png" alt="logo" align="right" style="padding:10px" width="50px"/></a>
            <a href="https://monikabarget.github.io/FeministDH/"><img alt="home" src="./home-button.png" align="left" style="padding-right:10px" width="50px"></a>       
       </nav>
         
-     
-
       <section id="main_content">
         {{ content }}
       </section>
@@ -36,5 +33,4 @@
     </div>
   </div>
 </body>
-
 </html>

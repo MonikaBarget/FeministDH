@@ -1,8 +1,9 @@
 theme: jekyll-theme-tactile
 
 header_pages:
-  - TopicModel_Letters1916-1923.md
-  - casestudy1.md
-  - casestudy2.md
-  - publications.md
-  - contact-us.md
+  - url: deployment.html
+  - url: TopicModel_Letters1916-1923.html
+  - url: casestudy1.html
+  - url: casestudy2.html
+  - url: publications.html
+  - url: contact-us.html

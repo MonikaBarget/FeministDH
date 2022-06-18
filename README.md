@@ -1,5 +1,5 @@
 
-<a href="https://github.com/MonikaBarget/FeministDH/blob/master/publications.md"><img src="./Logos/publications.png" alt="logo" align="right" style="padding:16px" width="100"/><img src="./Logos/mail.png" alt="logo" align="right" style="padding:16px" width="100"/></a>
+<a href="https://github.com/MonikaBarget/FeministDH/blob/master/publications.md"><img src="./Logos/publications.png" alt="logo" align="right" style="padding:16px" width="100"/></a>
 <a href="https://github.com/MonikaBarget/FeministDH/blob/master/contact-us.md"><img src="./Logos/mail.png" alt="logo" align="right" style="padding:16px" width="100"/></a>
 
 ### Women's agency and networks in Ireland (1915-1923)

@@ -1,14 +1,6 @@
 ### Women's agency and networks in Ireland (1915-1923)
 
-The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project. The maps illustrating the development of Irish women's contributions to the British World War I efforts accompany a June 2022 open access publication in the <em>Women's History Review</em>:
-
-<img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rwhr20" alt="T&F logo" align="left" style="float:left; padding:16px" width="100"/>
-
-<a href="https://www.tandfonline.com/doi/full/10.1080/09612025.2021.2006510">Irish women’s wartime networks: care work and female agency on the first world war home front</a>
-
-<blockquote>This article is a contribution to the growing body of literature that seeks to recover the experience of women on the Irish home front during the Great War. We focus specifically on women who were involved in unpaid wartime supply production and logistics in the vast imperial network of wartime relief crucial to the British war effort. This article draws upon recent scholarship on care work, arguing that the British Expeditionary Force as a micro economy relied on the unpaid labour of women, particularly women of the middle and upper classes, who were prevented by societal norms from participating in paid labour, to ensure the efficient flow of medical supplies. This unpaid work was largely carried out via the Irish War Hospital Supply Organisation (IWHSO), part of a UK-wide network established during the war to furnish troops with medical supplies which could not be met via regular military channels. We argue that this industrialised care work needs to be analysed within the larger context of a professionalisation of private networks and with a view to Ireland’s growing interconnectedness as a result of modernisation.</blockquote>
-
-A more general book chapter on distant reading different women-related corpora of letters in the Letters 1916-1923 collection will appear in the volume <em>Feminist DH</em> co-edited by Susan Schreibman.
+The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
 
 <img src="./Logos/logo-update.png" alt="logo" align="left" style="float:left; padding:16px" width="300"/>
 
@@ -22,7 +14,7 @@ In this way, we could uncover themes that were [predominantly addressed by women
 
 [Topic modelling](https://monikabarget.github.io/FeministDH/TopicModel_Letters1916-1923.html) helped us compare an automated analysis of the corpus with the tags selected by project members and volunteers when adding items to the collection. This comparison highlighted thematic shifts that occurred as the collection period expanded and raised further questions on the **role(s) of Irish women** from different social and cultural backgrounds. In the time period we are covering, **gender-identity** was inherently linked to what people could or could not do and how they behaved in various social settings. Womanhood, for example, was linked to being a mother (or someone caring for family members more generally), a religious sister, a teacher, or a nurse. In rare cases, women could occupy other professions or become politically active, but even in times of crisis and war, pushing gender boundaries was only socially acceptable if women continued to publicly embrace more traditional roles at the same time. The networking and management responsibilities of the wartime volunteers in the [Irish War Hospital Supply Organisation (IWHSO)](https://monikabarget.github.io/FeministDH/casestudy1.html), for instance, were rooted in traditional concepts of upper class female volunteering and feminine dedication to care. Similarly, the politically aware and outspoken women in the Irish-republican [Charlie Daly network](https://monikabarget.github.io/FeministDH/casestudy2.html) were devoted to family values and religion. Meeting society's expectations and (self-)empowerment often went hand in hand, which makes the analysis of female agency in early 20th-century Ireland particularly challenging and exciting.
 
-***
+<hr>
 
 *Detailed analyses and links to our data:*
 
@@ -32,7 +24,23 @@ In this way, we could uncover themes that were [predominantly addressed by women
 
 [Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923](https://monikabarget.github.io/FeministDH/casestudy2.html)
 
-***
+<hr>
+
+*Related academic publications:*
+
+The maps illustrating the development of Irish women's contributions to the British World War I efforts accompany a June 2022 open access publication in the <em>Women's History Review</em>:
+
+<img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rwhr20" alt="T&F logo" align="left" style="float:left; padding:16px" width="100"/>
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/09612025.2021.2006510">Irish women’s wartime networks: care work and female agency on the first world war home front</a>
+
+<strong>Abstract:</strong>
+
+<blockquote>This article is a contribution to the growing body of literature that seeks to recover the experience of women on the Irish home front during the Great War. We focus specifically on women who were involved in unpaid wartime supply production and logistics in the vast imperial network of wartime relief crucial to the British war effort. This article draws upon recent scholarship on care work, arguing that the British Expeditionary Force as a micro economy relied on the unpaid labour of women, particularly women of the middle and upper classes, who were prevented by societal norms from participating in paid labour, to ensure the efficient flow of medical supplies. This unpaid work was largely carried out via the Irish War Hospital Supply Organisation (IWHSO), part of a UK-wide network established during the war to furnish troops with medical supplies which could not be met via regular military channels. We argue that this industrialised care work needs to be analysed within the larger context of a professionalisation of private networks and with a view to Ireland’s growing interconnectedness as a result of modernisation.</blockquote>
+
+A more general book chapter on distant reading different women-related corpora of letters in the Letters 1916-1923 collection will appear in the volume <em>Feminist DH</em> co-edited by Susan Schreibman.
+
+<hr>
 
 *Selected blog posts on women's stories in the Letters 1916-1923 collection:*
 

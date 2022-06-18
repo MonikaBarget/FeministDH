@@ -1,3 +1,6 @@
+
+<img src="./Logos/publications.png" alt="logo" align="right" style="float:right; padding:16px" width="200"/><img src="./Logos/mail.png" alt="logo" align="right" style="float:right; padding:16px" width="200"/>
+
 ### Women's agency and networks in Ireland (1915-1923)
 
 The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.

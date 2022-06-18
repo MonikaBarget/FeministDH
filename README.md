@@ -2,6 +2,7 @@
 
 The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project. The maps illustrating the development of Irish women's contributions to the British World War I efforts accompany a June 2022 open access publication in the <em>Women's History Review</em>:
 
+<img src="https://www.tandfonline.com/action/showCoverImage?journalCode=rwhr20" alt="T&F logo" align="left" style="float:left; padding:16px" width="100"/>
 <a href="https://www.tandfonline.com/doi/full/10.1080/09612025.2021.2006510">Irish women’s wartime networks: care work and female agency on the first world war home front</a>
 
 A more general book chapter on distant reading different women-related corpora of letters in the Letters 1916-1923 collection will appear in the volume <em>Feminist DH</em> co-edited by Susan Schreibman.

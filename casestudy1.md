@@ -1,10 +1,3 @@
----
-layout: default
-published: true
-title: Case Study 1
-order: 1
----
-
 
 **Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919**
 

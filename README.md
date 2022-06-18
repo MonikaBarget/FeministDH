@@ -1,10 +1,14 @@
 ### Women's agency and networks in Ireland (1915-1923)
 
-The visualisations presented here were created using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
+The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project. The maps illustrating the development of Irish women's contributions to the British World War I efforts accompany a June 2022 open access publication in the <em>Women's History Review</em>:
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/09612025.2021.2006510">Irish women’s wartime networks: care work and female agency on the first world war home front</a>
+
+A more general book chapter on distant reading different women-related corpora of letters in the Letters 1916-1923 collection will appear in the volume <em>Feminist DH</em> co-edited by Susan Schreibman.
 
 <img src="./Logos/logo-update.png" alt="logo" align="left" style="float:left; padding:16px" width="300"/>
 
-Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Maastricht University) started the project in 2013.
+Prof. Susan Schreibman (formerly Trinity College Dublin and NUI Maynooth, now Maastricht University) started the Letters 1916-1923 project in 2013.
 
 Since then, circa 6000 letters, telegrams, postcards and notes relating to Irish history between December 1915 and the end of the Civil War in 1923 have been collected from 36 private and 29 public archives.
 

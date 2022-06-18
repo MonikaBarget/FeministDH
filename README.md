@@ -1,6 +1,6 @@
 ### Women's agency and networks in Ireland (1915-1923)
 
-The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
+<p text-align:"justify">The visualisations presented here were created by Monika Barget and Susan Schreibman, using metadata and transcriptions from the ["Letters 1916-1923"](http://letters1916.maynoothuniversity.ie/) project.
 
 <img src="./Logos/logo-update.png" alt="logo" align="left" style="float:left; padding:16px" width="300"/>
 
@@ -22,7 +22,7 @@ In this way, we could uncover themes that were [predominantly addressed by women
 
 [Case Study 1: the Irish War Hospital Supply Organisation (IWHSO), 1915-1919](https://monikabarget.github.io/FeministDH/casestudy1.html)
 
-[Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923](https://monikabarget.github.io/FeministDH/casestudy2.html)
+[Case Study 2: female correspondents in the Charlie Daly collection from County Kerry, 1922-1923](https://monikabarget.github.io/FeministDH/casestudy2.html)</p>
 
 <hr>
 

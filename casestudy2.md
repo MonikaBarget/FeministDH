@@ -9,7 +9,7 @@ Topic modelling and network analysis were used to understand the connections bet
 
 <p align="justify">The following network graph shows the Daly family's correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019. Pink nodes are male correspondents, green nodes are female correspondents and blue nodes are correspondents whose gender we could not identify. Other node colours refer to groups of people writing or receiving letters. The edges (connecting lines) stand for the letters exchanged and inherit the colour of the author node. Brown nodes stand for bi-directional correspondence.</p> 
 
- <img src="Daly_network_19May2020.png" alt="Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019" target="_blank"> 
+ <img src="Daly_network_19May2020.png" alt="Daly family correspondence network of 288 letters added to Letters 1916-1923 by autumn 2019" target="_blank" width="500px"> 
 
 <p align="justify"><strong>Based on this visualisation, we can make the following observations:</strong>
  
@@ -30,10 +30,10 @@ The data (incl. attributes) used to create this network can be consulted in thes
 
 A **topic model** of the Daly letters which have already been described gives insight into the content of the correspondence:
 
-<img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank" width="250px">
+<img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank" width="500px">
 
 <p align="justify">Matching these results with gender, we find that letters which were predominantly written in Irish came from women. Men's letters transcribed so far are more likely to contain occassional phrases in Irish.</p>
 
-<img src="Daly_5 topics_distribution by gender.jpg" alt="5 topics in Daly letters" target="_blank" width="250px">
+<img src="Daly_5 topics_distribution by gender.jpg" alt="5 topics in Daly letters" target="_blank" width="500px">
 
 [HOME](https://monikabarget.github.io/FeministDH/)

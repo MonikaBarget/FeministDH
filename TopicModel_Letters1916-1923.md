@@ -1,5 +1,5 @@
 
-<h3>Topic model of fully-transcribed correspondence in Letters 1916-1923<h3>
+<h3>Topic model of fully-transcribed correspondence in Letters 1916-1923</h3>
 
 <img src="Top NMF topics_full data dump 2019.png" alt="topics in 2019 data dump" target="_blank">
 

@@ -3,7 +3,7 @@
 
 <p align="justify">The second case study focusses on the Charlie Daly collection from Co. Kerry, one of Ireland's most important collections of republican correspondence relating to the Civil War (1922-1923).
 
-<img src="./Logos/Logo_Daily.png" alt="logo" align="left" style="padding-right:10px" width="250"/>Almost 50 percent of correspondents in this collection are female, including Charlie Daly's mother, his sisters, female neighbours and family friends like Katherine Allman (Sr. Gertrude).
+<img src="./Logos/Logo_Daily.png" alt="logo" align="left" style="padding-right:10px" width="250px"/>Almost 50 percent of correspondents in this collection are female, including Charlie Daly's mother, his sisters, female neighbours and family friends like Katherine Allman (Sr. Gertrude).
 
 Topic modelling and network analysis were used to understand the connections between these people and to read their letters in the overall context of social and political change in early-twentieth-century Ireland.</p>
 
@@ -30,10 +30,10 @@ The data (incl. attributes) used to create this network can be consulted in thes
 
 A **topic model** of the Daly letters which have already been described gives insight into the content of the correspondence:
 
-<img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank">
+<img src="Daly_5 topics_table of words.png" alt="5 topics in Daly letters" target="_blank" width="250px">
 
 <p align="justify">Matching these results with gender, we find that letters which were predominantly written in Irish came from women. Men's letters transcribed so far are more likely to contain occassional phrases in Irish.</p>
 
-<img src="Daly_5 topics_distribution by gender.jpg" alt="5 topics in Daly letters" target="_blank">
+<img src="Daly_5 topics_distribution by gender.jpg" alt="5 topics in Daly letters" target="_blank" width="250px">
 
 [HOME](https://monikabarget.github.io/FeministDH/)

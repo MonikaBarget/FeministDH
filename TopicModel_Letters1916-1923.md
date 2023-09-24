@@ -5,7 +5,7 @@
 
 <p align="justify">This topic model was created in 2020 (based on data exported in December 2019) to track the evolution of the collection since the <a href="http://gams.uni-graz.at/o:dhd2015.v.005">2016 topic model created by Roman Bleier</a>. Back then, 15 topics were identified that largely corresponded with the manual tagging system used by the *Letters 1916* team. 
   
-<img src="Top NMF topics_full data dump 2019.png" alt="topics in 2019 data dump" target="_blank">
+<img src="https://github.com/MonikaBarget/FeministDH/blob/master/Fig1_RomanBleier_15topics_2016.png" alt="topics in 2019 data dump" target="_blank">
   
 As the collection expanded to cover not only the Easter Rising but also the end of the First World War, the Irish independence and the Irish Civil War, a revision of tags was necessary. As volunteers adding letters as well as users searching for letters in the front-end should not be overwhelmed, we nevertheless needed to limit the overall number of categories. The 2020 topic modelling helped us check the validity of the newly-assigned content tagging.</p>
 
